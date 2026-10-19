@@ -27,7 +27,7 @@ function writeState({push=false}={}){history[push?'pushState':'replaceState'](vi
 function buildCard(a){
   const node=document.createElement('article');node.className='index-card';node.dataset.id=a.id;
   const title=a.originalTitle||a.title,cover=localMedia(a.presentation?.cover);
-  node.innerHTML=`<a class="index-select" href="./articles/${a.id}.html" data-open-article="${a.id}" aria-labelledby="title-${a.id}" aria-haspopup="dialog">${cover?`<div class="card-cover"><img src="${esc(cover)}" width="${a.presentation.coverWidth}" height="${a.presentation.coverHeight}" alt="" loading="lazy" decoding="async"></div>`:''}<h2 id="title-${a.id}" title="${esc(title)}">${esc(title)}</h2></a>
+  node.innerHTML=`<a class="index-select" href="./articles/${a.id}.html" data-open-article="${a.id}" aria-labelledby="title-${a.id}" aria-haspopup="dialog">${cover?`<div class="card-cover"><img src="${esc(cover)}" width="${a.presentation.coverWidth}" height="${a.presentation.coverHeight}" alt="" loading="lazy" decoding="async"></div>`:''}<h2 id="title-${a.id}" title="${esc(title)}">${esc(title)}</h2>${a.presentation?.deck?`<p class="card-guide">${esc(a.presentation.deck)}</p>`:''}</a>
     <div class="card-footer"><div class="card-publication">${external(a.author.url,`@${esc(a.author.handle)}`,'card-handle',`aria-label="${esc(a.author.name)} @${esc(a.author.handle)}" title="${esc(a.author.name)} @${esc(a.author.handle)}"`)}${publishedDate(a)}</div>${metricMarkup(a)}</div>`;
   return node;
 }

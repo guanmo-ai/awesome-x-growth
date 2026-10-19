@@ -8,7 +8,11 @@
 
 当前构建只包含网站运行文件、当前展示数据、独立文章页和必要内容/许可说明。当前展示文章的封面和头像随站点分发；研究候选、历史版本文档和采集缓存不随站点分发。
 
-## 部署前配置
+## 在线文库与部署
+
+在线入口：[guanmo-ai.github.io/awesome-x-growth](https://guanmo-ai.github.io/awesome-x-growth/)。主分支通过检查后，由 GitHub Actions 仅发布 `dist/` 到 GitHub Pages；PR 只运行检查。
+
+当前工作流使用 `SITE_URL=https://guanmo-ai.github.io/awesome-x-growth/`。如迁移站点，需同步更新工作流、README 和仓库 Website 地址。
 
 用已确定的正式 HTTPS 根地址构建：`SITE_URL=https://你的正式域名/ npm run build`。部署在子目录时，根地址须包含完整子目录。构建会写入绝对分享地址、canonical、sitemap 和 robots。
 
