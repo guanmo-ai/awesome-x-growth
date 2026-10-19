@@ -1,0 +1,476 @@
+[
+  {
+    "id": "cn-start",
+    "title": "起号怎么开始？",
+    "question": "从主页定位，到第一篇代表作。",
+    "intro": "先看三个起点不同的案例，找到你已有的经验可以帮助谁。",
+    "path": true,
+    "goal": "start",
+    "points": [
+      {
+        "title": "先说清你能提供什么",
+        "body": "Roland 的指南强调具体身份和长期主题；萝卜哥的复盘把被识别与作品吸引分开讨论。先检查主页能否让陌生人看懂这些信息。",
+        "sourceIds": [
+          "rwayne-growth-review-20261010",
+          "zhouluobo-growth-review-20261010"
+        ]
+      },
+      {
+        "title": "从你真的做过的事出发",
+        "body": "萝卜哥用具体作品展示价值。可展示的积累可以成为选题的起点，而不是只描述抽象身份。",
+        "sourceIds": [
+          "zhouluobo-growth-review-20261010"
+        ]
+      },
+      {
+        "title": "让内容继续被看到",
+        "body": "小明讨论从逐个交流转向内容吸引，koffuxu 则记录给旧教程补充新角度的做法。读的时候区分互动、内容本身和后续分发各自的作用。",
+        "sourceIds": [
+          "xiaoming-io-growth-review-20261010",
+          "koffuxu-growth-review-20261010",
+          "bbkirstry-growth-review-20261010"
+        ]
+      }
+    ],
+    "limitation": "本站 AI 辅助归纳。案例成绩为作者自述；既有经验、资源和投入不同，不能把个人路径当作统一增长公式。具体练习需根据自己的反馈调整。"
+  },
+  {
+    "id": "cn-conversion",
+    "title": "有浏览，为什么没关注？",
+    "question": "找到读者愿意留下来的理由。",
+    "intro": "把曝光、主页价值和新增关注分开看，再决定该调整哪一步。",
+    "path": true,
+    "goal": "conversion",
+    "points": [
+      {
+        "title": "先分清曝光与关注",
+        "body": "金尘马区分泛流量与关注理由；koffuxu 同时观察曝光和增粉。这些是作者的复盘方法，不能由此断定某个动作必然带来关注。",
+        "sourceIds": [
+          "jinchenma-ai-growth-review-20261010",
+          "koffuxu-growth-review-20261010",
+          "xiaomanhedy-two-week-pitfalls"
+        ]
+      },
+      {
+        "title": "让主页与内容互相印证",
+        "body": "Miles 讨论主页、置顶与连续教程的衔接，小晚强调用作品证明价值。读者从一条帖子进入主页后，需要看懂接下来还能读到什么。",
+        "sourceIds": [
+          "miles-mazy-growth-review-20261010",
+          "bbkirstry-growth-review-20261010",
+          "rwayne-growth-review-20261010",
+          "ai-jasonyu-coldstart-review"
+        ]
+      },
+      {
+        "title": "增长放缓时，检查题材匹配",
+        "body": "行者比较了视频教程与跨题材热点的反应；程序员小灰在增长放缓后转向教程系列。两位都有此前积累，适合研究调整过程。",
+        "sourceIds": [
+          "joshesye-growth-review-20261010",
+          "xiaohuiai666-growth-review-20261010"
+        ]
+      },
+      {
+        "title": "评论曝光仍要回到主页承接",
+        "body": "青鱼回顾评论数量与效果不一致的经历，并强调借来的流量能否留下仍取决于主页内容。原文也含硬蹭热点的尝试；这些曝光案例不是已验证的增长公式。",
+        "sourceIds": [
+          "qingyu-comment-quality-review"
+        ]
+      }
+    ],
+    "limitation": "本站 AI 辅助归纳。案例成绩为作者自述；既有经验、资源和投入不同，不能把个人路径当作统一增长公式。具体练习需根据自己的反馈调整。"
+  },
+  {
+    "id": "cn-content",
+    "title": "持续写什么，才有人愿意看？",
+    "question": "从一次实践，写到一组连续内容。",
+    "intro": "把案例中的选题方法与你自己的工作、作品和受众对照，建立可持续的内容方向。",
+    "path": true,
+    "goal": "content",
+    "points": [
+      {
+        "title": "围绕一个主题连续深挖",
+        "body": "Miles 和程序员小灰都讨论了连续教程；萝卜哥从代表作延伸后续内容。系列的价值在于持续解决相关问题，而不是机械增加发帖频率。",
+        "sourceIds": [
+          "miles-mazy-growth-review-20261010",
+          "xiaohuiai666-growth-review-20261010",
+          "zhouluobo-growth-review-20261010"
+        ]
+      },
+      {
+        "title": "用反馈修正题材",
+        "body": "行者的跨题材尝试反应不及视频教程，koffuxu 为旧文补充新角度。把这些当作可观察的调整过程，结合自己的读者反馈决定下一步。",
+        "sourceIds": [
+          "joshesye-growth-review-20261010",
+          "koffuxu-growth-review-20261010"
+        ]
+      },
+      {
+        "title": "让作品和生产过程继续成为素材",
+        "body": "公开作品后根据读者问题补教程；组织来源、草稿、审核和发布记录，再用实际反馈决定下一篇。大雷展示积累与失败，Aron 的 Agent 分工尚在调整，不能把流程描述视为已验证的提效方案。",
+        "sourceIds": [
+          "aaronyiaazw-build-in-public-review",
+          "aronhouyu-content-board-workflow"
+        ]
+      },
+      {
+        "title": "从公开过程开始，逐步收窄选题",
+        "body": "微尘在阅读心得中回顾了从害怕发布到分享试验与踩坑的变化，随后按读者反馈收窄选题。这里引用作者自己的实践，不把其图书转述当作已核验原句。",
+        "sourceIds": [
+          "weichen-writing-process-reading-review"
+        ]
+      }
+    ],
+    "limitation": "本站 AI 辅助归纳。案例成绩为作者自述；既有经验、资源和投入不同，不能把个人路径当作统一增长公式。具体练习需根据自己的反馈调整。"
+  },
+  {
+    "id": "cn-business",
+    "title": "有了关注，怎样走向变现？",
+    "question": "同时看商业承接与时间成本。",
+    "intro": "把收入故事和投入反思放在一起，辨认适合自身能力的商业方式。",
+    "path": true,
+    "goal": "business",
+    "points": [
+      {
+        "title": "先看交付，再看收入数字",
+        "body": "鱼总拆分商单、分销、社群等渠道，并讨论合作和交付成本。文章中的总收入不能被当成 X 平台奖励，也不能据此推算粉丝单价。",
+        "sourceIds": [
+          "ai-jasonyu-growth-review-20261010"
+        ]
+      },
+      {
+        "title": "把投入记进复盘",
+        "body": "微尘在达到万粉后缩减创作投入。粉丝增长以外，还应记录耗时、机会成本和实际回报。",
+        "sourceIds": [
+          "weichen-ink-growth-review-20261010"
+        ]
+      },
+      {
+        "title": "选择一项可验证的小调整",
+        "body": "结合鱼总的服务交付经验和微尘的投入反思，可以先列清一种服务的工作量，再按自己的时间安排试验。这是本站基于案例提出的练习，不是收益承诺。",
+        "sourceIds": [
+          "ai-jasonyu-growth-review-20261010",
+          "weichen-ink-growth-review-20261010"
+        ]
+      },
+      {
+        "title": "把内容、产品和交付放在一起检查",
+        "body": "阿杭讨论低粉账号怎样为品牌解释产品，汪仔讨论用具体服务连接内容与客户，并保存案例和交付方法。可结合自身经验检查目标读者、解决的问题和实际交付；订单及收入仍是作者自述。",
+        "sourceIds": [
+          "astronaut-low-follower-brand-deal",
+          "wangzai-content-client-assets",
+          "wangzai-position-product-content"
+        ]
+      }
+    ],
+    "limitation": "本站 AI 辅助归纳。案例成绩为作者自述；既有经验、资源和投入不同，不能把个人路径当作统一增长公式。具体练习需根据自己的反馈调整。"
+  },
+  {
+    "id": "start-here",
+    "title": "从定位、创作到互动与复盘",
+    "question": "把全库经验串成一条可理解的学习路线，第一步从哪里开始？",
+    "intro": "只串联最近一年有明确发布日期的作者原文。每一步都能回到来源，个人结果需连同已有积累和投入阅读。",
+    "points": [
+      {
+        "title": "让一条内容兑现一个清晰承诺",
+        "body": "MinLi 用冷读检查陌生读者是否理解。结构可以帮助表达，内容仍需自己的真实经验支撑。",
+        "sourceIds": [
+          "minli-sustainable-writing"
+        ]
+      },
+      {
+        "title": "把互动变成有内容的交流",
+        "body": "quanxb 讨论在引用中加入案例与疑点。互动是否值得做，要看它有没有为原讨论增加信息，而不是只算回复次数。",
+        "sourceIds": [
+          "xbquan-value-added-quote"
+        ]
+      },
+      {
+        "title": "分别理解服务、订阅与平台奖励",
+        "body": "蜗牛King 的复盘展示内容如何连到知识库与答疑服务；这些商业结果属于作者自报，不能由粉丝或浏览量直接推算。",
+        "sourceIds": [
+          "isnail-content-to-service"
+        ]
+      },
+      {
+        "title": "中文创作者怎样起号、调整与长期运营",
+        "body": "新增的中文复盘覆盖定位、代表作、连续教程、增长放缓与商业承接。应连同作者的起点、已有积累和时间投入一起阅读，不能只按标题中的涨粉速度排名。",
+        "sourceIds": [
+          "zhouluobo-growth-review-20261010",
+          "koffuxu-growth-review-20261010",
+          "miles-mazy-growth-review-20261010",
+          "jinchenma-ai-growth-review-20261010",
+          "joshesye-growth-review-20261010",
+          "xiaohuiai666-growth-review-20261010",
+          "rwayne-growth-review-20261010",
+          "bbkirstry-growth-review-20261010",
+          "xiaoming-io-growth-review-20261010",
+          "ai-jasonyu-growth-review-20261010",
+          "weichen-ink-growth-review-20261010"
+        ]
+      },
+      {
+        "title": "用户指定的两篇运营复盘",
+        "body": "黄小木按账号阶段讨论运营和商业承接，Andy 记录高强度冷启动与原创内容的作用。两篇都应保留作者的既有条件、投入和自述边界，作为不同个人路径阅读。",
+        "sourceIds": [
+          "ai-xiaomu-six-month-review",
+          "andyl5cc-ten-day-growth"
+        ]
+      },
+      {
+        "title": "从冷启动和低效内容里寻找改进",
+        "body": "鱼总披露改稿、已有关系与发布互动同时参与冷启动；Hedy 用两周内容对照曝光和关注，提醒读者把真实经历和低效样本放进复盘。两篇均为个人自报经验，不能把流量或速度当作普遍结果。",
+        "sourceIds": [
+          "xiaomanhedy-two-week-pitfalls",
+          "ai-jasonyu-coldstart-review"
+        ]
+      },
+      {
+        "title": "从作品、流程与持续投入看运营",
+        "body": "躺在废墟里与大雷把已有作品、教程和学习过程公开出来；Aron 比较内容测试，并展示仍在调整的内容看板。它们补充作品传播、日常生产与复盘的不同角色，个人成绩不表示可复制速度。",
+        "sourceIds": [
+          "lieflat-portfolio-coldstart",
+          "aronhouyu-four-month-review",
+          "aronhouyu-content-board-workflow",
+          "aaronyiaazw-build-in-public-review"
+        ]
+      },
+      {
+        "title": "从具体场景到持续运营",
+        "body": "黄小木的早期复盘呈现内容积累与传播背景；Jaden 将公开学习接到周期复盘，知识猫将工具内容落到具体场景，Hardy 则保留自动化协作的故障和验收过程。可共同观察方法、投入与证据边界，而不是只比较涨粉数字。",
+        "sourceIds": [
+          "ai-xiaomu-early-content-workflow",
+          "jaden-public-learning-review",
+          "geekcat-scenario-content-validation",
+          "hardy-five-bots-x-workflow"
+        ]
+      },
+      {
+        "title": "跟进作者后续复盘，补上作品、传播与数据",
+        "body": "蓝哥与铁锤人补充实操和阅读如何成为内容来源；小晚、Hardy与Punk展示作品分发和关注承接；小灰更新万粉之后的阶段，Aron用个人导出拆分内容与收益口径。各自成绩、关系与推广背景需连同结果阅读。",
+        "sourceIds": [
+          "lange-first-thousand-review",
+          "aron-engagement-quality-review",
+          "aron-revenue-analysis-workflow",
+          "xiaohui-twenty-thousand-followup",
+          "hardy-two-thousand-review",
+          "xiaowan-platform-context",
+          "punk-five-month-growth-guide",
+          "lxfater-reading-to-content"
+        ]
+      },
+      {
+        "title": "新增：样本、个人复盘与运营工作流",
+        "body": "兴雨、木马人、Aron、阿杭、Simon、Dreameryanyan、Miles 和刘老板分别提供个人起号、商业承接、样本分析与工具流程。阅读时先分清实测结果、作者自报与未验证的机制解释。",
+        "sourceIds": [
+          "yxzrainy-one-month-review",
+          "cnyzgkc-one-year-pitfalls",
+          "aron-three-month-revenue-review",
+          "astronaut-low-follower-brand-deal",
+          "han-zhang-x-post-sample-analysis",
+          "yanliu-first-month-x-review",
+          "miles-fifteen-day-growth-review",
+          "leo-x-traffic-workflow"
+        ]
+      },
+      {
+        "title": "新增：把选题、写作与首月复盘连起来",
+        "body": "Serena、微尘印记和实践哥 Li 分别展示首月增长后的瓶颈、持续选题的方法与写作冷读流程；读时分清个人经验、作者借鉴的理论与未核验的平台说法。",
+        "sourceIds": [
+          "serena-thirty-day-growth-review",
+          "weichen-content-idea-system",
+          "minli-x-writing-process"
+        ]
+      },
+      {
+        "title": "新增：收窄定位、低谷调整与商业反馈",
+        "body": "Jaden、微尘印记和 Punk 分别讨论真实咨询、收窄定位与低谷后继续创作。作者自报成绩、早期互关和大号助推均须结合背景理解。",
+        "sourceIds": [
+          "jaden-content-business-feedback",
+          "weichen-narrow-positioning-review",
+          "punk-traffic-slump-review"
+        ]
+      },
+      {
+        "title": "新增：公开建设、长期创作与增长反馈的边界",
+        "body": "邪恶大薯条与 brucexu.eth 记录项目、连续创作和外部助推带来的关注；王赞的收入复盘需放回双平台背景。来源成绩与收入均需连同作者的实际经历和阅读范围理解。",
+        "sourceIds": [
+          "wangzan-dual-platform-review",
+          "superwang-build-in-public-review",
+          "bruce-four-years-review"
+        ]
+      },
+      {
+        "title": "新增：阶段复盘与运营方法",
+        "body": "补充作者文章中的阶段复盘、选题与内容分发方法，连同账号起点、助推背景和作者自述的阅读边界一起看。",
+        "sourceIds": [
+          "aaron-topic-radar-workflow",
+          "jinchenma-hot-topic-sequence",
+          "jinchenma-first-month-4500-review",
+          "punk-three-month-habits",
+          "punk-first-month-growth-review",
+          "lxfater-hook-three-elements",
+          "xiaohui-account-name-positioning",
+          "xiaohui-unfollow-content-review"
+        ]
+      },
+      {
+        "title": "新增：阶段复盘与运营方法",
+        "body": "补充作者文章中的阶段复盘、选题与内容分发方法，连同账号起点、助推背景和作者自述的阅读边界一起看。",
+        "sourceIds": [
+          "zhouluobo-sixteen-day-review",
+          "leaf-xiaogai-content-analysis",
+          "isnail-achuan-content-breakdown",
+          "yang-fifty-day-coldstart-review"
+        ]
+      },
+      {
+        "title": "新增：合集回源得到的原创文章",
+        "body": "补充合集回源得到的原创文章，重点看具体表达、真实交流和内容承接。自述增长和收入不视为独立验证的效果。",
+        "sourceIds": [
+          "mileson-evidence-and-distribution",
+          "weiyu-mainline-and-materials",
+          "wattter-first-thousand-review",
+          "mingye-coldstart-actions",
+          "yan-emotion-utility-series",
+          "liangzhu-coldstart-background",
+          "chendahuang-lower-writing-friction",
+          "defou-content-workflow-release",
+          "xuegao-creator-operation-observations",
+          "arthur-public-income-observations",
+          "xingzhi-recommendation-flow",
+          "punk-public-content-experiments",
+          "jinchenma-cross-language-context",
+          "xuanyuan-account-restriction-reflection",
+          "arthur-question-format-experiment",
+          "benlin-ocr-appeal-review",
+          "jason-top-articles-observations",
+          "xmg-twenty-one-day-review",
+          "yuri-x-first-post-guide",
+          "momo-position-and-content-shape",
+          "deng-probability-and-repetition",
+          "qing-comment-week-review",
+          "tonix-facts-views-feelings",
+          "rion-six-thousand-retrospective"
+        ]
+      },
+      {
+        "title": "评论承接与持续创作的补充样本",
+        "body": "青鱼复盘评论曝光与主页承接，微尘回顾公开过程、缩小选题与持续积累的变化。前者含硬蹭争议的尝试，后者是个人阅读与实践心得；不将其自述效果、时段阈值或图书转述当作通用规律。",
+        "sourceIds": [
+          "qingyu-comment-quality-review",
+          "weichen-writing-process-reading-review"
+        ]
+      },
+      {
+        "title": "从真实问题写作，到有内容的引用与互动",
+        "body": "汪仔从客户问题和业务经历寻找选题；鹿子野观察热点引用之后，已有教程怎样承接新访客；沫沫记录定位、主页与真实交流的调整。全平台成绩不能改成X单平台结果，引用或改作也不自动取得许可。",
+        "sourceIds": [
+          "wangzai-x-beginner-operations",
+          "joshxie-trend-quotes-follow-conversion",
+          "momo-positioning-and-interaction-review"
+        ]
+      },
+      {
+        "title": "增长之后重新检查归因与关注转化",
+        "body": "税后中国重新检视专业积累、工具和传播关系，提出尚待实验的三轮模型；Koda分别观察高曝光与高涨粉内容，并回顾主页介绍的调整。主观贡献比例与不同帖子转粉率都不能用来证明某项动作的因果效果。",
+        "sourceIds": [
+          "chinataxtruth-growth-attribution-review",
+          "koda-impressions-profile-follow-funnel"
+        ]
+      },
+      {
+        "title": "补充内容经营与数据判断",
+        "body": "汪仔补充内容如何连接服务及交付，不把粉丝数量等同收入。云比云讨论相近内容的常态参照，用于定位值得进一步观察的数据变化。经营建议与指标变化均不构成收益或因果保证。",
+        "sourceIds": [
+          "wangzai-content-client-assets",
+          "wangzai-position-product-content",
+          "yunbiyun-traffic-baseline"
+        ]
+      }
+    ],
+    "limitation": "这是一组有限来源的跨文归纳，覆盖当前收录范围；并非全网穷尽研究、受控增长实验或收益预测。部分来源仅读取已注明的章节或线程片段，细节见各条目。"
+  },
+  {
+    "id": "learning-from-feedback",
+    "title": "复盘内容之前，先问清楚数字在说什么",
+    "question": "怎样用案例和反馈学习，避免把偶然爆帖当成规则？",
+    "intro": "现有案例能帮助分开看曝光、关注与本人掌握的数据，不能证明固定的最佳发布时间或算法权重。",
+    "points": [
+      {
+        "title": "找样本时记录背景，不只保存赢家",
+        "body": "MinLi 每周同时回看高于和低于平均表现的稿子，比较题目与写法，并观察读者画像是否变化。",
+        "sourceIds": [
+          "minli-sustainable-writing"
+        ]
+      },
+      {
+        "title": "曝光高的内容，未必带来更多关注",
+        "body": "Hedy 的两周比较显示热点短评与成长记录的关注转化不同；鱼总冷启动同时改变了表达和传播。复盘应分开记录曝光、主页访问、关注和传播条件，短期数据无法单独证明一种动作的因果效果。",
+        "sourceIds": [
+          "xiaomanhedy-two-week-pitfalls",
+          "ai-jasonyu-coldstart-review"
+        ]
+      },
+      {
+        "title": "只用自己实际取得的数据调整",
+        "body": "Aron 的账号热力图与内容类型比较可用于提出自己的测试问题；内容看板把发布结果回给下一轮。时段、频率和评分没有独立效果验证，记录应同时保留来源、自报口径和投入。",
+        "sourceIds": [
+          "aronhouyu-four-month-review",
+          "aronhouyu-content-board-workflow"
+        ]
+      },
+      {
+        "title": "把数据缺口写进复盘",
+        "body": "Jaden 按周观察内容类型的重复表现；知识猫明确列出后续才准备增加的记录字段；Hardy 区分历史 CSV 验收与失败的实时导出。三者提醒读者，计划、旧快照和当前数据分别支持不同程度的判断。",
+        "sourceIds": [
+          "jaden-public-learning-review",
+          "geekcat-scenario-content-validation",
+          "hardy-five-bots-x-workflow"
+        ]
+      },
+      {
+        "title": "建立适合自身阶段的比较基线",
+        "body": "云比云建议把相近内容的常态表现与波动范围作为参照，再拆开点击、留存和关注，并定期更新基线。这是复盘方法建议，短期观察不证明因果效果。",
+        "sourceIds": [
+          "yunbiyun-traffic-baseline"
+        ]
+      }
+    ],
+    "limitation": "目前缺少带原始数据、对照组和完整失败样本的中文运营实验；本专题不补造指标模型，也不把个人观察当统计结论。"
+  },
+  {
+    "id": "cn-growth-followup",
+    "title": "后续复盘：作品、传播和数据怎样接起来？",
+    "question": "起号之后，怎样继续找到选题、承接关注并调整内容？",
+    "intro": "这批作者后续复盘补充内容抓手、作品分发与本人数据分析。它们展示不同背景下的做法，不构成固定增长公式。",
+    "points": [
+      {
+        "title": "从真实投入里寻找内容",
+        "body": "蓝哥以 Agent 实操形成题目，铁锤人调整信息摄入与写作检索。共同点是让已有实践继续产生可使用的材料。",
+        "sourceIds": [
+          "lange-first-thousand-review",
+          "lxfater-reading-to-content"
+        ]
+      },
+      {
+        "title": "作品与传播都需要继续做",
+        "body": "小晚带着成果参与交流，Hardy把同一篇教程换成新的读者入口，Punk用主页、作品、自引用和社群衔接关注。朋友推荐和既有积累也需纳入解释。",
+        "sourceIds": [
+          "xiaowan-platform-context",
+          "hardy-two-thousand-review",
+          "punk-five-month-growth-guide"
+        ]
+      },
+      {
+        "title": "用阶段与口径理解变化",
+        "body": "小灰的更新补充万粉后的教程与账号经历，Aron则比较收藏率、关注效率及不同收益口径。历史数据和相关性不能被改写成当前计费规则或必然因果。",
+        "sourceIds": [
+          "xiaohui-twenty-thousand-followup",
+          "aron-engagement-quality-review",
+          "aron-revenue-analysis-workflow"
+        ]
+      }
+    ],
+    "limitation": "仅在已读文字范围内归纳；作者成绩、收入、完整回复、工具效果和全部图片未独立核验。不同平台与推广背景分别保留，不能把单篇案例当作普遍结果。"
+  }
+]

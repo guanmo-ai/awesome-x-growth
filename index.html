@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f4ed">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="Awesome X Growth：帮助你做好推特运营与涨粉：从起号定位、内容创作到互动与复盘，发现有出处的方法。">
+  <title>Awesome X Growth · 推特运营与涨粉</title>
+  <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg">
+  <link rel="preload" href="./assets/fonts/Newsreader-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="./assets/fonts/DMSans-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="./assets/style.css?v=launch-fixes-20261016">
+  <script type="module" src="./assets/app.js?v=launch-fixes-20261016"></script>
+<!-- SOCIAL_META_START -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Awesome X Growth">
+  <meta property="og:locale" content="zh_CN">
+  <meta property="og:title" content="Awesome X Growth · 推特运营与涨粉">
+  <meta property="og:description" content="从起号定位、内容创作到互动与复盘，找到有出处的创作者经验。">
+  <meta property="og:image" content="./assets/share-card.png">
+  <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Awesome X Growth：推特运营与涨粉">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Awesome X Growth · 推特运营与涨粉"><meta name="twitter:description" content="从起号定位、内容创作到互动与复盘，找到有出处的创作者经验。">
+  <meta name="twitter:image" content="./assets/share-card.png"><meta name="twitter:creator" content="@guanmo_ai">
+
+  <!-- SOCIAL_META_END -->
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到内容</a>
+  <header class="site-header">
+    <div class="header-inner container">
+      <a class="brand" href="./" data-home aria-label="Awesome X Growth，返回文章库"><span class="brand-type"><span class="brand-overline">Awesome</span><strong><span>X</span> Growth<span>.</span></strong></span></a>
+      <nav class="primary-nav" aria-label="网站链接"><a class="follow-creator" href="https://x.com/guanmo_ai" target="_blank" rel="noopener noreferrer" aria-label="在 X 关注观默 @guanmo_ai">关注观默 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M7 7h10v10"/></svg></a><button class="about-trigger">收录说明</button></nav>
+    </div>
+  </header>
+  <main id="main" class="container" tabindex="-1">
+    <section id="library" class="library" aria-label="文章库">
+      <div class="browse-toolbar"><h1 id="list-heading" tabindex="-1">运营与涨粉文章库</h1><label class="search-field"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg><input id="article-search" type="search" aria-label="搜索文章、作者或关键词" placeholder="搜索文章、作者、关键词" autocomplete="off"><kbd aria-hidden="true">/</kbd></label></div>
+      <div class="filter-toolbar"><nav id="topics" class="topic-navigation" aria-label="按主题浏览文章"></nav><div class="library-tools"><p class="collection-label"><span id="result-count" role="status" aria-live="polite"></span></p><div class="library-filters"><label class="sort-control period-control"><span class="sr-only">按发布时间筛选</span><select id="published-period" aria-label="按发布时间筛选"><option value="all">时间不限</option></select><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 8 5 5 5-5"/></svg></label><label class="sort-control period-control"><span class="sr-only">按原帖收藏量筛选</span><select id="bookmark-min" aria-label="按原帖收藏量筛选"><option value="all">收藏量不限</option></select><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 8 5 5 5-5"/></svg></label><label class="sort-control"><span class="sr-only">文章排序</span><select id="sort" aria-label="文章排序" title="综合推荐兼顾原帖收藏与发布时间"><option value="recommended">综合推荐</option><option value="popular">收藏最多</option><option value="newest">最新发布</option></select><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 8 5 5 5-5"/></svg></label></div></div></div>
+      <div id="workspace" tabindex="-1"><div id="article-list" class="article-grid" aria-label="文章卡片"><p class="loading-state">正在打开文库…</p></div></div>
+    </section>
+  </main>
+  <dialog id="article-viewer" aria-labelledby="viewer-title">
+    <div class="viewer-shell">
+      <header class="viewer-header"><p class="viewer-kicker">文章预览</p><nav class="viewer-navigation" aria-label="切换文章"><button id="viewer-prev" type="button" aria-label="上一篇文章">← 上一篇</button><span id="viewer-position" role="status" aria-live="polite"></span><button id="viewer-next" type="button" aria-label="下一篇文章">下一篇 →</button></nav><button id="viewer-close" type="button" class="viewer-close" aria-label="关闭文章预览" autofocus>×</button></header>
+      <div id="viewer-content"></div>
+    </div>
+  </dialog>
+  <footer class="site-footer container"><span>围绕推特运营与涨粉，发现方法，回到原文。</span><button class="about-trigger">收录说明</button></footer>
+  <dialog id="about-dialog" aria-labelledby="about-title">
+    <div class="dialog-head"><h2 id="about-title">发现好文章，回到原文。</h2><button class="icon-button" data-close-dialog aria-label="关闭说明">×</button></div>
+    <div class="dialog-body">
+      <p>我们聚焦自媒体涨粉、运营与变现，以 X 为重点，保留跨平台比较与通用经营方法。从账号定位、选题分发、互动复盘到商单和内容变现，按正文的实际方法筛选。</p>
+      <h3>收集链接，尊重原创</h3>
+      <p>每篇保留作者署名与原文链接，展示作者原文开头和 AI 总结，帮助你判断是否值得阅读。完整内容，请前往原文阅读。</p>
+      <p>本站不转载文章全文。作者原文与本站阅读建议分别标明，AI 总结不替代原作。文章保留原文封面、作者头像与来源链接；图片权利归原作者，不适用本站代码许可证。</p>
+      <h3>收录范围</h3>
+      <p>这里只收录发布日期明确且在最近一年内的文章，不收录普通帖子或线程。当前数量只代表已核对的内容，不代表中文 X 相关帖子已经找全。时间筛选按原帖发布日期计算；收藏量可按最低数量筛选。</p>
+      <h3>关于数据</h3>
+      <p>点赞、收藏与评论为收录时的原帖快照，仅供参考，不实时更新。收藏量筛选使用这个快照；未采集收藏量的文章不进入有最低数量要求的结果。</p>
+      <h3>整理与反馈</h3>
+      <p>由<a href="https://x.com/guanmo_ai" target="_blank" rel="noopener noreferrer">观默 / @guanmo_ai</a> 整理。如需更正信息或移除收录，欢迎联系。</p>
+    </div>
+  </dialog>
+  <noscript><p class="container">请启用 JavaScript 浏览文库，也可以阅读<a href="https://x.com/ai_xiaomu/status/2105845619915157543">黄小木原文</a>与<a href="https://x.com/AndyL5cc/status/2102987089768034489">Andy 原文</a>。</p></noscript>
+</body>
+</html>
