@@ -30,6 +30,14 @@
           "koffuxu-growth-review-20261010",
           "bbkirstry-growth-review-20261010"
         ]
+      },
+      {
+        "title": "先把关注理由和平台分工说清楚",
+        "body": "麻酱AI实验室从读者、持续内容与作品出发，将定位落实到简介、背景图、置顶和近期内容；Henry把X放进主平台与辅助平台的组合，按目标、内容形态和时间安排分工。",
+        "sourceIds": [
+          "zhongying-position-profile",
+          "henry-x-platform-combination"
+        ]
       }
     ],
     "limitation": "本站 AI 辅助归纳。案例成绩为作者自述；既有经验、资源和投入不同，不能把个人路径当作统一增长公式。具体练习需根据自己的反馈调整。"
@@ -118,6 +126,14 @@
         "sourceIds": [
           "weichen-writing-process-reading-review"
         ]
+      },
+      {
+        "title": "让选题、封面与后续问题接起来",
+        "body": "蓝哥从实际卡点记录选题，把重复问题写成能跟练的教程，再用读者反馈接续内容；Roland讨论封面和标题怎样各自提供信息，并形成可识别的内容风格。",
+        "sourceIds": [
+          "lange-near-ten-thousand-review",
+          "rwayne-article-cover-title"
+        ]
       }
     ],
     "limitation": "本站 AI 辅助归纳。案例成绩为作者自述；既有经验、资源和投入不同，不能把个人路径当作统一增长公式。具体练习需根据自己的反馈调整。"
@@ -159,6 +175,14 @@
           "astronaut-low-follower-brand-deal",
           "wangzai-content-client-assets",
           "wangzai-position-product-content"
+        ]
+      },
+      {
+        "title": "从受众问题连到产品展示和交付",
+        "body": "Aron厚玉从受众、内容分发和团队分工解释商业转化；阿乐结合两次发售，讨论演示、案例内容、客户承接与交付改进。两篇都把内容放进实际经营流程。",
+        "sourceIds": [
+          "aron-content-business-growth",
+          "ale-x-product-launch-review"
         ]
       }
     ],
@@ -386,6 +410,33 @@
           "wangzai-position-product-content",
           "yunbiyun-traffic-baseline"
         ]
+      },
+      {
+        "title": "把定位、主页与视觉表达连起来",
+        "body": "麻酱AI实验室将持续内容与关注理由落实到个人主页；Henry按目标和精力分配平台；Roland讨论封面与标题的信息分工。",
+        "sourceIds": [
+          "zhongying-position-profile",
+          "henry-x-platform-combination",
+          "rwayne-article-cover-title"
+        ]
+      },
+      {
+        "title": "沿自己的实践继续写、继续复盘",
+        "body": "蓝哥用具体卡点和读者问题接续教程，Kin按时间线整理系列选题与传播支持；AYi与陈大黄则把曝光、内容类型、主页承接和新增关注拆开比较。",
+        "sourceIds": [
+          "lange-near-ten-thousand-review",
+          "kin-ten-thousand-growth-review",
+          "ayi-posts-follow-conversion-analysis",
+          "dahuang-junedangg-account-analysis"
+        ]
+      },
+      {
+        "title": "让内容通向实际产品和服务",
+        "body": "Aron厚玉从受众、分发和团队协作讨论内容的商业任务，阿乐用自己的产品发售回顾演示、案例、承接与交付。",
+        "sourceIds": [
+          "aron-content-business-growth",
+          "ale-x-product-launch-review"
+        ]
       }
     ],
     "limitation": "这是一组有限来源的跨文归纳，覆盖当前收录范围；并非全网穷尽研究、受控增长实验或收益预测。部分来源仅读取已注明的章节或线程片段，细节见各条目。"
@@ -434,6 +485,14 @@
         "sourceIds": [
           "yunbiyun-traffic-baseline"
         ]
+      },
+      {
+        "title": "把曝光、主页承接和新增关注分开看",
+        "body": "AYi先对齐导出数据，再区分原创、回复、话题和内容形式，比较每千次曝光的关注与收藏；陈大黄从另一个账号的评论曝光和主页访问，进一步拆解原创内容能否让陌生读者理解并持续关注。",
+        "sourceIds": [
+          "ayi-posts-follow-conversion-analysis",
+          "dahuang-junedangg-account-analysis"
+        ]
       }
     ],
     "limitation": "目前缺少带原始数据、对照组和完整失败样本的中文运营实验；本专题不补造指标模型，也不把个人观察当统计结论。"
@@ -468,6 +527,13 @@
           "xiaohui-twenty-thousand-followup",
           "aron-engagement-quality-review",
           "aron-revenue-analysis-workflow"
+        ]
+      },
+      {
+        "title": "沿时间线回看系列选题和传播支持",
+        "body": "Kin按发布节点整理冷启动、实操热点、系列长文、引用补充和朋友转发；同一产品可以按不同人群与场景继续展开，里程碑记录为后续复盘提供线索。",
+        "sourceIds": [
+          "kin-ten-thousand-growth-review"
         ]
       }
     ],

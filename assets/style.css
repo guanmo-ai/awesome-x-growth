@@ -320,9 +320,6 @@ body.viewer-open { overflow: hidden; }
 @media(max-width:600px) { .standalone-header { padding:18px 20px; flex-wrap:wrap; gap:3px; }.standalone-header>span { width:100%; }.standalone-article { padding:0 20px; margin-top:24px; }.standalone-article h1 { font-size:24px; } }
 
 .article-notes{margin-top:28px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:14px;line-height:1.75;overflow-wrap:anywhere}
-.article-notes summary{cursor:pointer;color:var(--ink);width:fit-content}
-.article-notes summary:focus-visible{outline:2px solid var(--accent);outline-offset:5px}
-.article-notes p{margin:12px 0}.article-notes dl{margin:12px 0}.article-notes dl div{display:grid;grid-template-columns:3em minmax(0,1fr);gap:8px;margin:6px 0}.article-notes dt{font-weight:600}.article-notes dd{margin:0}.article-notes .notes-dates{font-size:12px}
 
 .repo-link{display:inline-flex;align-items:center;gap:5px;min-height:42px;padding:0 4px;font-size:14px;font-weight:500;white-space:nowrap;color:var(--ink)}
 .repo-link:hover{color:var(--accent)}.repo-link svg{width:14px;height:14px}

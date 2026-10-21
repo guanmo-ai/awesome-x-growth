@@ -1,6 +1,7 @@
 import {renderAuthorOpening} from '../assets/opening.js';
 import {renderArticleNotes} from '../assets/article-notes.js';
 import {includeArticleMedia} from './media.mjs';
+import {projectArticleFields} from './article-fields.mjs';
 export const escapeHTML=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export function siteBase(value=''){
   if(!value)return '';
@@ -30,11 +31,11 @@ export function addSocialMetadata(html,options){
   return /<!-- SOCIAL_META_START -->[\s\S]*?<!-- SOCIAL_META_END -->/.test(html)?html.replace(/<!-- SOCIAL_META_START -->[\s\S]*?<!-- SOCIAL_META_END -->/,meta):html.replace('</head>',meta+'\n</head>');
 }
 export function publicArticle(article,options={}){
-  const fields=['id','title','originalTitle','author','sourceUrl','readingUrl','tweetUrl','sourceType','language','publishedAt','checkedAt','topics','showcase','shelfOrder','excerpt','aiSummary','caveat','readingRange','evidence','rights','socialSnapshot','presentation','policyReview'];
-  const result=Object.fromEntries(fields.filter(k=>article[k]!==undefined).map(k=>[k,article[k]]));
+  const fields=['id','title','originalTitle','author','sourceUrl','readingUrl','tweetUrl','sourceType','language','publishedAt','checkedAt','topics','showcase','shelfOrder','excerpt','aiSummary','rights','socialSnapshot','presentation'];
+  const result=projectArticleFields(article,fields);
   if (article.presentation) {
     if (includeArticleMedia(article,options)) {
-      result.presentation={...article.presentation};
+      result.presentation={...result.presentation};
       if (!options.preview) delete result.presentation.localPreview;
     } else result.presentation={coverKind:'none'};
   }
@@ -45,7 +46,7 @@ export function articlePage(a,base=''){
   const cover=includeArticleMedia(a)?`<figure class="viewer-cover"><img src="../${e(a.presentation.cover.replace(/^\.\//,''))}" width="${e(a.presentation.coverWidth)}" height="${e(a.presentation.coverHeight)}" alt="${e(a.presentation.coverAlt||title)}" decoding="async"><figcaption>原文配图 · ${e(a.presentation.mediaCredit)}</figcaption></figure>`:'';
   const external=(url,label)=>`<a href="${e(url)}" target="_blank" rel="noopener noreferrer">${e(label)} ↗</a>`;
   return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="${e(description)}"><title>${e(title)} · Awesome X Growth</title><link rel="icon" href="../assets/favicon.svg"><link rel="stylesheet" href="../assets/style.css">${socialMetadata({title,description,path,base,type:'article',relativePrefix:'../'})}</head>
-<body><a class="skip-link" href="#main">跳到内容</a><header class="standalone-header"><a href="../">Awesome X Growth.</a><span>推特运营与涨粉</span></header><main id="main" class="standalone-article" tabindex="-1"><article>${cover}<p class="eyebrow">文章预览 · 作者原文开头与 AI 总结</p><h1>${e(title)}</h1><p class="standalone-byline">${external(a.author.url,`${a.author.name} @${a.author.handle}`)} · <time datetime="${e(a.publishedAt)}">${e(a.publishedAt)}</time></p><section class="viewer-excerpt"><h2>作者原文开头</h2><blockquote class="opening-text" cite="${e(a.sourceUrl)}">${renderAuthorOpening(a.excerpt)}</blockquote></section><p class="standalone-source">${external(a.readingUrl||a.sourceUrl,'在 X 阅读完整原文')}</p><section class="viewer-summary"><h2>AI 总结</h2><ol>${a.aiSummary.points.map(p=>`<li><div><h3>${e(p.title)}</h3><p>${e(p.text)}</p></div></li>`).join('')}</ol></section>${renderArticleNotes(a)}</article><a class="browse-all" href="../?article=${a.id}">在文库中继续浏览 →</a></main><footer class="standalone-footer">本站不转载全文。作者经验与自报成绩不代表通用结果。 · <a href="../CONTENT_POLICY.md">内容政策</a></footer></body></html>`;
+<body><a class="skip-link" href="#main">跳到内容</a><header class="standalone-header"><a href="../">Awesome X Growth.</a><span>推特运营与涨粉</span></header><main id="main" class="standalone-article" tabindex="-1"><article>${cover}<p class="eyebrow">文章预览 · 作者原文开头与 AI 总结</p><h1>${e(title)}</h1><p class="standalone-byline">${external(a.author.url,`${a.author.name} @${a.author.handle}`)} · <time datetime="${e(a.publishedAt)}">${e(a.publishedAt)}</time></p><section class="viewer-excerpt"><h2>作者原文开头</h2><blockquote class="opening-text" cite="${e(a.sourceUrl)}">${renderAuthorOpening(a.excerpt)}</blockquote></section><p class="standalone-source">${external(a.readingUrl||a.sourceUrl,'在 X 阅读完整原文')}</p><section class="viewer-summary"><h2>AI 总结</h2><ol>${a.aiSummary.points.map(p=>`<li><div><h3>${e(p.title)}</h3><p>${e(p.text)}</p></div></li>`).join('')}</ol></section>${renderArticleNotes(a)}</article><a class="browse-all" href="../?article=${a.id}">在文库中继续浏览 →</a></main><footer class="standalone-footer">本站不转载全文。 · <a href="../CONTENT_POLICY.md">内容政策</a></footer></body></html>`;
 }
 export const PUBLIC_ASSETS=['tools/tweet-hunter-x.jpg','tools/x-search-pro.jpg','tools/bookmark-x.png','tools/typefully.png','tools/x-viral-monitor.jpg','tools/dewey.jpg','tools/bookmarkbrain.jpg','tools/xtap.png','tools/fxembed.svg','tools/postiz.png','app.js','library.js','guides.js','policies.js','motion.js','opening.js','article-notes.js','tools.js','tools-library.js','style.css','tools.css','favicon.svg','share-card.png','fonts/Newsreader-latin.woff2','fonts/DMSans-latin.woff2','fonts/OFL-Newsreader.txt','fonts/OFL-DMSans.txt','vendor/AMICRO-LICENSE.txt','vendor/AWESOME-AI-MOTION-LICENSE.txt'];
 export const PUBLIC_DOCS=['CATALOG.md','AI_DIGEST.md','TOOLS.md','THIRD_PARTY.md','RELEASE.md'];

@@ -1,6 +1,7 @@
 import {dateKey,publicationCutoff} from '../assets/library.js';
 import {OPENING_MAX as EXCERPT_MAX} from './author-opening.mjs';
 import {validPublicUse} from './media.mjs';
+import {articleFieldErrors} from './article-fields.mjs';
 export const TOPICS = { growth: '涨粉策略', content: '内容创作', engagement: '互动分发', monetization: '商业变现', analytics: '数据复盘', platform: '平台规则' };
 export {EXCERPT_MAX};
 const date = /^\d{4}-\d{2}-\d{2}$/;
@@ -19,6 +20,7 @@ export function validateData(articles, syntheses, now=new Date()) {
   const ids = new Set(), urls = new Set();
   for (const a of articles) {
     const id = a?.id || '(无 ID)';
+    for(const error of articleFieldErrors(a))fail(id,error);
     if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(id)) fail(id, 'ID 必须是小写英文短横线标识');
     if (ids.has(id)) fail(id, '重复 ID');
     ids.add(id);

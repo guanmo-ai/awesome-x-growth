@@ -1,6 +1,6 @@
 # 文章目录
 
-此文件由 `npm run build` 从 `data/articles.json` 生成。共 97 篇最近一年内的资料、64 位作者/机构。文章链接直接打开原始来源；当前网站展示范围以 showcase 为准。
+此文件由 `npm run build` 从 `data/articles.json` 生成。共 106 篇最近一年内的资料、69 位作者/机构。文章链接直接打开原始来源；当前网站展示范围以 showcase 为准。
 
 ## 涨粉策略
 
@@ -79,6 +79,11 @@
 | [万粉之后重做归因：内容、传播与增长实验](https://x.com/ChinaTaxTruth/status/2109535651725283494) | [税后中国(变化已经发生，风暴只是结果)](https://x.com/ChinaTaxTruth) | 作者文章 | [来源](https://x.com/ChinaTaxTruth/status/2109535651725283494) | 2026-10-18 |
 | [沫沫的运营心得：试定位、整理主页与持续互动](https://x.com/momoai_daily/status/2109962752936783921) | [momoai沫沫🫧](https://x.com/momoai_daily) | 作者文章 | [来源](https://x.com/momoai_daily/status/2109962752936783921) | 2026-10-18 |
 | [Koda 的涨粉复盘：曝光与主页转化分别观察](https://x.com/wadezone/status/2051707806802469052) | [Koda](https://x.com/wadezone) | 作者文章 | [来源](https://x.com/wadezone/status/2051707806802469052) | 2026-10-18 |
+| [蓝哥：从日常实操中接出选题、教程与后续交流](https://x.com/0xlangeai/article/2112516355455066170) | [蓝哥AI](https://x.com/0xlangeai) | 作者文章 | [来源](https://x.com/0xlangeai/status/2112516355455066170) | 2026-10-21 |
+| [陈大黄：拆解评论曝光与主页内容之间的承接](https://x.com/realchendahuang/article/2109946863403352104) | [陈大黄](https://x.com/realchendahuang) | 作者文章 | [来源](https://x.com/realchendahuang/status/2109946863403352104) | 2026-10-21 |
+| [Kin：从冷启动到万粉的持续发布与系列选题](https://x.com/KinGao476942/article/2112198262661017812) | [Kin](https://x.com/KinGao476942) | 作者文章 | [来源](https://x.com/KinGao476942/status/2112198262661017812) | 2026-10-21 |
+| [AYi：用自己的帖子数据比较曝光与关注转化](https://x.com/AYi_AInotes/article/2112163256278073375) | [AYi](https://x.com/AYi_AInotes) | 作者文章 | [来源](https://x.com/AYi_AInotes/status/2112163256278073375) | 2026-10-21 |
+| [麻酱AI实验室：把账号定位落实到个人主页](https://x.com/zhongying14/article/2112525587596165195) | [麻酱AI实验室](https://x.com/zhongying14) | 作者文章 | [来源](https://x.com/zhongying14/status/2112525587596165195) | 2026-10-21 |
 
 ## 内容创作
 
@@ -169,6 +174,15 @@
 | [Koda 的涨粉复盘：曝光与主页转化分别观察](https://x.com/wadezone/status/2051707806802469052) | [Koda](https://x.com/wadezone) | 作者文章 | [来源](https://x.com/wadezone/status/2051707806802469052) | 2026-10-18 |
 | [汪仔：从内容曝光到客户关系与交付积累](https://x.com/wangzaimedia/status/2109997598186819595) | [汪仔](https://x.com/wangzaimedia) | 作者文章 | [来源](https://x.com/wangzaimedia/status/2109997598186819595) | 2026-10-19 |
 | [汪仔：让定位、产品与内容围绕同一类需求](https://x.com/wangzaimedia/status/2109878580675215842) | [汪仔](https://x.com/wangzaimedia) | 作者文章 | [来源](https://x.com/wangzaimedia/status/2109878580675215842) | 2026-10-19 |
+| [Aron厚玉：让内容团队对受众与商业转化负责](https://x.com/aronhouyu/article/2112527912905887841) | [Aron厚玉](https://x.com/aronhouyu) | 作者文章 | [来源](https://x.com/aronhouyu/status/2112527912905887841) | 2026-10-21 |
+| [Roland：让长文封面与标题各自提供信息](https://x.com/rwayne/article/2109984130540908979) | [Roland.W](https://x.com/rwayne) | 作者文章 | [来源](https://x.com/rwayne/status/2109984130540908979) | 2026-10-21 |
+| [蓝哥：从日常实操中接出选题、教程与后续交流](https://x.com/0xlangeai/article/2112516355455066170) | [蓝哥AI](https://x.com/0xlangeai) | 作者文章 | [来源](https://x.com/0xlangeai/status/2112516355455066170) | 2026-10-21 |
+| [陈大黄：拆解评论曝光与主页内容之间的承接](https://x.com/realchendahuang/article/2109946863403352104) | [陈大黄](https://x.com/realchendahuang) | 作者文章 | [来源](https://x.com/realchendahuang/status/2109946863403352104) | 2026-10-21 |
+| [Kin：从冷启动到万粉的持续发布与系列选题](https://x.com/KinGao476942/article/2112198262661017812) | [Kin](https://x.com/KinGao476942) | 作者文章 | [来源](https://x.com/KinGao476942/status/2112198262661017812) | 2026-10-21 |
+| [AYi：用自己的帖子数据比较曝光与关注转化](https://x.com/AYi_AInotes/article/2112163256278073375) | [AYi](https://x.com/AYi_AInotes) | 作者文章 | [来源](https://x.com/AYi_AInotes/status/2112163256278073375) | 2026-10-21 |
+| [阿乐：一人产品发售中的展示、案例与客户承接](https://x.com/Leepriest1990/article/2111981939947376836) | [aix阿乐](https://x.com/Leepriest1990) | 作者文章 | [来源](https://x.com/Leepriest1990/status/2111981939947376836) | 2026-10-21 |
+| [麻酱AI实验室：把账号定位落实到个人主页](https://x.com/zhongying14/article/2112525587596165195) | [麻酱AI实验室](https://x.com/zhongying14) | 作者文章 | [来源](https://x.com/zhongying14/status/2112525587596165195) | 2026-10-21 |
+| [Henry：按目标选择 X 与其他内容平台的分工](https://x.com/Mr_HenryMorgan/article/2111408962222567886) | [HenryMorgan](https://x.com/Mr_HenryMorgan) | 作者文章 | [来源](https://x.com/Mr_HenryMorgan/status/2111408962222567886) | 2026-10-21 |
 
 ## 互动分发
 
@@ -223,6 +237,9 @@
 | [汪仔的 X 入门复盘：选题、互动与经验表达](https://x.com/wangzaimedia/status/2111733278353060215) | [汪仔](https://x.com/wangzaimedia) | 作者文章 | [来源](https://x.com/wangzaimedia/status/2111733278353060215) | 2026-10-18 |
 | [鹿子野的热点实验：引用、改作与关注转化](https://x.com/JoshXie1/status/2096848111411011800) | [鹿子野](https://x.com/JoshXie1) | 作者文章 | [来源](https://x.com/JoshXie1/status/2096848111411011800) | 2026-10-18 |
 | [沫沫的运营心得：试定位、整理主页与持续互动](https://x.com/momoai_daily/status/2109962752936783921) | [momoai沫沫🫧](https://x.com/momoai_daily) | 作者文章 | [来源](https://x.com/momoai_daily/status/2109962752936783921) | 2026-10-18 |
+| [蓝哥：从日常实操中接出选题、教程与后续交流](https://x.com/0xlangeai/article/2112516355455066170) | [蓝哥AI](https://x.com/0xlangeai) | 作者文章 | [来源](https://x.com/0xlangeai/status/2112516355455066170) | 2026-10-21 |
+| [Kin：从冷启动到万粉的持续发布与系列选题](https://x.com/KinGao476942/article/2112198262661017812) | [Kin](https://x.com/KinGao476942) | 作者文章 | [来源](https://x.com/KinGao476942/status/2112198262661017812) | 2026-10-21 |
+| [阿乐：一人产品发售中的展示、案例与客户承接](https://x.com/Leepriest1990/article/2111981939947376836) | [aix阿乐](https://x.com/Leepriest1990) | 作者文章 | [来源](https://x.com/Leepriest1990/status/2111981939947376836) | 2026-10-21 |
 
 ## 商业变现
 
@@ -247,6 +264,9 @@
 | [benlin 的审核复盘：拒信、作品整理与申诉说明](https://x.com/benlinbaofu/status/2095346153869234317) | [Getrichworkbook.eth](https://x.com/benlinbaofu) | 作者文章 | [来源](https://x.com/benlinbaofu/status/2095346153869234317) | 2026-10-13 |
 | [汪仔：从内容曝光到客户关系与交付积累](https://x.com/wangzaimedia/status/2109997598186819595) | [汪仔](https://x.com/wangzaimedia) | 作者文章 | [来源](https://x.com/wangzaimedia/status/2109997598186819595) | 2026-10-19 |
 | [汪仔：让定位、产品与内容围绕同一类需求](https://x.com/wangzaimedia/status/2109878580675215842) | [汪仔](https://x.com/wangzaimedia) | 作者文章 | [来源](https://x.com/wangzaimedia/status/2109878580675215842) | 2026-10-19 |
+| [Aron厚玉：让内容团队对受众与商业转化负责](https://x.com/aronhouyu/article/2112527912905887841) | [Aron厚玉](https://x.com/aronhouyu) | 作者文章 | [来源](https://x.com/aronhouyu/status/2112527912905887841) | 2026-10-21 |
+| [阿乐：一人产品发售中的展示、案例与客户承接](https://x.com/Leepriest1990/article/2111981939947376836) | [aix阿乐](https://x.com/Leepriest1990) | 作者文章 | [来源](https://x.com/Leepriest1990/status/2111981939947376836) | 2026-10-21 |
+| [Henry：按目标选择 X 与其他内容平台的分工](https://x.com/Mr_HenryMorgan/article/2111408962222567886) | [HenryMorgan](https://x.com/Mr_HenryMorgan) | 作者文章 | [来源](https://x.com/Mr_HenryMorgan/status/2111408962222567886) | 2026-10-21 |
 
 ## 数据复盘
 
@@ -290,6 +310,10 @@
 | [鹿子野的热点实验：引用、改作与关注转化](https://x.com/JoshXie1/status/2096848111411011800) | [鹿子野](https://x.com/JoshXie1) | 作者文章 | [来源](https://x.com/JoshXie1/status/2096848111411011800) | 2026-10-18 |
 | [Koda 的涨粉复盘：曝光与主页转化分别观察](https://x.com/wadezone/status/2051707806802469052) | [Koda](https://x.com/wadezone) | 作者文章 | [来源](https://x.com/wadezone/status/2051707806802469052) | 2026-10-18 |
 | [云比云：用流量基线拆解曝光、留存与关注](https://x.com/yunbiyun/status/2102559412766552413) | [云比云](https://x.com/yunbiyun) | 作者文章 | [来源](https://x.com/yunbiyun/status/2102559412766552413) | 2026-10-19 |
+| [Aron厚玉：让内容团队对受众与商业转化负责](https://x.com/aronhouyu/article/2112527912905887841) | [Aron厚玉](https://x.com/aronhouyu) | 作者文章 | [来源](https://x.com/aronhouyu/status/2112527912905887841) | 2026-10-21 |
+| [蓝哥：从日常实操中接出选题、教程与后续交流](https://x.com/0xlangeai/article/2112516355455066170) | [蓝哥AI](https://x.com/0xlangeai) | 作者文章 | [来源](https://x.com/0xlangeai/status/2112516355455066170) | 2026-10-21 |
+| [陈大黄：拆解评论曝光与主页内容之间的承接](https://x.com/realchendahuang/article/2109946863403352104) | [陈大黄](https://x.com/realchendahuang) | 作者文章 | [来源](https://x.com/realchendahuang/status/2109946863403352104) | 2026-10-21 |
+| [AYi：用自己的帖子数据比较曝光与关注转化](https://x.com/AYi_AInotes/article/2112163256278073375) | [AYi](https://x.com/AYi_AInotes) | 作者文章 | [来源](https://x.com/AYi_AInotes/status/2112163256278073375) | 2026-10-21 |
 
 ## 平台规则
 

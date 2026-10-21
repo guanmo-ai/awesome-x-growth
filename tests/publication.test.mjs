@@ -17,10 +17,11 @@ test('正式分享地址支持子目录，拒绝凭据和非 HTTPS 地址',()=>{
 test('独立文章页无需 JavaScript，保留来源和摘要边界且不泄漏研究字段',()=>{
   const a=articles.find(a=>a.showcase),html=articlePage(a,'https://example.test/');
   assert.ok(html.includes(a.sourceUrl));assert.ok(html.includes('作者原文开头'));assert.ok(html.includes('AI 总结'));assert.ok(!html.includes('适用边界'));assert.ok(!html.includes('来源与核验范围'));
-  assert.ok(html.includes('阅读说明'));assert.ok(html.includes(a.caveat));
+  assert.ok(html.includes('不代表本站立场'));assert.ok(!html.includes('阅读说明'));assert.ok(!html.includes(a.caveat));
   assert.ok(!html.includes('<script'));assert.ok(html.includes('../'+a.presentation.cover.slice(2)));assert.ok(html.includes('class="viewer-cover"'));
   const payload=publicArticle({...a,sections:[{body:'隐藏旧笔记'}],summary:'旧导读'});
   assert.equal(payload.sections,undefined);assert.equal(payload.summary,undefined);assert.deepEqual(payload.excerpt,a.excerpt);
+  for(const key of ['caveat','readingRange','evidence','policyReview'])assert.equal(payload[key],undefined);
 });
 test('展示文章必须有原图，并保留来源署名与尺寸',()=>{
   const changed=structuredClone(articles),a=changed.find(a=>a.showcase);

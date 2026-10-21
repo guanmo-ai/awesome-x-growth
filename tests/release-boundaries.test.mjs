@@ -42,6 +42,34 @@ test('公开投影保留每篇原图，移除本地审阅标记，也不改写�
   assert.deepEqual(a,before);
 });
 
+test('未知字段不能夹带正文进入源数据或公开投影，包含嵌套对象与数组',()=>{
+  const marker='PRIVATE_FULL_TEXT_PROBE';
+  for(const mutate of [
+    a=>a.rawContent=marker,
+    a=>a.author.rawContent=marker,
+    a=>a.excerpt.blocks[0].rawContent=marker,
+    a=>a.aiSummary.points[0].rawContent=marker,
+    a=>a.presentation.rawContent=marker,
+    a=>a.rights.rawContent=marker,
+    a=>a.socialSnapshot.rawContent=marker,
+    a=>a.readingRange.rawContent=marker,
+  ]){
+    const data=structuredClone(articles),a=data.find(a=>a.showcase&&a.socialSnapshot);
+    mutate(a);
+    const before=structuredClone(a);
+    assert.ok(validateData(data,syntheses).some(e=>e.includes('未声明字段')));
+    assert.ok(!JSON.stringify(publicArticle(a)).includes(marker));
+    assert.deepEqual(a,before);
+  }
+});
+
+test('标量字段不能通过嵌套对象夹带未声明内容',()=>{
+  const data=structuredClone(articles),a=data.find(a=>a.showcase);
+  a.author.name={rawContent:'PRIVATE_FULL_TEXT_PROBE'};
+  assert.ok(validateData(data,syntheses).some(e=>e.includes('字段结构无效')));
+  assert.ok(!JSON.stringify(publicArticle(a)).includes('PRIVATE_FULL_TEXT_PROBE'));
+});
+
 test('识别高置信度凭据模式，不把普通变量名当凭据',()=>{
   assert.equal(hasCredential('ghp_'+'A'.repeat(36)),true);
   assert.equal(hasCredential('API_KEY=你的环境变量'),false);

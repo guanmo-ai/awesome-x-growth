@@ -1289,7 +1289,7 @@
         },
         {
           "title": "增长有传播条件",
-          "text": "作者自报十个月的增长，并披露早期大号转发及共创者的帮助。它是包含个人资源、内容经验与传播支持的长篇复盘，粉丝、曝光和点赞并未由本站独立审计。"
+          "text": "作者回顾十个月的内容更新、早期大号转发和共创经历，梳理朋友支持、内容经验与传播协作怎样帮助自己逐步建立账号。"
         }
       ],
       "sourceUrl": "https://x.com/rwayne/status/2097305709683884441",
@@ -2302,7 +2302,7 @@
         },
         {
           "title": "传播并非只靠文案",
-          "text": "复盘披露前辈改稿和已有大号朋友的转发，发布后也持续回应评论。标题写 48 小时、正文另有 72 小时口径，成绩不能只归因于文案，也未经本站独立审计。"
+          "text": "作者复盘了前辈改稿、大号朋友转发以及发布后持续回应评论的过程，说明一次集中发布如何与事前打磨、传播支持和后续互动配合。"
         }
       ],
       "sourceUrl": "https://x.com/AI_Jasonyu/status/2099511297221992587",
@@ -2738,7 +2738,7 @@
         },
         {
           "title": "工作流仍在调整",
-          "text": "作者标注部分文字由 AI 撰写且待调整，提出从必要的选题表字段开始，再按任务量拆分。流程及两条任务的结果为自述，本站没有运行或测量其效率与涨粉效果。"
+          "text": "作者从必要的选题表字段开始，再按任务量拆分看板，并展示了 AI 辅助生成和持续调整两条内容任务的过程。"
         }
       ],
       "sourceUrl": "https://x.com/aronhouyu/status/2089234846174396886",
@@ -3036,15 +3036,15 @@
       "points": [
         {
           "title": "用故事建立第一印象",
-          "text": "作者先用个人故事让陌生读者认识自己，再以长视频教程展示可以提供的帮助，之后围绕及时话题持续更新。文章把这三个阶段串成自己的执行过程，而不是只给一套标题模板。"
+          "text": "作者按个人故事、长视频教程和及时话题三个阶段，说明怎样先让陌生读者认识自己，再展示能提供的帮助，并通过持续更新延长交流。"
         },
         {
           "title": "内容与互动共同积累信任",
-          "text": "作者区分引来新读者、建立专业印象和承接服务的内容，也谈到简介、头像、背景图与社群转发。其增长伴随每天几十条推文、两天一篇长文的投入，不能忽略时间成本。"
+          "text": "作者区分引来新读者、建立专业印象和承接服务的内容，也结合简介、头像、背景图与社群交流，说明怎样用持续更新的作品和教程积累信任。"
         },
         {
           "title": "公开工作流，保留人的判断",
-          "text": "原文链接到自己的 GitHub 工作流，强调 AI 辅助与个人思考结合。仓库入口可以继续追踪方法变化；文中关于平台、泛流量和热点的看法属于作者当时的经验判断。"
+          "text": "作者公开自己的 GitHub 工作流，展示怎样用 AI 辅助整理选题、准备内容和发布，同时结合个人思考决定表达方向。"
         }
       ],
       "sourceUrl": "https://x.com/ai_xiaomu/status/2055184114110943538",
@@ -4019,7 +4019,7 @@
         },
         {
           "title": "教程与话题承担不同用途",
-          "text": "原文把故事、系统教程和话题内容并列讨论，分别连接个人认识、持续信任与传播。本站保留其经验，不把描述升级为算法保证。"
+          "text": "作者把个人故事、系统教程和话题内容并列讨论，分别用于让读者认识自己、持续积累信任和扩大传播。"
         },
         {
           "title": "识别已有积累和分发条件",
@@ -13061,6 +13061,1104 @@
       "coverOriginalUrl": "https://pbs.twimg.com/media/HS1Wa5eaUAAbXqF.jpg",
       "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2062917297241767936/8OiIj1sc_200x200.jpg",
       "mediaCheckedAt": "2026-10-19"
+    }
+  },
+  {
+    "id": "aron-content-business-growth",
+    "title": "Aron厚玉：让内容团队对受众与商业转化负责",
+    "originalTitle": "内容创作如何驱动商业增长",
+    "author": {
+      "name": "Aron厚玉",
+      "handle": "aronhouyu",
+      "url": "https://x.com/aronhouyu"
+    },
+    "sourceUrl": "https://x.com/aronhouyu/status/2112527912905887841",
+    "tweetUrl": "https://x.com/aronhouyu/status/2112527912905887841",
+    "readingUrl": "https://x.com/aronhouyu/article/2112527912905887841",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
+    "topics": [
+      "content",
+      "monetization",
+      "analytics"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 120,
+    "summary": "Aron厚玉从内容负责人岗位出发，拆解目标受众、品牌定位、内容分发和团队协作怎样接到商业转化。",
+    "takeaways": [
+      "用理想客户的场景、问题、独特观点和阅读习惯确定选题，再观察内容带来的留存与后续转化。",
+      "通过总指南与专题内容回答不同阶段的问题，让读者能沿文章找到模板、试用或服务；再放大自然反馈较好的内容。",
+      "从创始人与内容负责人验证第一条转化路径开始，逐步补充视觉、剪辑、分发与社群岗位，并沉淀排期和交付流程。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "Aron厚玉从内容负责人岗位出发，拆解目标受众、品牌定位、内容分发和团队协作怎样接到商业转化。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2112527912905887841",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读 Article 开头、职责、定位、案例与团队分工相关文字；总结限于这些段落。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "内容负责人正在成为一项非常稀缺又值钱的工作\n\n因为我整理了上万条招聘信息，发现其实内容创作驱动的数据增长，正在成为一个新的需求点",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "内容负责人正在成为一项非常稀缺又值钱的工作",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "因为我整理了上万条招聘信息，发现其实内容创作驱动的数据增长，正在成为一个新的需求点",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/aronhouyu/status/2112527912905887841",
+      "checkedAt": "2026-10-21",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "先明确要吸引什么人",
+          "text": "用理想客户的场景、问题、独特观点和阅读习惯确定选题，再观察内容带来的留存与后续转化。"
+        },
+        {
+          "title": "把自然传播与转化入口接起来",
+          "text": "通过总指南与专题内容回答不同阶段的问题，让读者能沿文章找到模板、试用或服务；再放大自然反馈较好的内容。"
+        },
+        {
+          "title": "按发展阶段组织内容团队",
+          "text": "从创始人与内容负责人验证第一条转化路径开始，逐步补充视觉、剪辑、分发与社群岗位，并沉淀排期和交付流程。"
+        }
+      ],
+      "sourceUrl": "https://x.com/aronhouyu/status/2112527912905887841",
+      "checkedAt": "2026-10-21",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/aron-content-business-growth-cover.jpg",
+      "avatar": "./assets/articles/aron-content-business-growth-avatar.jpg",
+      "deck": "Aron厚玉从内容负责人岗位出发，拆解目标受众、品牌定位、内容分发和团队协作怎样接到商业转化。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "内容创作如何驱动商业增长 · 原文封面",
+      "mediaCredit": "Aron厚玉",
+      "mediaSource": "https://x.com/aronhouyu/status/2112527912905887841",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVEz900bAAASTEi.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2064553439850532864/a3JplYRF_200x200.jpg",
+      "mediaCheckedAt": "2026-10-21"
+    },
+    "socialSnapshot": {
+      "likes": 12,
+      "bookmarks": 12,
+      "replies": 1,
+      "capturedAt": "2026-10-21T07:06:06.744711+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/aronhouyu/status/2112527912905887841",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "rwayne-article-cover-title",
+    "title": "Roland：让长文封面与标题各自提供信息",
+    "originalTitle": "长文封面，到底要不要加文字？",
+    "author": {
+      "name": "Roland.W",
+      "handle": "rwayne",
+      "url": "https://x.com/rwayne"
+    },
+    "sourceUrl": "https://x.com/rwayne/status/2109984130540908979",
+    "tweetUrl": "https://x.com/rwayne/status/2109984130540908979",
+    "readingUrl": "https://x.com/rwayne/article/2109984130540908979",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-13",
+    "checkedAt": "2026-10-21",
+    "topics": [
+      "content"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 121,
+    "summary": "Roland对照多类内容账号，讨论长文封面怎样与标题配合，形成可识别的风格，并帮助读者决定是否点开。",
+    "takeaways": [
+      "标题已经讲清主题时，封面可以用人物、场景或感受提供另一部分信息，避免机械重复整句标题。",
+      "通过肖像、作品和版式等案例，说明账号怎样形成反复可见的视觉特征，让读者逐渐认出创作者。",
+      "当文字帮助识别、理解或区分内容时可以保留；工具长文可展示使用场景，主页同质画面的内容则需要更清楚的区分线索。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "Roland对照多类内容账号，讨论长文封面怎样与标题配合，形成可识别的风格，并帮助读者决定是否点开。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2109984130540908979",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "做长文封面的时候，有一个问题困扰了很多人，就是文章已经有标题了，封面上还要不要加标题、关键词、卖点或者数字这些文字？\n\n我的偏好是先不加\n\n这里说的不加文字，主要是不急着把标题、关键词、卖点或者数字这些文字加进图片里，并不是说封面里连账号名字、标识，或者帮助理解画面的文字都不应该有。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "做长文封面的时候，有一个问题困扰了很多人，就是文章已经有标题了，封面上还要不要加标题、关键词、卖点或者数字这些文字？",
+          "styles": []
+        },
+        {
+          "type": "blockquote",
+          "text": "我的偏好是先不加",
+          "styles": [
+            {
+              "offset": 0,
+              "length": 8,
+              "style": "Bold"
+            }
+          ]
+        },
+        {
+          "type": "unstyled",
+          "text": "这里说的不加文字，主要是不急着把标题、关键词、卖点或者数字这些文字加进图片里，并不是说封面里连账号名字、标识，或者帮助理解画面的文字都不应该有。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/rwayne/status/2109984130540908979",
+      "checkedAt": "2026-10-21",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "把标题和封面当作一个整体",
+          "text": "标题已经讲清主题时，封面可以用人物、场景或感受提供另一部分信息，避免机械重复整句标题。"
+        },
+        {
+          "title": "用稳定的视觉表达积累识别",
+          "text": "通过肖像、作品和版式等案例，说明账号怎样形成反复可见的视觉特征，让读者逐渐认出创作者。"
+        },
+        {
+          "title": "根据阅读场景决定是否加字",
+          "text": "当文字帮助识别、理解或区分内容时可以保留；工具长文可展示使用场景，主页同质画面的内容则需要更清楚的区分线索。"
+        }
+      ],
+      "sourceUrl": "https://x.com/rwayne/status/2109984130540908979",
+      "checkedAt": "2026-10-21",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/rwayne-article-cover-title-cover.jpg",
+      "avatar": "./assets/articles/rwayne-article-cover-title-avatar.jpg",
+      "deck": "Roland对照多类内容账号，讨论长文封面怎样与标题配合，形成可识别的风格，并帮助读者决定是否点开。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "长文封面，到底要不要加文字？ · 原文封面",
+      "mediaCredit": "Roland.W",
+      "mediaSource": "https://x.com/rwayne/status/2109984130540908979",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HUgqwNxaEAERTzN.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_200x200.jpg",
+      "mediaCheckedAt": "2026-10-21"
+    },
+    "socialSnapshot": {
+      "likes": 67,
+      "bookmarks": 37,
+      "replies": 18,
+      "capturedAt": "2026-10-21T07:06:10.219850+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/rwayne/status/2109984130540908979",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "lange-near-ten-thousand-review",
+    "title": "蓝哥：从日常实操中接出选题、教程与后续交流",
+    "originalTitle": "万粉路上的复盘 : 从三个月才千粉到一个来月接近万粉",
+    "author": {
+      "name": "蓝哥AI",
+      "handle": "0xlangeai",
+      "url": "https://x.com/0xlangeai"
+    },
+    "sourceUrl": "https://x.com/0xlangeai/status/2112516355455066170",
+    "tweetUrl": "https://x.com/0xlangeai/status/2112516355455066170",
+    "readingUrl": "https://x.com/0xlangeai/article/2112516355455066170",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
+    "topics": [
+      "growth",
+      "content",
+      "engagement",
+      "analytics"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 122,
+    "summary": "蓝哥回顾从三个月千粉到接近万粉的过程，梳理怎样从真实使用卡点形成教程、延伸选题，并用读者问题继续改进。",
+    "takeaways": [
+      "记录想完成的任务、遇到的问题、尝试过程与有效办法，从已经跑通的小问题开始分享。",
+      "教程先说明适合谁、最终能做什么，再补准备条件、操作、常见报错和结果检查，让初学者能跟着完成。",
+      "围绕读者反复询问的步骤写补充、对比和新案例，互相链接主教程，并每周记录反馈与下一次调整。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "蓝哥回顾从三个月千粉到接近万粉的过程，梳理怎样从真实使用卡点形成教程、延伸选题，并用读者问题继续改进。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2112516355455066170",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "快万粉了, 有点激动,  已经有点等不急到万粉后再复盘了, 实在是有太多想说的, 有很多要感谢的朋友,  以及感恩支持我的粉丝大大们. \n\n第一个千粉，我花了接近三个月。\n\n从9月11日的千粉，到10月20日的快万粉，用了1个月9天。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "快万粉了, 有点激动,  已经有点等不急到万粉后再复盘了, 实在是有太多想说的, 有很多要感谢的朋友,  以及感恩支持我的粉丝大大们. ",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "第一个千粉，我花了接近三个月。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "从9月11日的千粉，到10月20日的快万粉，用了1个月9天。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/0xlangeai/status/2112516355455066170",
+      "checkedAt": "2026-10-21",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "从自己解决过的卡点找选题",
+          "text": "记录想完成的任务、遇到的问题、尝试过程与有效办法，从已经跑通的小问题开始分享。"
+        },
+        {
+          "title": "把结果与跟练过程讲清楚",
+          "text": "教程先说明适合谁、最终能做什么，再补准备条件、操作、常见报错和结果检查，让初学者能跟着完成。"
+        },
+        {
+          "title": "用发布后的问题接续内容",
+          "text": "围绕读者反复询问的步骤写补充、对比和新案例，互相链接主教程，并每周记录反馈与下一次调整。"
+        }
+      ],
+      "sourceUrl": "https://x.com/0xlangeai/status/2112516355455066170",
+      "checkedAt": "2026-10-21",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/lange-near-ten-thousand-review-cover.jpg",
+      "avatar": "./assets/articles/lange-near-ten-thousand-review-avatar.jpg",
+      "deck": "蓝哥回顾从三个月千粉到接近万粉的过程，梳理怎样从真实使用卡点形成教程、延伸选题，并用读者问题继续改进。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "万粉路上的复盘 : 从三个月才千粉到一个来月接近万粉 · 原文封面",
+      "mediaCredit": "蓝哥AI",
+      "mediaSource": "https://x.com/0xlangeai/status/2112516355455066170",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVE6JN_asAAJcNd.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2108429130471776256/bVX57DM8_200x200.png",
+      "mediaCheckedAt": "2026-10-21"
+    },
+    "socialSnapshot": {
+      "likes": 103,
+      "bookmarks": 62,
+      "replies": 64,
+      "capturedAt": "2026-10-21T07:06:15.166373+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/0xlangeai/status/2112516355455066170",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "dahuang-junedangg-account-analysis",
+    "title": "陈大黄：拆解评论曝光与主页内容之间的承接",
+    "originalTitle": "X 账号拆解 ｜ @JuneDangg（君定老头）：为什么有真本事的人在 X 上反而容易吃亏？",
+    "author": {
+      "name": "陈大黄",
+      "handle": "realchendahuang",
+      "url": "https://x.com/realchendahuang"
+    },
+    "sourceUrl": "https://x.com/realchendahuang/status/2109946863403352104",
+    "tweetUrl": "https://x.com/realchendahuang/status/2109946863403352104",
+    "readingUrl": "https://x.com/realchendahuang/article/2109946863403352104",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-13",
+    "checkedAt": "2026-10-21",
+    "topics": [
+      "analytics",
+      "content",
+      "growth"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 123,
+    "summary": "陈大黄结合一个账号的后台记录和五篇代表推文，拆解评论曝光、主页访问、原创内容与关注之间的关系。",
+    "takeaways": [
+      "分别观察回复和原创带来的曝光、主页访问及关注，再看主页内容是否能接住从讨论区进入的新读者。",
+      "将业务背景、投入成本、具体过程和读者能获得的启发写清楚，避免只留下自己看得懂的随手记录。",
+      "把已有项目、客户反馈和未成交案例整理为复盘，再围绕实际优势建立长期选题，让读者持续看到能力与进展。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "陈大黄结合一个账号的后台记录和五篇代表推文，拆解评论曝光、主页访问、原创内容与关注之间的关系。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2109946863403352104",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "前几天 @JuneDangg 找我交流，君哥把自己在 X 后台导出的两份全量数据文件发了过来，想让我帮忙看一看账号。君哥自己觉得是因为不会深层技术工具，没有写高深的技术教程或长文，所以发出来的推文留存比较差，不知道该从哪里改起。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "前几天 @JuneDangg 找我交流，君哥把自己在 X 后台导出的两份全量数据文件发了过来，想让我帮忙看一看账号。君哥自己觉得是因为不会深层技术工具，没有写高深的技术教程或长文，所以发出来的推文留存比较差，不知道该从哪里改起。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/realchendahuang/status/2109946863403352104",
+      "checkedAt": "2026-10-21",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "把回复与原创拆开比较",
+          "text": "分别观察回复和原创带来的曝光、主页访问及关注，再看主页内容是否能接住从讨论区进入的新读者。"
+        },
+        {
+          "title": "让每条推文交代完整上下文",
+          "text": "将业务背景、投入成本、具体过程和读者能获得的启发写清楚，避免只留下自己看得懂的随手记录。"
+        },
+        {
+          "title": "把散落的实践整理成系列",
+          "text": "把已有项目、客户反馈和未成交案例整理为复盘，再围绕实际优势建立长期选题，让读者持续看到能力与进展。"
+        }
+      ],
+      "sourceUrl": "https://x.com/realchendahuang/status/2109946863403352104",
+      "checkedAt": "2026-10-21",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/dahuang-junedangg-account-analysis-cover.jpg",
+      "avatar": "./assets/articles/dahuang-junedangg-account-analysis-avatar.jpg",
+      "deck": "陈大黄结合一个账号的后台记录和五篇代表推文，拆解评论曝光、主页访问、原创内容与关注之间的关系。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "X 账号拆解 ｜ @JuneDangg（君定老头）：为什么有真本事的人在 X 上反而容易吃亏？ · 原文封面",
+      "mediaCredit": "陈大黄",
+      "mediaSource": "https://x.com/realchendahuang/status/2109946863403352104",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HUgIKqcboAAQNJF.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2066350826617282560/9WSzwx4A_200x200.jpg",
+      "mediaCheckedAt": "2026-10-21"
+    },
+    "socialSnapshot": {
+      "likes": 23,
+      "bookmarks": 22,
+      "replies": 15,
+      "capturedAt": "2026-10-21T07:06:25.884478+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/realchendahuang/status/2109946863403352104",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "kin-ten-thousand-growth-review",
+    "title": "Kin：从冷启动到万粉的持续发布与系列选题",
+    "originalTitle": "推特万粉复盘：我如何不到2个月快速涨到 10,000 粉？附实操建议和模版",
+    "author": {
+      "name": "Kin",
+      "handle": "KinGao476942",
+      "url": "https://x.com/KinGao476942"
+    },
+    "sourceUrl": "https://x.com/KinGao476942/status/2112198262661017812",
+    "tweetUrl": "https://x.com/KinGao476942/status/2112198262661017812",
+    "readingUrl": "https://x.com/KinGao476942/article/2112198262661017812",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-19",
+    "checkedAt": "2026-10-21",
+    "topics": [
+      "growth",
+      "content",
+      "engagement"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 124,
+    "summary": "Kin沿时间线复盘自己的 X 起号过程，讨论持续发布、真实实操、系列选题、引用补充和公开模板怎样共同形成内容积累。",
+    "takeaways": [
+      "围绕产品发布亲自测试，结合截图、视频和具体任务分享，再从人群、场景和产品变化延伸同一系列。",
+      "通过真实体验、详细观点和实践补充参与交流，让原内容的读者也能从自己的回复中得到新增信息。",
+      "长文沉淀方法，日常更新项目和职业进展，里程碑记录帮助回顾；文末公开常用模板，供读者继续使用。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "Kin沿时间线复盘自己的 X 起号过程，讨论持续发布、真实实操、系列选题、引用补充和公开模板怎样共同形成内容积累。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2112198262661017812",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "大家好，我是 Kin。就在昨天（10 月 18 日），我的 𝕏 粉丝突破了 1 万，一共用时一个月零 18 天。\n\n当然，比我更快的大佬非常多。比如 Suv 老师，靠精美的小王子游戏作品一夜涨了几万粉；还有袁博老师，也是很快（印象里只用了几天）就突破了几万粉丝。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "大家好，我是 Kin。就在昨天（10 月 18 日），我的 𝕏 粉丝突破了 1 万，一共用时一个月零 18 天。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "当然，比我更快的大佬非常多。比如 Suv 老师，靠精美的小王子游戏作品一夜涨了几万粉；还有袁博老师，也是很快（印象里只用了几天）就突破了几万粉丝。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/KinGao476942/status/2112198262661017812",
+      "checkedAt": "2026-10-21",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "把实操过程变成持续选题",
+          "text": "围绕产品发布亲自测试，结合截图、视频和具体任务分享，再从人群、场景和产品变化延伸同一系列。"
+        },
+        {
+          "title": "引用和评论时加入自己的内容",
+          "text": "通过真实体验、详细观点和实践补充参与交流，让原内容的读者也能从自己的回复中得到新增信息。"
+        },
+        {
+          "title": "用长文、日常与模板形成持续联系",
+          "text": "长文沉淀方法，日常更新项目和职业进展，里程碑记录帮助回顾；文末公开常用模板，供读者继续使用。"
+        }
+      ],
+      "sourceUrl": "https://x.com/KinGao476942/status/2112198262661017812",
+      "checkedAt": "2026-10-21",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/kin-ten-thousand-growth-review-cover.jpg",
+      "avatar": "./assets/articles/kin-ten-thousand-growth-review-avatar.jpg",
+      "deck": "Kin沿时间线复盘自己的 X 起号过程，讨论持续发布、真实实操、系列选题、引用补充和公开模板怎样共同形成内容积累。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "推特万粉复盘：我如何不到2个月快速涨到 10,000 粉？附实操建议和模版 · 原文封面",
+      "mediaCredit": "Kin",
+      "mediaSource": "https://x.com/KinGao476942/status/2112198262661017812",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HU-azwjbcAAWeCV.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/1843083681210273792/_w6C8yFQ_200x200.jpg",
+      "mediaCheckedAt": "2026-10-21"
+    },
+    "socialSnapshot": {
+      "likes": 285,
+      "bookmarks": 529,
+      "replies": 66,
+      "capturedAt": "2026-10-21T07:06:34.182133+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/KinGao476942/status/2112198262661017812",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "ayi-posts-follow-conversion-analysis",
+    "title": "AYi：用自己的帖子数据比较曝光与关注转化",
+    "originalTitle": "x自媒体10个月涨到7万粉，我用AI拆了流量最高的662条推文：哪些真涨粉、哪些白写，提示词+模板全部开源",
+    "author": {
+      "name": "AYi",
+      "handle": "AYi_AInotes",
+      "url": "https://x.com/AYi_AInotes"
+    },
+    "sourceUrl": "https://x.com/AYi_AInotes/status/2112163256278073375",
+    "tweetUrl": "https://x.com/AYi_AInotes/status/2112163256278073375",
+    "readingUrl": "https://x.com/AYi_AInotes/article/2112163256278073375",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-19",
+    "checkedAt": "2026-10-21",
+    "topics": [
+      "analytics",
+      "growth",
+      "content"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 125,
+    "summary": "AYi用自己账号的662条推文做复盘，拆开曝光、收藏和新增关注，展示数据预检、分组比较、提示词和月度体检卡。",
+    "takeaways": [
+      "先按月比较曝光、新增和取消关注，再观察每千次曝光带来的关注，检查流量增加时实际留下了多少人。",
+      "区分原创和回复，再按话题、篇幅、图片或视频分组，使用中位数，并检查少量爆款是否改变整体判断。",
+      "先对齐帖子ID、字段、日期和缺失值；一次计算一张表，把过程与来源保存下来，再整理成每月重复使用的账号体检卡。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "AYi用自己账号的662条推文做复盘，拆开曝光、收藏和新增关注，展示数据预检、分组比较、提示词和月度体检卡。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2112163256278073375",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "这篇只捞干货，全篇核心讲三件事： 为什么我曝光最高的那个月近4000万？→涨粉反而最少？ →怎么不写一行代码，用 AI 把自己的 X 数据拆明白？→ 5 条反常识结论，怎么直接拿去对照你自己的账号？",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "这篇只捞干货，全篇核心讲三件事： 为什么我曝光最高的那个月近4000万？→涨粉反而最少？ →怎么不写一行代码，用 AI 把自己的 X 数据拆明白？→ 5 条反常识结论，怎么直接拿去对照你自己的账号？",
+          "styles": [
+            {
+              "offset": 17,
+              "length": 82,
+              "style": "Bold"
+            }
+          ]
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/AYi_AInotes/status/2112163256278073375",
+      "checkedAt": "2026-10-21",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "把曝光和关注放在同一张表里看",
+          "text": "先按月比较曝光、新增和取消关注，再观察每千次曝光带来的关注，检查流量增加时实际留下了多少人。"
+        },
+        {
+          "title": "按内容类型与自身基线比较",
+          "text": "区分原创和回复，再按话题、篇幅、图片或视频分组，使用中位数，并检查少量爆款是否改变整体判断。"
+        },
+        {
+          "title": "先预检数据，再逐表运行复盘",
+          "text": "先对齐帖子ID、字段、日期和缺失值；一次计算一张表，把过程与来源保存下来，再整理成每月重复使用的账号体检卡。"
+        }
+      ],
+      "sourceUrl": "https://x.com/AYi_AInotes/status/2112163256278073375",
+      "checkedAt": "2026-10-21",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/ayi-posts-follow-conversion-analysis-cover.jpg",
+      "avatar": "./assets/articles/ayi-posts-follow-conversion-analysis-avatar.jpg",
+      "deck": "AYi用自己账号的662条推文做复盘，拆开曝光、收藏和新增关注，展示数据预检、分组比较、提示词和月度体检卡。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "x自媒体10个月涨到7万粉，我用AI拆了流量最高的662条推文：哪些真涨粉、哪些白写，提示词+模板全部开源 · 原文封面",
+      "mediaCredit": "AYi",
+      "mediaSource": "https://x.com/AYi_AInotes/status/2112163256278073375",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVFHI-raUAAtEFg.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_200x200.jpg",
+      "mediaCheckedAt": "2026-10-21"
+    },
+    "socialSnapshot": {
+      "likes": 299,
+      "bookmarks": 374,
+      "replies": 55,
+      "capturedAt": "2026-10-21T07:06:37.692160+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/AYi_AInotes/status/2112163256278073375",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "ale-x-product-launch-review",
+    "title": "阿乐：一人产品发售中的展示、案例与客户承接",
+    "originalTitle": "3天120单、变现1万：一人推特发售的完整手册（附4步法）",
+    "author": {
+      "name": "aix阿乐",
+      "handle": "Leepriest1990",
+      "url": "https://x.com/Leepriest1990"
+    },
+    "sourceUrl": "https://x.com/Leepriest1990/status/2111981939947376836",
+    "tweetUrl": "https://x.com/Leepriest1990/status/2111981939947376836",
+    "readingUrl": "https://x.com/Leepriest1990/article/2111981939947376836",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-19",
+    "checkedAt": "2026-10-21",
+    "topics": [
+      "monetization",
+      "content",
+      "engagement"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 126,
+    "summary": "阿乐复盘在 X 发售采集插件的过程，从首次交付失误讲到产品演示、案例内容、后续传播、客户承接与定价调整。",
+    "takeaways": [
+      "把产品功能、适合的人、具体用法和可获得的价值写清楚，用自己的演示展示实际结果。",
+      "围绕项目结果、实现过程和参与条件组织案例，再用后续引用与评论补充产品信息，回应读者的问题。",
+      "作者对比早期代理模式的交付问题与后续轻量产品发售，记录私域承接、客户反馈、持续修复和提价后的销售变化。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "阿乐复盘在 X 发售采集插件的过程，从首次交付失误讲到产品演示、案例内容、后续传播、客户承接与定价调整。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2111981939947376836",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "Hello，我是阿乐，02 年，目前在杭州做 AI 获客。\n\n先说结果。我自己做的小红书采集插件​，在推特上做了 3 天发售，卖了 120 单​，到手 1 万块​。没投流，没买粉，没群发。整场发售，从头到尾，就我一个人加一个小助理",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "Hello，我是阿乐，02 年，目前在杭州做 AI 获客。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "先说结果。我自己做的小红书采集插件​，在推特上做了 3 天发售，卖了 120 单​，到手 1 万块​。没投流，没买粉，没群发。整场发售，从头到尾，就我一个人加一个小助理",
+          "styles": [
+            {
+              "offset": 10,
+              "length": 7,
+              "style": "Bold"
+            },
+            {
+              "offset": 35,
+              "length": 5,
+              "style": "Bold"
+            },
+            {
+              "offset": 45,
+              "length": 4,
+              "style": "Bold"
+            }
+          ]
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/Leepriest1990/status/2111981939947376836",
+      "checkedAt": "2026-10-21",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "用演示讲清楚产品解决什么问题",
+          "text": "把产品功能、适合的人、具体用法和可获得的价值写清楚，用自己的演示展示实际结果。"
+        },
+        {
+          "title": "把案例与后续内容接回产品",
+          "text": "围绕项目结果、实现过程和参与条件组织案例，再用后续引用与评论补充产品信息，回应读者的问题。"
+        },
+        {
+          "title": "把发售与实际交付一起复盘",
+          "text": "作者对比早期代理模式的交付问题与后续轻量产品发售，记录私域承接、客户反馈、持续修复和提价后的销售变化。"
+        }
+      ],
+      "sourceUrl": "https://x.com/Leepriest1990/status/2111981939947376836",
+      "checkedAt": "2026-10-21",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/ale-x-product-launch-review-cover.jpg",
+      "avatar": "./assets/articles/ale-x-product-launch-review-avatar.jpg",
+      "deck": "阿乐复盘在 X 发售采集插件的过程，从首次交付失误讲到产品演示、案例内容、后续传播、客户承接与定价调整。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "3天120单、变现1万：一人推特发售的完整手册（附4步法） · 原文封面",
+      "mediaCredit": "aix阿乐",
+      "mediaSource": "https://x.com/Leepriest1990/status/2111981939947376836",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HUrInVQaEAAOS7j.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2079360104848363520/Emy8Imyg_200x200.jpg",
+      "mediaCheckedAt": "2026-10-21"
+    },
+    "socialSnapshot": {
+      "likes": 37,
+      "bookmarks": 62,
+      "replies": 4,
+      "capturedAt": "2026-10-21T07:06:52.965738+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/Leepriest1990/status/2111981939947376836",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "zhongying-position-profile",
+    "title": "麻酱AI实验室：把账号定位落实到个人主页",
+    "originalTitle": "X推特运营&新手涨粉：为什么别人要关注你？账号定位＋主页搭建保姆级教程",
+    "author": {
+      "name": "麻酱AI实验室",
+      "handle": "zhongying14",
+      "url": "https://x.com/zhongying14"
+    },
+    "sourceUrl": "https://x.com/zhongying14/status/2112525587596165195",
+    "tweetUrl": "https://x.com/zhongying14/status/2112525587596165195",
+    "readingUrl": "https://x.com/zhongying14/article/2112525587596165195",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
+    "topics": [
+      "growth",
+      "content"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 127,
+    "summary": "麻酱AI实验室结合多个创作者主页，拆解受众、持续内容、简介、视觉形象和置顶帖怎样一起说明关注理由。",
+    "takeaways": [
+      "从正在做的项目、作品和实际经历确定受众与内容线，让读者知道以后在账号里能看到什么。",
+      "头像和昵称帮助识别，背景图补充重点，简介说明方向与作品，置顶为第一次来的读者提供继续了解的入口。",
+      "把简介里的方向与作品、进展和近期推文逐项对照，再请不熟悉自己的朋友描述账号，找出表达上的偏差。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "麻酱AI实验室结合多个创作者主页，拆解受众、持续内容、简介、视觉形象和置顶帖怎样一起说明关注理由。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2112525587596165195",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "你辛苦写了一篇内容，别人点进主页，看完却没有关注，问题可能就出在这里。\n\n简介写着“AI爱好者，分享干货”，但具体分享什么、适合谁看，读者还要自己猜。头像、背景图、置顶和最近的内容，也没有帮他进一步认识你。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "你辛苦写了一篇内容，别人点进主页，看完却没有关注，问题可能就出在这里。",
+          "styles": [
+            {
+              "offset": 0,
+              "length": 35,
+              "style": "Bold"
+            }
+          ]
+        },
+        {
+          "type": "unstyled",
+          "text": "简介写着“AI爱好者，分享干货”，但具体分享什么、适合谁看，读者还要自己猜。头像、背景图、置顶和最近的内容，也没有帮他进一步认识你。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/zhongying14/status/2112525587596165195",
+      "checkedAt": "2026-10-21",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "先说清楚写给谁与持续写什么",
+          "text": "从正在做的项目、作品和实际经历确定受众与内容线，让读者知道以后在账号里能看到什么。"
+        },
+        {
+          "title": "让主页各位置互相补充",
+          "text": "头像和昵称帮助识别，背景图补充重点，简介说明方向与作品，置顶为第一次来的读者提供继续了解的入口。"
+        },
+        {
+          "title": "检查主页承诺与近期内容是否对应",
+          "text": "把简介里的方向与作品、进展和近期推文逐项对照，再请不熟悉自己的朋友描述账号，找出表达上的偏差。"
+        }
+      ],
+      "sourceUrl": "https://x.com/zhongying14/status/2112525587596165195",
+      "checkedAt": "2026-10-21",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/zhongying-position-profile-cover.jpg",
+      "avatar": "./assets/articles/zhongying-position-profile-avatar.jpg",
+      "deck": "麻酱AI实验室结合多个创作者主页，拆解受众、持续内容、简介、视觉形象和置顶帖怎样一起说明关注理由。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "X推特运营&新手涨粉：为什么别人要关注你？账号定位＋主页搭建保姆级教程 · 原文封面",
+      "mediaCredit": "麻酱AI实验室",
+      "mediaSource": "https://x.com/zhongying14/status/2112525587596165195",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVEwfPsWoAAZ3hZ.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2090507193543970816/wpC3PGYc_200x200.jpg",
+      "mediaCheckedAt": "2026-10-21"
+    },
+    "socialSnapshot": {
+      "likes": 3,
+      "bookmarks": 2,
+      "replies": 1,
+      "capturedAt": "2026-10-21T07:07:00.990355+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/zhongying14/status/2112525587596165195",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "henry-x-platform-combination",
+    "title": "Henry：按目标选择 X 与其他内容平台的分工",
+    "originalTitle": "人在大陆，要不要做 X？和小红书、公众号怎么选",
+    "author": {
+      "name": "HenryMorgan",
+      "handle": "Mr_HenryMorgan",
+      "url": "https://x.com/Mr_HenryMorgan"
+    },
+    "sourceUrl": "https://x.com/Mr_HenryMorgan/status/2111408962222567886",
+    "tweetUrl": "https://x.com/Mr_HenryMorgan/status/2111408962222567886",
+    "readingUrl": "https://x.com/Mr_HenryMorgan/article/2111408962222567886",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-17",
+    "checkedAt": "2026-10-21",
+    "topics": [
+      "content",
+      "monetization"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 128,
+    "summary": "Henry比较 X、小红书和公众号在内容形态、受众和转化上的差异，提出围绕个人目标安排主平台与辅助平台。",
+    "takeaways": [
+      "围绕现金流、个人品牌或兴趣表达，结合自己熟悉的主题、内容形态与可投入时间，选择主平台。",
+      "作者用“小红书讲怎么用、公众号讲为什么、X讲怎么看”说明同源内容可以调整表达，并为品牌、线索或服务转化分工。",
+      "辅助平台服务导流、存档、测题或接洽；先完成可持续的主平台更新，再按实际需要增加第二个平台。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "Henry比较 X、小红书和公众号在内容形态、受众和转化上的差异，提出围绕个人目标安排主平台与辅助平台。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2111408962222567886",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "人在中国大陆，想做内容、搞副业，平台选择经常被聊成跟风或焦虑。\n\n小红书火了就冲小红书，公众号又说私域才是王道，X（原 Twitter）偶尔也被吹成海外金矿。\n\n问题是：你人在哪、能写什么、愿意承担什么风险，没想清楚，平台选得越热闹，越容易空转。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "人在中国大陆，想做内容、搞副业，平台选择经常被聊成跟风或焦虑。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "小红书火了就冲小红书，公众号又说私域才是王道，X（原 Twitter）偶尔也被吹成海外金矿。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "问题是：你人在哪、能写什么、愿意承担什么风险，没想清楚，平台选得越热闹，越容易空转。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/Mr_HenryMorgan/status/2111408962222567886",
+      "checkedAt": "2026-10-21",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "先确定希望用内容换来什么",
+          "text": "围绕现金流、个人品牌或兴趣表达，结合自己熟悉的主题、内容形态与可投入时间，选择主平台。"
+        },
+        {
+          "title": "让同一主题承担不同平台的任务",
+          "text": "作者用“小红书讲怎么用、公众号讲为什么、X讲怎么看”说明同源内容可以调整表达，并为品牌、线索或服务转化分工。"
+        },
+        {
+          "title": "先让一个主平台跑起来",
+          "text": "辅助平台服务导流、存档、测题或接洽；先完成可持续的主平台更新，再按实际需要增加第二个平台。"
+        }
+      ],
+      "sourceUrl": "https://x.com/Mr_HenryMorgan/status/2111408962222567886",
+      "checkedAt": "2026-10-21",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/henry-x-platform-combination-cover.jpg",
+      "avatar": "./assets/articles/henry-x-platform-combination-avatar.jpg",
+      "deck": "Henry比较 X、小红书和公众号在内容形态、受众和转化上的差异，提出围绕个人目标安排主平台与辅助平台。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "人在大陆，要不要做 X？和小红书、公众号怎么选 · 原文封面",
+      "mediaCredit": "HenryMorgan",
+      "mediaSource": "https://x.com/Mr_HenryMorgan/status/2111408962222567886",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HU07GdtaEAAukP-.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2110387410467168256/90TZ2ufu_200x200.jpg",
+      "mediaCheckedAt": "2026-10-21"
+    },
+    "socialSnapshot": {
+      "likes": 1,
+      "bookmarks": 1,
+      "replies": 0,
+      "capturedAt": "2026-10-21T07:07:04.713708+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/Mr_HenryMorgan/status/2111408962222567886",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
     }
   }
 ]
