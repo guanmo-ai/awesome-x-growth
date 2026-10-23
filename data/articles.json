@@ -14160,5 +14160,2281 @@
       "sourceUrl": "https://x.com/Mr_HenryMorgan/status/2111408962222567886",
       "evidence": "读取原帖公开元数据时的快照，不实时更新。"
     }
+  },
+  {
+    "id": "mileson-x-monetization-paths",
+    "title": "超级峰：比较 X 原创奖励、订阅与活动三条路径",
+    "originalTitle": "X变现终极完整攻略，小白都能看得懂",
+    "author": {
+      "name": "超级峰",
+      "handle": "Mileson07",
+      "url": "https://x.com/Mileson07"
+    },
+    "sourceUrl": "https://x.com/Mileson07/status/2113217722188177642",
+    "tweetUrl": "https://x.com/Mileson07/status/2113217722188177642",
+    "readingUrl": "https://x.com/Mileson07/article/2113217722188177642",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-22",
+    "checkedAt": "2026-10-22",
+    "topics": [
+      "monetization",
+      "content",
+      "engagement"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 133,
+    "summary": "超级峰将 X 上的原创内容奖励、创作者订阅和活动比赛分开讨论，说明不同阶段怎样安排原创发布、公开内容与独家内容。",
+    "takeaways": [
+      "原创奖励围绕日常原创内容，订阅需要持续向付费读者交付，活动比赛则是阶段性机会；作者建议先看自己的积累与进度，再决定投入。",
+      "公开部分展示观点与能力，独家部分提供深入材料；通过订阅入口和内容预览，让读者了解付费后能继续获得什么。",
+      "作者强调持续发布自己的观点、作品和分析，在讨论中补充具体信息；活动沿用已有创作方向，不必每次临时改变内容。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "超级峰将 X 上的原创内容奖励、创作者订阅和活动比赛分开讨论，说明不同阶段怎样安排原创发布、公开内容与独家内容。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2113217722188177642",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "X上变现，不是只有一种方法。有的按合格曝光给钱，有的靠订阅月费，有的靠活动拿大奖。门槛不一样，适合的人也不同。\n\n先看清三条路，再决定你现在能走哪一条。不要一上来就想着怎么最大化收益，先摸到门槛。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "X上变现，不是只有一种方法。有的按合格曝光给钱，有的靠订阅月费，有的靠活动拿大奖。门槛不一样，适合的人也不同。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "先看清三条路，再决定你现在能走哪一条。不要一上来就想着怎么最大化收益，先摸到门槛。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/Mileson07/status/2113217722188177642",
+      "checkedAt": "2026-10-22",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "先区分三种收入的来源",
+          "text": "原创奖励围绕日常原创内容，订阅需要持续向付费读者交付，活动比赛则是阶段性机会；作者建议先看自己的积累与进度，再决定投入。"
+        },
+        {
+          "title": "让公开内容与独家内容各有任务",
+          "text": "公开部分展示观点与能力，独家部分提供深入材料；通过订阅入口和内容预览，让读者了解付费后能继续获得什么。"
+        },
+        {
+          "title": "把原创与正常交流作为日常积累",
+          "text": "作者强调持续发布自己的观点、作品和分析，在讨论中补充具体信息；活动沿用已有创作方向，不必每次临时改变内容。"
+        }
+      ],
+      "sourceUrl": "https://x.com/Mileson07/status/2113217722188177642",
+      "checkedAt": "2026-10-22",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/mileson-x-monetization-paths-cover.jpg",
+      "avatar": "./assets/articles/mileson-x-monetization-paths-avatar.jpg",
+      "deck": "超级峰将 X 上的原创内容奖励、创作者订阅和活动比赛分开讨论，说明不同阶段怎样安排原创发布、公开内容与独家内容。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "X变现终极完整攻略，小白都能看得懂 · 原文封面",
+      "mediaCredit": "超级峰",
+      "mediaSource": "https://x.com/Mileson07/status/2113217722188177642",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVOn8obXkAA-XEx.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2092152764868816896/IcyU8-cQ_200x200.jpg",
+      "mediaCheckedAt": "2026-10-22"
+    },
+    "socialSnapshot": {
+      "likes": 16,
+      "bookmarks": 25,
+      "replies": 0,
+      "capturedAt": "2026-10-23T05:11:21.377574+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/Mileson07/status/2113217722188177642",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    },
+    "policyReview": {
+      "checkedAt": "2026-10-22",
+      "note": "已回源当前X官方帮助页；奖励计划的曝光与粉丝门槛、回复不计入门槛等主要描述有对应官方条款。 作者写申诉失败后等90天，官方当前页为42天；订阅可能扣Apple/Google等适用平台费用，不能扩写为完全无平台费用。 本站导读只概括三条收入路径、原创内容、订阅公开与付费内容的分工，不复述天数、门槛、收费或到账时间，也不将作者建议标为已验证效果。",
+      "topics": [
+        "rewards"
+      ],
+      "sources": [
+        "https://help.x.com/en/using-x/original-content-rewards",
+        "https://help.x.com/en/rules-and-policies/subscriptions-policy",
+        "https://help.x.com/en/using-x/subscriptions-creator"
+      ]
+    }
+  },
+  {
+    "id": "shimei-daily-x-operations",
+    "title": "0x小师妹：把复盘、选题与评论排进日常运营",
+    "originalTitle": "怎么做好 X？每天固定走这 5 步（附自己做的两个工具）",
+    "author": {
+      "name": "0x小师妹",
+      "handle": "0xshimei",
+      "url": "https://x.com/0xshimei"
+    },
+    "sourceUrl": "https://x.com/0xshimei/status/2113135881381204324",
+    "tweetUrl": "https://x.com/0xshimei/status/2113135881381204324",
+    "readingUrl": "https://x.com/0xshimei/article/2113135881381204324",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-22",
+    "checkedAt": "2026-10-22",
+    "topics": [
+      "analytics",
+      "content",
+      "engagement"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 134,
+    "summary": "0x小师妹结合自己的账号与工具，展开数据复盘、流量来源、选题、评论和发布时段五步流程，并说明多平台分发怎样接在后面。",
+    "takeaways": [
+      "对照表现较好与较差的帖子，比较开头、篇幅、话题和时段，再拆开新帖、旧帖和评论带来的浏览，决定下一步把时间花在哪里。",
+      "按领域整理多方报道并标记已写话题；参与相关讨论时，承接原帖的信息，补充个人经验与判断，再检查和修改评论草稿。",
+      "依据自己的历史表现尝试发布时间，发布后把同一内容适配到其他平台；样本较少时先积累记录，再逐步调整写法和频次。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "0x小师妹结合自己的账号与工具，展开数据复盘、流量来源、选题、评论和发布时段五步流程，并说明多平台分发怎样接在后面。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2113135881381204324",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "全职做推特的人，一天的时间大多花在三件事上：刷信息流找今天写什么，翻热帖找能接话的地方，写完一篇再复制到别的平台重新排一遍版。真正写东西的时间，反而最少。\n\n我自己也是这么过来的。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "全职做推特的人，一天的时间大多花在三件事上：刷信息流找今天写什么，翻热帖找能接话的地方，写完一篇再复制到别的平台重新排一遍版。真正写东西的时间，反而最少。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "我自己也是这么过来的。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/0xshimei/status/2113135881381204324",
+      "checkedAt": "2026-10-22",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "先比较自己的内容和流量来源",
+          "text": "对照表现较好与较差的帖子，比较开头、篇幅、话题和时段，再拆开新帖、旧帖和评论带来的浏览，决定下一步把时间花在哪里。"
+        },
+        {
+          "title": "让选题与评论回应具体信息",
+          "text": "按领域整理多方报道并标记已写话题；参与相关讨论时，承接原帖的信息，补充个人经验与判断，再检查和修改评论草稿。"
+        },
+        {
+          "title": "用稳定流程安排发布与分发",
+          "text": "依据自己的历史表现尝试发布时间，发布后把同一内容适配到其他平台；样本较少时先积累记录，再逐步调整写法和频次。"
+        }
+      ],
+      "sourceUrl": "https://x.com/0xshimei/status/2113135881381204324",
+      "checkedAt": "2026-10-22",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/shimei-daily-x-operations-cover.jpg",
+      "avatar": "./assets/articles/shimei-daily-x-operations-avatar.jpg",
+      "deck": "0x小师妹结合自己的账号与工具，展开数据复盘、流量来源、选题、评论和发布时段五步流程，并说明多平台分发怎样接在后面。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "怎么做好 X？每天固定走这 5 步（附自己做的两个工具） · 原文封面",
+      "mediaCredit": "0x小师妹",
+      "mediaSource": "https://x.com/0xshimei/status/2113135881381204324",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVK5VUDa0AA4tpA.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2095121226092199936/zzu_W2B2_200x200.jpg",
+      "mediaCheckedAt": "2026-10-22"
+    },
+    "socialSnapshot": {
+      "likes": 50,
+      "bookmarks": 8,
+      "replies": 48,
+      "capturedAt": "2026-10-23T05:16:13.113060+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/0xshimei/status/2113135881381204324",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "chris-lange-series-growth-analysis",
+    "title": "Chris：从蓝哥的时间线拆解系列选题与持续传播",
+    "originalTitle": "0 到 1000 粉用了 3 个月，3000 到 5000 只用了 2 天：差的不是运气",
+    "author": {
+      "name": "Chris",
+      "handle": "Chris62771610",
+      "url": "https://x.com/Chris62771610"
+    },
+    "sourceUrl": "https://x.com/Chris62771610/status/2107262795226165249",
+    "tweetUrl": "https://x.com/Chris62771610/status/2107262795226165249",
+    "readingUrl": "https://x.com/Chris62771610/article/2107262795226165249",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-06",
+    "checkedAt": "2026-10-22",
+    "topics": [
+      "growth",
+      "content",
+      "engagement",
+      "analytics"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 135,
+    "summary": "Chris沿蓝哥的发帖与涨粉时间线，对照两轮产品教程，分析小帖试题、完整长文、后续系列和同领域交流怎样衔接。",
+    "takeaways": [
+      "记录正在使用的产品与实际卡点，观察新品发布和读者提问；先用小帖说明最具体的问题，再根据反馈展开能跟练的教程。",
+      "把同一产品拆成使用场景、常见问题、视频版与后续案例，通过引用链接回主教程，让新读者能顺着内容继续阅读。",
+      "作者同时回看认真转评、线下认识同行、里程碑记录和已有受众，讨论内容发布前后有哪些传播支持，以及新品赛道对速度的要求。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "Chris沿蓝哥的发帖与涨粉时间线，对照两轮产品教程，分析小帖试题、完整长文、后续系列和同领域交流怎样衔接。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2107262795226165249",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "发了几十条，每条几十浏览，涨粉长期停滞——如果你现在是这个状态，这篇值得看完。\n\n因为我拆的这个号，起点和你一模一样。\n\n我把 @0xlangeai（蓝哥AI）的帖子从头到尾翻了一遍，连他自己发的里程碑帖都逐条对上了号。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "发了几十条，每条几十浏览，涨粉长期停滞——如果你现在是这个状态，这篇值得看完。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "因为我拆的这个号，起点和你一模一样。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "我把 @0xlangeai（蓝哥AI）的帖子从头到尾翻了一遍，连他自己发的里程碑帖都逐条对上了号。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/Chris62771610/status/2107262795226165249",
+      "checkedAt": "2026-10-22",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "从真实使用问题找到首篇选题",
+          "text": "记录正在使用的产品与实际卡点，观察新品发布和读者提问；先用小帖说明最具体的问题，再根据反馈展开能跟练的教程。"
+        },
+        {
+          "title": "围绕主教程继续补充不同入口",
+          "text": "把同一产品拆成使用场景、常见问题、视频版与后续案例，通过引用链接回主教程，让新读者能顺着内容继续阅读。"
+        },
+        {
+          "title": "把日常交流和既有积累放进时间线",
+          "text": "作者同时回看认真转评、线下认识同行、里程碑记录和已有受众，讨论内容发布前后有哪些传播支持，以及新品赛道对速度的要求。"
+        }
+      ],
+      "sourceUrl": "https://x.com/Chris62771610/status/2107262795226165249",
+      "checkedAt": "2026-10-22",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/chris-lange-series-growth-analysis-cover.jpg",
+      "avatar": "./assets/articles/chris-lange-series-growth-analysis-avatar.jpg",
+      "deck": "Chris沿蓝哥的发帖与涨粉时间线，对照两轮产品教程，分析小帖试题、完整长文、后续系列和同领域交流怎样衔接。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "0 到 1000 粉用了 3 个月，3000 到 5000 只用了 2 天：差的不是运气 · 原文封面",
+      "mediaCredit": "Chris",
+      "mediaSource": "https://x.com/Chris62771610/status/2107262795226165249",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HT5_KG1aIAAYjxe.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2109932975660105728/Ne_NXFR3_200x200.jpg",
+      "mediaCheckedAt": "2026-10-22"
+    },
+    "socialSnapshot": {
+      "likes": 54,
+      "bookmarks": 47,
+      "replies": 25,
+      "capturedAt": "2026-10-23T05:11:23.765751+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/Chris62771610/status/2107262795226165249",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "ethan-alanshao-content-business",
+    "title": "Ethan 恩宇：从邵艾伦的内容转型看能力展示与产品承接",
+    "originalTitle": "邵艾伦发家史：从一条练肩 Vlog，到把自己做成生意",
+    "author": {
+      "name": "Ethan 恩宇",
+      "handle": "UPing123zzz",
+      "url": "https://x.com/UPing123zzz"
+    },
+    "sourceUrl": "https://x.com/UPing123zzz/status/2107685998675300825",
+    "tweetUrl": "https://x.com/UPing123zzz/status/2107685998675300825",
+    "readingUrl": "https://x.com/UPing123zzz/article/2107685998675300825",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-07",
+    "checkedAt": "2026-10-22",
+    "topics": [
+      "content",
+      "monetization",
+      "growth"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 136,
+    "summary": "Ethan 恩宇按时间整理邵艾伦从健身记录、英语节目到课程与新话题的变化，分析内容中的能力展示如何连接产品，以及 X 与视频平台的分工。",
+    "takeaways": [
+      "从生活记录到反复更新的英语节目，作者关注创作者怎样把个人技能变成观众能持续观看的内容，再接出课程与工具。",
+      "文章对照英语课、服装、口语工具、会员与咨询等尝试，分析关注理由怎样变化，以及不同产品与既有内容之间的关系。",
+      "作者把完整节目、商品入口和 X 上的高频观点放在一起观察，讨论同一个创作者怎样在不同平台展示能力、生活判断与新话题。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "Ethan 恩宇按时间整理邵艾伦从健身记录、英语节目到课程与新话题的变化，分析内容中的能力展示如何连接产品，以及 X 与视频平台的分工。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2107685998675300825",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "2018 年 3 月，邵艾伦还在美国读书。他在 B 站上传了一条肩部训练 Vlog：一个喜欢健身的留学生，把自己的训练拍了下来。\n\n那时没有《国际尬聊》，没有英语课，也没有后来被反复讨论的“薄肌”和“黄毛”。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "2018 年 3 月，邵艾伦还在美国读书。他在 B 站上传了一条肩部训练 Vlog：一个喜欢健身的留学生，把自己的训练拍了下来。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "那时没有《国际尬聊》，没有英语课，也没有后来被反复讨论的“薄肌”和“黄毛”。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/UPing123zzz/status/2107685998675300825",
+      "checkedAt": "2026-10-22",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "让观众在持续内容中看见能力",
+          "text": "从生活记录到反复更新的英语节目，作者关注创作者怎样把个人技能变成观众能持续观看的内容，再接出课程与工具。"
+        },
+        {
+          "title": "沿内容变化理解产品尝试",
+          "text": "文章对照英语课、服装、口语工具、会员与咨询等尝试，分析关注理由怎样变化，以及不同产品与既有内容之间的关系。"
+        },
+        {
+          "title": "给不同平台安排不同表达",
+          "text": "作者把完整节目、商品入口和 X 上的高频观点放在一起观察，讨论同一个创作者怎样在不同平台展示能力、生活判断与新话题。"
+        }
+      ],
+      "sourceUrl": "https://x.com/UPing123zzz/status/2107685998675300825",
+      "checkedAt": "2026-10-22",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/ethan-alanshao-content-business-cover.jpg",
+      "avatar": "./assets/articles/ethan-alanshao-content-business-avatar.jpg",
+      "deck": "Ethan 恩宇按时间整理邵艾伦从健身记录、英语节目到课程与新话题的变化，分析内容中的能力展示如何连接产品，以及 X 与视频平台的分工。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "邵艾伦发家史：从一条练肩 Vlog，到把自己做成生意 · 原文封面",
+      "mediaCredit": "Ethan 恩宇",
+      "mediaSource": "https://x.com/UPing123zzz/status/2107685998675300825",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HT80EOUbYAA7oP_.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2106574155038724096/-FeenOii_200x200.jpg",
+      "mediaCheckedAt": "2026-10-22"
+    },
+    "socialSnapshot": {
+      "likes": 5,
+      "bookmarks": 3,
+      "replies": 1,
+      "capturedAt": "2026-10-23T05:16:15.116059+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/UPing123zzz/status/2107685998675300825",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "jason-content-client-acquisition",
+    "title": "大熊Jason：围绕客户问题组织内容与咨询承接",
+    "originalTitle": "普通人自媒体获客方法论",
+    "author": {
+      "name": "大熊Jason",
+      "handle": "JasonCharlie12",
+      "url": "https://x.com/JasonCharlie12"
+    },
+    "sourceUrl": "https://x.com/JasonCharlie12/status/2104828477941694769",
+    "tweetUrl": "https://x.com/JasonCharlie12/status/2104828477941694769",
+    "readingUrl": "https://x.com/JasonCharlie12/article/2104828477941694769",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-09-29",
+    "checkedAt": "2026-10-22",
+    "topics": [
+      "content",
+      "monetization",
+      "analytics"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 137,
+    "summary": "大熊Jason从可交付的产品或服务出发，拆解目标客户、内容结构、咨询入口、素材测试和后续承接，区分内容热度与实际获客。",
+    "takeaways": [
+      "用具体客户、具体问题与已有经验说明定位，再围绕这个问题组织内容，让需要这项服务的人能认出与自己的关系。",
+      "按客户问题、解决办法和差异组织表达，用相关清单、案例或模板说明服务价值，并交代读者继续了解和联系的路径。",
+      "围绕同一问题比较不同标题、开头与案例，记录带来的咨询，保留有效素材继续调整；同时登记线索、及时回应并跟进交付。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "大熊Jason从可交付的产品或服务出发，拆解目标客户、内容结构、咨询入口、素材测试和后续承接，区分内容热度与实际获客。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2104828477941694769",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "这套方法整理自我们内部跑通的「流量获客系统」，就讲一件事：普通人怎么靠自媒体账号持续找到客户。\n\n如果你希望通过自媒体进行获客，请一定要好好看完这篇内容，这个内容价值百万，但是一定要记住，获客前提是你有一个能交付的东西（服务、产品、课程、资料）",
+      "blocks": [
+        {
+          "type": "header-two",
+          "text": "这套方法整理自我们内部跑通的「流量获客系统」，就讲一件事：普通人怎么靠自媒体账号持续找到客户。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "如果你希望通过自媒体进行获客，请一定要好好看完这篇内容，这个内容价值百万，但是一定要记住，获客前提是你有一个能交付的东西（服务、产品、课程、资料）",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/JasonCharlie12/status/2104828477941694769",
+      "checkedAt": "2026-10-22",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "先明确服务谁以及能交付什么",
+          "text": "用具体客户、具体问题与已有经验说明定位，再围绕这个问题组织内容，让需要这项服务的人能认出与自己的关系。"
+        },
+        {
+          "title": "让内容、示例材料与咨询入口对应",
+          "text": "按客户问题、解决办法和差异组织表达，用相关清单、案例或模板说明服务价值，并交代读者继续了解和联系的路径。"
+        },
+        {
+          "title": "按有效咨询记录和复用素材",
+          "text": "围绕同一问题比较不同标题、开头与案例，记录带来的咨询，保留有效素材继续调整；同时登记线索、及时回应并跟进交付。"
+        }
+      ],
+      "sourceUrl": "https://x.com/JasonCharlie12/status/2104828477941694769",
+      "checkedAt": "2026-10-22",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/jason-content-client-acquisition-cover.jpg",
+      "avatar": "./assets/articles/jason-content-client-acquisition-avatar.jpg",
+      "deck": "大熊Jason从可交付的产品或服务出发，拆解目标客户、内容结构、咨询入口、素材测试和后续承接，区分内容热度与实际获客。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "普通人自媒体获客方法论 · 原文封面",
+      "mediaCredit": "大熊Jason",
+      "mediaSource": "https://x.com/JasonCharlie12/status/2104828477941694769",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HTXZ4jOXEAApBIj.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/1989957258147749888/_Hgp6XyB_200x200.jpg",
+      "mediaCheckedAt": "2026-10-22"
+    },
+    "socialSnapshot": {
+      "likes": 219,
+      "bookmarks": 362,
+      "replies": 13,
+      "capturedAt": "2026-10-23T05:17:51.623617+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/JasonCharlie12/status/2104828477941694769",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "shimei-post-writing-sample-review",
+    "title": "0x小师妹：从帖子样本整理实测内容的写作检查表",
+    "originalTitle": "我用ai扫完5481条帖，发现写出爆款就这5条规律",
+    "author": {
+      "name": "0x小师妹",
+      "handle": "0xshimei",
+      "url": "https://x.com/0xshimei"
+    },
+    "sourceUrl": "https://x.com/0xshimei/status/2109854643484524949",
+    "tweetUrl": "https://x.com/0xshimei/status/2109854643484524949",
+    "readingUrl": "https://x.com/0xshimei/article/2109854643484524949",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-13",
+    "checkedAt": "2026-10-22",
+    "topics": [
+      "content",
+      "analytics"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 138,
+    "summary": "0x小师妹对比一批 X 原创帖，并回看自己写得不清楚的实测帖，整理开头、主线、篇幅、配图和发布时机的写作检查表。",
+    "takeaways": [
+      "作者用自己的旧稿作对照，建议先说明测到了什么，再展开支持这一结论的过程；其他判断和补充信息可以另行组织。",
+      "结合样本中的长帖与 Article，讨论怎样让内容完整可读；配图优先展示成品、真实界面或数据，并标清读者需要注意的位置。",
+      "回看新品发布与帖子发布时间，整理自己的选题和表达；发出前逐项检查结果是否清楚、主线是否集中、配图是否能说明问题。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "0x小师妹对比一批 X 原创帖，并回看自己写得不清楚的实测帖，整理开头、主线、篇幅、配图和发布时机的写作检查表。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2109854643484524949",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "花了 1 个小时用 Claude 跑脚本，扫完 119 个博主的 5481 条原创帖，我把精读 490 条爆款学到的东西整理成了 5 条规律。\n\n读完这篇大约需要 5 分钟。\n\n你会看懂为什么 1594 条中文 AI 帖里过 20 万浏览的只有 25 条，以及以后发实测帖怎么一眼抓住读者。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "花了 1 个小时用 Claude 跑脚本，扫完 119 个博主的 5481 条原创帖，我把精读 490 条爆款学到的东西整理成了 5 条规律。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "读完这篇大约需要 5 分钟。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "你会看懂为什么 1594 条中文 AI 帖里过 20 万浏览的只有 25 条，以及以后发实测帖怎么一眼抓住读者。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/0xshimei/status/2109854643484524949",
+      "checkedAt": "2026-10-22",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "让第一句话交代结果，主帖围绕一条主线",
+          "text": "作者用自己的旧稿作对照，建议先说明测到了什么，再展开支持这一结论的过程；其他判断和补充信息可以另行组织。"
+        },
+        {
+          "title": "按信息量选择篇幅，用画面提供证据",
+          "text": "结合样本中的长帖与 Article，讨论怎样让内容完整可读；配图优先展示成品、真实界面或数据，并标清读者需要注意的位置。"
+        },
+        {
+          "title": "把选题时效与旧稿修改一起检查",
+          "text": "回看新品发布与帖子发布时间，整理自己的选题和表达；发出前逐项检查结果是否清楚、主线是否集中、配图是否能说明问题。"
+        }
+      ],
+      "sourceUrl": "https://x.com/0xshimei/status/2109854643484524949",
+      "checkedAt": "2026-10-22",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/shimei-post-writing-sample-review-cover.jpg",
+      "avatar": "./assets/articles/shimei-post-writing-sample-review-avatar.jpg",
+      "deck": "0x小师妹对比一批 X 原创帖，并回看自己写得不清楚的实测帖，整理开头、主线、篇幅、配图和发布时机的写作检查表。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "我用ai扫完5481条帖，发现写出爆款就这5条规律 · 原文封面",
+      "mediaCredit": "0x小师妹",
+      "mediaSource": "https://x.com/0xshimei/status/2109854643484524949",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HUe1mfeaMAAxp2-.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2095121226092199936/zzu_W2B2_200x200.jpg",
+      "mediaCheckedAt": "2026-10-22"
+    },
+    "socialSnapshot": {
+      "likes": 22,
+      "bookmarks": 5,
+      "replies": 20,
+      "capturedAt": "2026-10-23T05:19:13.389151+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/0xshimei/status/2109854643484524949",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "jessi-content-to-qualified-inquiry",
+    "title": "Jessi Cao：从 X 推广合作谈内容与有效咨询的衔接",
+    "originalTitle": "用小红书获客：从第一篇笔记到第一次有效咨询，完整拆一遍",
+    "author": {
+      "name": "Jessi Cao",
+      "handle": "JessiCao_JC",
+      "url": "https://x.com/JessiCao_JC"
+    },
+    "sourceUrl": "https://x.com/JessiCao_JC/status/2112049868940447862",
+    "tweetUrl": "https://x.com/JessiCao_JC/status/2112049868940447862",
+    "readingUrl": "https://x.com/JessiCao_JC/article/2112049868940447862",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-19",
+    "checkedAt": "2026-10-22",
+    "topics": [
+      "content",
+      "monetization",
+      "analytics"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 139,
+    "summary": "Jessi Cao以自己通过内容达成 X 推广合作的经历为例，讨论怎样展示解决问题的过程、确认客户需求、说明交付，并记录咨询的后续结果。",
+    "takeaways": [
+      "围绕潜在客户真正需要确认的问题组织选题，用有权公开的材料或明确标注的示例展示处理办法，让读者理解作者能提供什么帮助。",
+      "接住对方眼前的问题，补问当前缺少的背景；确定属于自己的服务范围后，再解释价格、交付、所需配合与下一次沟通。",
+      "记录咨询来自哪篇内容、具体问题、服务是否匹配以及下一步；同一个人的多次沟通仍是一个对象，双方愿意继续了解也还不等于成交。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "Jessi Cao以自己通过内容达成 X 推广合作的经历为例，讨论怎样展示解决问题的过程、确认客户需求、说明交付，并记录咨询的后续结果。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2112049868940447862",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读并核对 Article 正文 blocks 0—66（约3171字），不把末尾引用卡片、重复文字与作者本机图片路径作为导读材料；未读完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "之前我小红书写过一篇介绍 2026 年怎么做 X 平台的内容，后台来了不少私信\n\n有的人问怎么注册 X，有的人说自己已经有一个产品，想知道怎么在 X 上推广。后面这类沟通就很直接：有产品，有想做的事情，只是不清楚这个平台该怎么用。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "之前我小红书写过一篇介绍 2026 年怎么做 X 平台的内容，后台来了不少私信",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "有的人问怎么注册 X，有的人说自己已经有一个产品，想知道怎么在 X 上推广。后面这类沟通就很直接：有产品，有想做的事情，只是不清楚这个平台该怎么用。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/JessiCao_JC/status/2112049868940447862",
+      "checkedAt": "2026-10-22",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "用客户购买前的问题展示解决过程",
+          "text": "围绕潜在客户真正需要确认的问题组织选题，用有权公开的材料或明确标注的示例展示处理办法，让读者理解作者能提供什么帮助。"
+        },
+        {
+          "title": "先确认需求匹配，再说明交付与下一步",
+          "text": "接住对方眼前的问题，补问当前缺少的背景；确定属于自己的服务范围后，再解释价格、交付、所需配合与下一次沟通。"
+        },
+        {
+          "title": "把内容来源、咨询对象和结果分开记录",
+          "text": "记录咨询来自哪篇内容、具体问题、服务是否匹配以及下一步；同一个人的多次沟通仍是一个对象，双方愿意继续了解也还不等于成交。"
+        }
+      ],
+      "sourceUrl": "https://x.com/JessiCao_JC/status/2112049868940447862",
+      "checkedAt": "2026-10-22",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/jessi-content-to-qualified-inquiry-cover.jpg",
+      "avatar": "./assets/articles/jessi-content-to-qualified-inquiry-avatar.jpg",
+      "deck": "Jessi Cao以自己通过内容达成 X 推广合作的经历为例，讨论怎样展示解决问题的过程、确认客户需求、说明交付，并记录咨询的后续结果。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "用小红书获客：从第一篇笔记到第一次有效咨询，完整拆一遍 · 原文封面",
+      "mediaCredit": "Jessi Cao",
+      "mediaSource": "https://x.com/JessiCao_JC/status/2112049868940447862",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HU-BgOWaEAA7k6o.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2011057346248867840/HgAgPOqb_200x200.jpg",
+      "mediaCheckedAt": "2026-10-22"
+    },
+    "socialSnapshot": {
+      "likes": 63,
+      "bookmarks": 65,
+      "replies": 6,
+      "capturedAt": "2026-10-23T05:27:41.728937+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/JessiCao_JC/status/2112049868940447862",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "situking-x-daily-use-handbook",
+    "title": "司徒K：把信息筛选、长文分发与发布检查连起来",
+    "originalTitle": "X 深度使用手册（2026 版）：1.5 万字、124 条实操，拆解官方最新算法",
+    "author": {
+      "name": "司徒K",
+      "handle": "situking",
+      "url": "https://x.com/situking"
+    },
+    "sourceUrl": "https://x.com/situking/status/2113456354040197600",
+    "tweetUrl": "https://x.com/situking/status/2113456354040197600",
+    "readingUrl": "https://x.com/situking/article/2113456354040197600",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-23",
+    "checkedAt": "2026-10-23",
+    "topics": [
+      "content",
+      "engagement",
+      "growth"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 140,
+    "summary": "司徒K把边使用边记录的经验整理成 X 使用手册，具体说明信息检索、内容形式、长文分发、发布前检查和日常账号管理。",
+    "takeaways": [
+      "组合账号、关键词、日期和内容形式查找材料，对照热门与最新结果；把固定的一手信息源放进主题列表，重要材料另行归档。",
+      "按信息量选择普通帖、线程或 Article，用清楚的小标题和配图展开复杂内容；再把长文中的结论与小节写成能单独读懂的短帖，提供继续阅读的入口。",
+      "发布前查看封面、手机排版、图片描述、提及与受众范围；安排定时内容后，再到排期列表核对文字、图片、日期和时区。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "司徒K把边使用边记录的经验整理成 X 使用手册，具体说明信息检索、内容形式、长文分发、发布前检查和日常账号管理。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2113456354040197600",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读开头和四部分结构，精读信息检索、列表、长文编辑与分发、排期及发布检查相关文字；导读仅提炼这些段落，不转述算法系数、套餐上限或收益门槛，未逐项复核全部124条及完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "你好，我是司徒K。\n\n认真在X上发内容一个星期，涨了 2000 多粉。\n\n有人让我复盘一下是怎么做的。说实话，我没正经做过复盘，也不太知道该怎么复盘。\n\n但是我有个习惯，接触一个新工具、新平台，都是一边上手，一边学，一边记。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "你好，我是司徒K。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "认真在X上发内容一个星期，涨了 2000 多粉。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "有人让我复盘一下是怎么做的。说实话，我没正经做过复盘，也不太知道该怎么复盘。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "但是我有个习惯，接触一个新工具、新平台，都是一边上手，一边学，一边记。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/situking/status/2113456354040197600",
+      "checkedAt": "2026-10-23",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "用搜索与小列表整理信息来源",
+          "text": "组合账号、关键词、日期和内容形式查找材料，对照热门与最新结果；把固定的一手信息源放进主题列表，重要材料另行归档。"
+        },
+        {
+          "title": "让长文和后续短帖各自完整可读",
+          "text": "按信息量选择普通帖、线程或 Article，用清楚的小标题和配图展开复杂内容；再把长文中的结论与小节写成能单独读懂的短帖，提供继续阅读的入口。"
+        },
+        {
+          "title": "把发布前检查落到具体页面",
+          "text": "发布前查看封面、手机排版、图片描述、提及与受众范围；安排定时内容后，再到排期列表核对文字、图片、日期和时区。"
+        }
+      ],
+      "sourceUrl": "https://x.com/situking/status/2113456354040197600",
+      "checkedAt": "2026-10-23",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/situking-x-daily-use-handbook-cover.jpg",
+      "avatar": "./assets/articles/situking-x-daily-use-handbook-avatar.jpg",
+      "deck": "司徒K把边使用边记录的经验整理成 X 使用手册，具体说明信息检索、内容形式、长文分发、发布前检查和日常账号管理。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "X 深度使用手册（2026 版）：1.5 万字、124 条实操，拆解官方最新算法 · 原文封面",
+      "mediaCredit": "司徒K",
+      "mediaSource": "https://x.com/situking/status/2113456354040197600",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVR952_bEAIMhet.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2092516367803232256/_-M62Ey1_200x200.jpg",
+      "mediaCheckedAt": "2026-10-23"
+    },
+    "socialSnapshot": {
+      "likes": 160,
+      "bookmarks": 285,
+      "replies": 56,
+      "capturedAt": "2026-10-23T11:32:32.081743+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/situking/status/2113456354040197600",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "arthur-overseas-content-business-comparison",
+    "title": "Arthur：从海外账号比较内容形式与商业入口",
+    "originalTitle": "别卷简中了，英文区靠X赚钱的人，到底在发什么？我拆了15个账号后的真实结论，附趋势参考",
+    "author": {
+      "name": "Arthur C",
+      "handle": "0xarthurzs",
+      "url": "https://x.com/0xarthurzs"
+    },
+    "sourceUrl": "https://x.com/0xarthurzs/status/2109250916843245734",
+    "tweetUrl": "https://x.com/0xarthurzs/status/2109250916843245734",
+    "readingUrl": "https://x.com/0xarthurzs/article/2109250916843245734",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-11",
+    "checkedAt": "2026-10-23",
+    "topics": [
+      "content",
+      "monetization",
+      "analytics"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 141,
+    "summary": "Arthur对照多个海外 X 账号，按行业、内容形式与语言梳理不同做法，讨论日常观点、公开项目过程、视频和产品之间怎样形成分工。",
+    "takeaways": [
+      "结合技术、独立开发、文化叙事和视觉内容等案例，分别观察作者在讲什么、用什么内容形式、吸引哪类读者，以及有哪些产品或服务入口。",
+      "文章以独立开发者为例，讨论把项目进展、踩坑和日常分享放到 X，再与产品、订阅、邮件或社群联系起来的做法。",
+      "作者将 X 上的即时观点与交流、YouTube 的长视频及产品订阅分开观察，建议结合自己能持续创作的主题安排内容与商业入口。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "Arthur对照多个海外 X 账号，按行业、内容形式与语言梳理不同做法，讨论日常观点、公开项目过程、视频和产品之间怎样形成分工。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2109250916843245734",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "猫哥 X 海外博主赛道分析，交作业啦！\n\n本文涵盖英文、日语、韩语等多语种和行业赛道，猫哥🐱个人观察👀，仅供参考。\n\n少废话，上干货！\n\n海外榜单\n\n海外国家收入属于个人隐私，很少谈论，肯定有更多人在闷声发大财，以下是部分榜单。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "猫哥 X 海外博主赛道分析，交作业啦！",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "本文涵盖英文、日语、韩语等多语种和行业赛道，猫哥🐱个人观察👀，仅供参考。",
+          "styles": [
+            {
+              "offset": 17,
+              "length": 2,
+              "style": "Bold"
+            }
+          ]
+        },
+        {
+          "type": "unstyled",
+          "text": "少废话，上干货！",
+          "styles": []
+        },
+        {
+          "type": "header-one",
+          "text": "海外榜单",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "海外国家收入属于个人隐私，很少谈论，肯定有更多人在闷声发大财，以下是部分榜单。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/0xarthurzs/status/2109250916843245734",
+      "checkedAt": "2026-10-23",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "把对标账号拆成不同的经营方式",
+          "text": "结合技术、独立开发、文化叙事和视觉内容等案例，分别观察作者在讲什么、用什么内容形式、吸引哪类读者，以及有哪些产品或服务入口。"
+        },
+        {
+          "title": "把公开项目过程接到具体产品",
+          "text": "文章以独立开发者为例，讨论把项目进展、踩坑和日常分享放到 X，再与产品、订阅、邮件或社群联系起来的做法。"
+        },
+        {
+          "title": "让不同平台承担不同内容任务",
+          "text": "作者将 X 上的即时观点与交流、YouTube 的长视频及产品订阅分开观察，建议结合自己能持续创作的主题安排内容与商业入口。"
+        }
+      ],
+      "sourceUrl": "https://x.com/0xarthurzs/status/2109250916843245734",
+      "checkedAt": "2026-10-23",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/arthur-overseas-content-business-comparison-cover.jpg",
+      "avatar": "./assets/articles/arthur-overseas-content-business-comparison-avatar.jpg",
+      "deck": "Arthur对照多个海外 X 账号，按行业、内容形式与语言梳理不同做法，讨论日常观点、公开项目过程、视频和产品之间怎样形成分工。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "别卷简中了，英文区靠X赚钱的人，到底在发什么？我拆了15个账号后的真实结论，附趋势参考 · 原文封面",
+      "mediaCredit": "Arthur C",
+      "mediaSource": "https://x.com/0xarthurzs/status/2109250916843245734",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HUWPx0ybEAAIFnn.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2107102717059702784/JzV1T44M_200x200.jpg",
+      "mediaCheckedAt": "2026-10-23"
+    },
+    "socialSnapshot": {
+      "likes": 21,
+      "bookmarks": 22,
+      "replies": 18,
+      "capturedAt": "2026-10-23T11:31:28.031962+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/0xarthurzs/status/2109250916843245734",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "arthur-lyulogs-account-content-analysis",
+    "title": "Arthur：拆解 LyuLogs 的受众、短帖结构与评论延展",
+    "originalTitle": "简中陆地神仙 or 全世界性压抑群体的导师？2天10w粉的奇迹，赶紧抄作业！",
+    "author": {
+      "name": "Arthur C",
+      "handle": "0xarthurzs",
+      "url": "https://x.com/0xarthurzs"
+    },
+    "sourceUrl": "https://x.com/0xarthurzs/status/2108086369759424614",
+    "tweetUrl": "https://x.com/0xarthurzs/status/2108086369759424614",
+    "readingUrl": "https://x.com/0xarthurzs/article/2108086369759424614",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-08",
+    "checkedAt": "2026-10-23",
+    "topics": [
+      "content",
+      "growth",
+      "engagement",
+      "monetization"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 142,
+    "summary": "Arthur围绕 LyuLogs 的两性与成长话题内容，拆解受众定位、短帖结构、评论区延展和商业承接，并讨论跟随热门表达与长期内容之间的取舍。",
+    "takeaways": [
+      "文章将账号的成长、自我投资与两性话题放在一起，分析它面向什么人，以及直接的语言、清单和个人语气怎样形成辨识。",
+      "作者拆出问句、清单、反转、自嘲和粉丝投稿等结构，再观察评论区里的回复和补充，说明一条短帖怎样继续延展交流。",
+      "文章把传播热度、跟随者的尝试与尚不清晰的变现路径分开讨论，并建议选择愿意为产品和内容付费的受众。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "Arthur围绕 LyuLogs 的两性与成长话题内容，拆解受众定位、短帖结构、评论区延展和商业承接，并讨论跟随热门表达与长期内容之间的取舍。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2108086369759424614",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "全世界性压抑群体大团结万岁🎉！\n\n本期猫哥天选之子分析系列- Lyulog 成神之路\n\n继梭哈哥之后，又一个陆地神仙，2天10w粉的奇迹！这速度放眼全世界，都能榜上有名！\n\n翻了英文区评论，猫哥看到这里绷不住了🤣，log兄是全世界性压抑群体的导师！",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "全世界性压抑群体大团结万岁🎉！",
+          "styles": [
+            {
+              "offset": 0,
+              "length": 15,
+              "style": "Bold"
+            }
+          ]
+        },
+        {
+          "type": "unstyled",
+          "text": "本期猫哥天选之子分析系列- Lyulog 成神之路",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "继梭哈哥之后，又一个陆地神仙，2天10w粉的奇迹！这速度放眼全世界，都能榜上有名！",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "翻了英文区评论，猫哥看到这里绷不住了🤣，log兄是全世界性压抑群体的导师！",
+          "styles": [
+            {
+              "offset": 25,
+              "length": 11,
+              "style": "Bold"
+            },
+            {
+              "offset": 37,
+              "length": 1,
+              "style": "Bold"
+            }
+          ]
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/0xarthurzs/status/2108086369759424614",
+      "checkedAt": "2026-10-23",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "一起观察目标读者、主题和说话方式",
+          "text": "文章将账号的成长、自我投资与两性话题放在一起，分析它面向什么人，以及直接的语言、清单和个人语气怎样形成辨识。"
+        },
+        {
+          "title": "把短帖结构和评论当作连续内容",
+          "text": "作者拆出问句、清单、反转、自嘲和粉丝投稿等结构，再观察评论区里的回复和补充，说明一条短帖怎样继续延展交流。"
+        },
+        {
+          "title": "分别判断传播表现与商业承接",
+          "text": "文章把传播热度、跟随者的尝试与尚不清晰的变现路径分开讨论，并建议选择愿意为产品和内容付费的受众。"
+        }
+      ],
+      "sourceUrl": "https://x.com/0xarthurzs/status/2108086369759424614",
+      "checkedAt": "2026-10-23",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/arthur-lyulogs-account-content-analysis-cover.jpg",
+      "avatar": "./assets/articles/arthur-lyulogs-account-content-analysis-avatar.jpg",
+      "deck": "Arthur围绕 LyuLogs 的两性与成长话题内容，拆解受众定位、短帖结构、评论区延展和商业承接，并讨论跟随热门表达与长期内容之间的取舍。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "简中陆地神仙 or 全世界性压抑群体的导师？2天10w粉的奇迹，赶紧抄作业！ · 原文封面",
+      "mediaCredit": "Arthur C",
+      "mediaSource": "https://x.com/0xarthurzs/status/2108086369759424614",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HUFtSCJaYAAV9Lk.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2107102717059702784/JzV1T44M_200x200.jpg",
+      "mediaCheckedAt": "2026-10-23"
+    },
+    "socialSnapshot": {
+      "likes": 13,
+      "bookmarks": 11,
+      "replies": 12,
+      "capturedAt": "2026-10-23T11:31:30.314597+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/0xarthurzs/status/2108086369759424614",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "yunbiyun-recognizable-content-value",
+    "title": "云比云：让读者快速认出关注价值",
+    "originalTitle": "刷得越多，停得越少，值得关注要能被一眼认出来",
+    "author": {
+      "name": "云比云",
+      "handle": "yunbiyun",
+      "url": "https://x.com/yunbiyun"
+    },
+    "sourceUrl": "https://x.com/yunbiyun/status/2113457824705736846",
+    "tweetUrl": "https://x.com/yunbiyun/status/2113457824705736846",
+    "readingUrl": "https://x.com/yunbiyun/article/2113457824705736846",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-23",
+    "checkedAt": "2026-10-23",
+    "topics": [
+      "content",
+      "growth"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 143,
+    "summary": "云比云从读者划走内容的场景出发，讨论名字、简介、标题与开头怎样传达明确价值，再用真实案例、持续主题和回应追问建立信任。",
+    "takeaways": [
+      "让名字和简介说明自己解决的问题，让标题与配图帮助读者预判内容，再用开头兑现承诺，避免只剩夸张形容词和熟悉套路。",
+      "每次准备追新话题，先看它能否让读者更清楚关注自己能获得什么；相邻题材可以展开，连续更新仍要能看出共同方向。",
+      "展示亲手做过的案例、实际卡点与可回看的判断，并接住具体追问；发布前检查陌生人能否说清自己是谁、内容有什么用和为何可信。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "云比云从读者划走内容的场景出发，讨论名字、简介、标题与开头怎样传达明确价值，再用真实案例、持续主题和回应追问建立信任。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2113457824705736846",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "划走的那一秒，判断已经做完了\n\n晚上躺在床上刷手机，拇指往上一推，下一条就来了。\n\n有的视频还没说完第一句话，就已经被划走。\n\n有的封面做得挺精致，你连点开的念头都没有。\n\n刷了半个小时放下手机，能想起来的账号一个也没有。",
+      "blocks": [
+        {
+          "type": "header-two",
+          "text": "划走的那一秒，判断已经做完了",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "晚上躺在床上刷手机，拇指往上一推，下一条就来了。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "有的视频还没说完第一句话，就已经被划走。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "有的封面做得挺精致，你连点开的念头都没有。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "刷了半个小时放下手机，能想起来的账号一个也没有。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/yunbiyun/status/2113457824705736846",
+      "checkedAt": "2026-10-23",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "在点开之前说明具体收获",
+          "text": "让名字和简介说明自己解决的问题，让标题与配图帮助读者预判内容，再用开头兑现承诺，避免只剩夸张形容词和熟悉套路。"
+        },
+        {
+          "title": "延伸话题时仍保留关注主线",
+          "text": "每次准备追新话题，先看它能否让读者更清楚关注自己能获得什么；相邻题材可以展开，连续更新仍要能看出共同方向。"
+        },
+        {
+          "title": "用读者能理解的证据支持价值",
+          "text": "展示亲手做过的案例、实际卡点与可回看的判断，并接住具体追问；发布前检查陌生人能否说清自己是谁、内容有什么用和为何可信。"
+        }
+      ],
+      "sourceUrl": "https://x.com/yunbiyun/status/2113457824705736846",
+      "checkedAt": "2026-10-23",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/yunbiyun-recognizable-content-value-cover.jpg",
+      "avatar": "./assets/articles/yunbiyun-recognizable-content-value-avatar.jpg",
+      "deck": "云比云从读者划走内容的场景出发，讨论名字、简介、标题与开头怎样传达明确价值，再用真实案例、持续主题和回应追问建立信任。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "刷得越多，停得越少，值得关注要能被一眼认出来 · 原文封面",
+      "mediaCredit": "云比云",
+      "mediaSource": "https://x.com/yunbiyun/status/2113457824705736846",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVJHKmoacAAW8P9.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2062917297241767936/8OiIj1sc_200x200.jpg",
+      "mediaCheckedAt": "2026-10-23"
+    },
+    "socialSnapshot": {
+      "likes": 0,
+      "bookmarks": 0,
+      "replies": 0,
+      "capturedAt": "2026-10-23T11:39:32.987198+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/yunbiyun/status/2113457824705736846",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "yunbiyun-build-in-public-boundaries",
+    "title": "云比云：为不同平台设计公开过程的边界",
+    "originalTitle": "同样是 build in public，为什么国内和海外能晒的东西不一样？",
+    "author": {
+      "name": "云比云",
+      "handle": "yunbiyun",
+      "url": "https://x.com/yunbiyun"
+    },
+    "sourceUrl": "https://x.com/yunbiyun/status/2113144595542573431",
+    "tweetUrl": "https://x.com/yunbiyun/status/2113144595542573431",
+    "readingUrl": "https://x.com/yunbiyun/article/2113144595542573431",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
+    "topics": [
+      "content",
+      "growth"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 144,
+    "summary": "云比云将公开创作与经营过程拆成身份、数据和观点等层次，对照不同平台的读者语境，讨论哪些过程能建立信任，以及如何安排公开范围。",
+    "takeaways": [
+      "把进度、尝试、数据与改变主意的过程作为读者理解自己的依据，同时分别考虑哪些内容值得展示、哪些适合留在后台。",
+      "检查同一段内容脱离上下文、被截图带到另一平台后会怎样被理解，再调整身份信息、数据粒度和表达方式。",
+      "结合已有公开身份、内容收入依赖与个人承受能力安排边界；发布前看材料对读者是否有用，以及与过去内容拼接后会暴露什么。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "云比云将公开创作与经营过程拆成身份、数据和观点等层次，对照不同平台的读者语境，讨论哪些过程能建立信任，以及如何安排公开范围。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2113144595542573431",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "公开从来是一种设计\n\nBuild in public 能不能做好，关键在于想清楚哪些放到台前、哪些留在幕后，晒多晒少反而是次要的。\n\n国内和海外的差别，主要在于这条线画在哪里、由谁来画，以及画错了要付出什么代价。",
+      "blocks": [
+        {
+          "type": "header-two",
+          "text": "公开从来是一种设计",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "Build in public 能不能做好，关键在于想清楚哪些放到台前、哪些留在幕后，晒多晒少反而是次要的。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "国内和海外的差别，主要在于这条线画在哪里、由谁来画，以及画错了要付出什么代价。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/yunbiyun/status/2113144595542573431",
+      "checkedAt": "2026-10-23",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "先决定公开哪些过程和材料",
+          "text": "把进度、尝试、数据与改变主意的过程作为读者理解自己的依据，同时分别考虑哪些内容值得展示、哪些适合留在后台。"
+        },
+        {
+          "title": "跨平台发布前换一组读者视角",
+          "text": "检查同一段内容脱离上下文、被截图带到另一平台后会怎样被理解，再调整身份信息、数据粒度和表达方式。"
+        },
+        {
+          "title": "按账号目标和阶段调整公开范围",
+          "text": "结合已有公开身份、内容收入依赖与个人承受能力安排边界；发布前看材料对读者是否有用，以及与过去内容拼接后会暴露什么。"
+        }
+      ],
+      "sourceUrl": "https://x.com/yunbiyun/status/2113144595542573431",
+      "checkedAt": "2026-10-23",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/yunbiyun-build-in-public-boundaries-cover.jpg",
+      "avatar": "./assets/articles/yunbiyun-build-in-public-boundaries-avatar.jpg",
+      "deck": "云比云将公开创作与经营过程拆成身份、数据和观点等层次，对照不同平台的读者语境，讨论哪些过程能建立信任，以及如何安排公开范围。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "同样是 build in public，为什么国内和海外能晒的东西不一样？ · 原文封面",
+      "mediaCredit": "云比云",
+      "mediaSource": "https://x.com/yunbiyun/status/2113144595542573431",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVNUCWqa0AAv7Kb.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2062917297241767936/8OiIj1sc_200x200.jpg",
+      "mediaCheckedAt": "2026-10-23"
+    },
+    "socialSnapshot": {
+      "likes": 1,
+      "bookmarks": 1,
+      "replies": 0,
+      "capturedAt": "2026-10-23T11:39:33.900346+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/yunbiyun/status/2113144595542573431",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "yunbiyun-content-production-cost-decisions",
+    "title": "云比云：把内容流程改造放进时间与成本账",
+    "originalTitle": "云计算与AI正在重塑自媒体的成本结构与生存门槛",
+    "author": {
+      "name": "云比云",
+      "handle": "yunbiyun",
+      "url": "https://x.com/yunbiyun"
+    },
+    "sourceUrl": "https://x.com/yunbiyun/status/2113104388806033627",
+    "tweetUrl": "https://x.com/yunbiyun/status/2113104388806033627",
+    "readingUrl": "https://x.com/yunbiyun/article/2113104388806033627",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-22",
+    "checkedAt": "2026-10-23",
+    "topics": [
+      "content",
+      "monetization"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 145,
+    "summary": "云比云把云端资源和 AI 辅助放进内容生产的成本账，讨论怎样选择重复劳动的接入点、比较配置投入，并把精力留给选题与表达。",
+    "takeaways": [
+      "文章从算力、存储和协作讨论前期固定投入与持续使用成本，建议结合实际内容需求判断需要保留哪些资源。",
+      "围绕资料检索、字幕、粗剪和多语种整理等环节，挑出消耗精力的重复工作，再判断工具能否让人把时间用回内容的核心表达。",
+      "比较一个月内可能节省的机械劳动与学习、配置、调试花费的时间；保留能服务实际发布的流程，避免把持续试工具当成内容产出。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "云比云把云端资源和 AI 辅助放进内容生产的成本账，讨论怎样选择重复劳动的接入点、比较配置投入，并把精力留给选题与表达。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2113104388806033627",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "自媒体行业早已告别单凭灵感突围的草莽期，全面转向工业化效率的比拼。\n\n很多创作者觉得自己的瓶颈在于不够勤奋，或者还没有写出爆款文案。\n\n于是TA们每天熬夜盯数据、手动剪视频、到处找素材，把自己的体力压榨到极限。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "自媒体行业早已告别单凭灵感突围的草莽期，全面转向工业化效率的比拼。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "很多创作者觉得自己的瓶颈在于不够勤奋，或者还没有写出爆款文案。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "于是TA们每天熬夜盯数据、手动剪视频、到处找素材，把自己的体力压榨到极限。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/yunbiyun/status/2113104388806033627",
+      "checkedAt": "2026-10-23",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "把设备投入和按需使用分别比较",
+          "text": "文章从算力、存储和协作讨论前期固定投入与持续使用成本，建议结合实际内容需求判断需要保留哪些资源。"
+        },
+        {
+          "title": "先找重复环节，再考虑改造流程",
+          "text": "围绕资料检索、字幕、粗剪和多语种整理等环节，挑出消耗精力的重复工作，再判断工具能否让人把时间用回内容的核心表达。"
+        },
+        {
+          "title": "把学习和维护时间一起记账",
+          "text": "比较一个月内可能节省的机械劳动与学习、配置、调试花费的时间；保留能服务实际发布的流程，避免把持续试工具当成内容产出。"
+        }
+      ],
+      "sourceUrl": "https://x.com/yunbiyun/status/2113104388806033627",
+      "checkedAt": "2026-10-23",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/yunbiyun-content-production-cost-decisions-cover.jpg",
+      "avatar": "./assets/articles/yunbiyun-content-production-cost-decisions-avatar.jpg",
+      "deck": "云比云把云端资源和 AI 辅助放进内容生产的成本账，讨论怎样选择重复劳动的接入点、比较配置投入，并把精力留给选题与表达。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "云计算与AI正在重塑自媒体的成本结构与生存门槛 · 原文封面",
+      "mediaCredit": "云比云",
+      "mediaSource": "https://x.com/yunbiyun/status/2113104388806033627",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HU7YSkhbcAAtfu7.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2062917297241767936/8OiIj1sc_200x200.jpg",
+      "mediaCheckedAt": "2026-10-23"
+    },
+    "socialSnapshot": {
+      "likes": 4,
+      "bookmarks": 3,
+      "replies": 0,
+      "capturedAt": "2026-10-23T11:39:34.833737+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/yunbiyun/status/2113104388806033627",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "yunbiyun-growth-plateau-experiments",
+    "title": "云比云：增长放缓时按转化环节做小范围测试",
+    "originalTitle": "过了冷启动，流量会在平稳和爬坡之间一级级往上走",
+    "author": {
+      "name": "云比云",
+      "handle": "yunbiyun",
+      "url": "https://x.com/yunbiyun"
+    },
+    "sourceUrl": "https://x.com/yunbiyun/status/2112808275402264996",
+    "tweetUrl": "https://x.com/yunbiyun/status/2112808275402264996",
+    "readingUrl": "https://x.com/yunbiyun/article/2112808275402264996",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-21",
+    "checkedAt": "2026-10-23",
+    "topics": [
+      "analytics",
+      "growth",
+      "content"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 146,
+    "summary": "云比云讨论账号冷启动后的增长放缓，建议拆开点击、阅读、互动和关注等环节，用持续比较与单项调整寻找问题，再接续系列内容。",
+    "takeaways": [
+      "在播放与粉丝变化之外，观察阅读、互动、关注和回访等信号，按周汇总、按月比较，并结合已经发布的作品数量理解变化。",
+      "对照同类内容，判断问题更接近入口、内容节奏还是关注理由；保留其他条件做多条测试，记录调整与结果，再隔一段时间重新比较。",
+      "提前储备相邻选题，围绕受到关注的内容继续补系列，同步整理简介、置顶和合集；保留栏目识别度，并用新案例和角度继续展开。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "云比云讨论账号冷启动后的增长放缓，建议拆开点击、阅读、互动和关注等环节，用持续比较与单项调整寻找问题，再接续系列内容。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2112808275402264996",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "曲线变平的那几个月，账号并没有停\n\n做到第三个月左右，很多人会在后台看到同一幅画面。\n\n播放量每条都在几千上下晃，涨粉一天十几个，曲线平得像一把尺子。\n\n前两个月那种一觉醒来多了几百个粉丝的感觉，好像再也没出现过。",
+      "blocks": [
+        {
+          "type": "header-two",
+          "text": "曲线变平的那几个月，账号并没有停",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "做到第三个月左右，很多人会在后台看到同一幅画面。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "播放量每条都在几千上下晃，涨粉一天十几个，曲线平得像一把尺子。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "前两个月那种一觉醒来多了几百个粉丝的感觉，好像再也没出现过。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/yunbiyun/status/2112808275402264996",
+      "checkedAt": "2026-10-23",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "用比率和持续表现补充总量观察",
+          "text": "在播放与粉丝变化之外，观察阅读、互动、关注和回访等信号，按周汇总、按月比较，并结合已经发布的作品数量理解变化。"
+        },
+        {
+          "title": "先找薄弱环节，再调整一个变量",
+          "text": "对照同类内容，判断问题更接近入口、内容节奏还是关注理由；保留其他条件做多条测试，记录调整与结果，再隔一段时间重新比较。"
+        },
+        {
+          "title": "让后续选题和主页接住新增读者",
+          "text": "提前储备相邻选题，围绕受到关注的内容继续补系列，同步整理简介、置顶和合集；保留栏目识别度，并用新案例和角度继续展开。"
+        }
+      ],
+      "sourceUrl": "https://x.com/yunbiyun/status/2112808275402264996",
+      "checkedAt": "2026-10-23",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/yunbiyun-growth-plateau-experiments-cover.jpg",
+      "avatar": "./assets/articles/yunbiyun-growth-plateau-experiments-avatar.jpg",
+      "deck": "云比云讨论账号冷启动后的增长放缓，建议拆开点击、阅读、互动和关注等环节，用持续比较与单项调整寻找问题，再接续系列内容。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "过了冷启动，流量会在平稳和爬坡之间一级级往上走 · 原文封面",
+      "mediaCredit": "云比云",
+      "mediaSource": "https://x.com/yunbiyun/status/2112808275402264996",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVEojOVbEAAqr2d.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2062917297241767936/8OiIj1sc_200x200.jpg",
+      "mediaCheckedAt": "2026-10-23"
+    },
+    "socialSnapshot": {
+      "likes": 4,
+      "bookmarks": 3,
+      "replies": 0,
+      "capturedAt": "2026-10-23T11:39:36.651092+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/yunbiyun/status/2112808275402264996",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "yunbiyun-collaboration-oriented-audience",
+    "title": "云比云：从希望合作的人倒推受众与内容",
+    "originalTitle": "自媒体的粉丝目标，可以从你想合作的人倒推出来",
+    "author": {
+      "name": "云比云",
+      "handle": "yunbiyun",
+      "url": "https://x.com/yunbiyun"
+    },
+    "sourceUrl": "https://x.com/yunbiyun/status/2112775917886202105",
+    "tweetUrl": "https://x.com/yunbiyun/status/2112775917886202105",
+    "readingUrl": "https://x.com/yunbiyun/article/2112775917886202105",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-21",
+    "checkedAt": "2026-10-23",
+    "topics": [
+      "growth",
+      "engagement",
+      "content"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 147,
+    "summary": "云比云把合作目标放在粉丝数量之前，讨论目标合作者画像、内容中的项目线索、低门槛参与机会和关系分层，再用实际反馈调整目标。",
+    "takeaways": [
+      "写清目标合作者在做什么、有什么资源、缺少什么、在哪里看内容，再检查自己的项目进展和表达能否让这些人认出合作的关联。",
+      "除发布观点外，也交代正在做的事、进度与卡点，通过征集、小活动或开放协作安排低门槛参与，再逐步形成更深入的合作。",
+      "区分偶然话题带来的关注与持续围绕主题交流的人，记录真正出现的合作关系；根据自己的承接能力做分层，再更新粉丝目标的估算。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "云比云把合作目标放在粉丝数量之前，讨论目标合作者画像、内容中的项目线索、低门槛参与机会和关系分层，再用实际反馈调整目标。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2112775917886202105",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "从一百五十个人倒推一万五千个粉丝\n\n想认识 150 个能深度合作的人，按 1% 的转化来算，大约需要 15000 个粉丝。\n\n这笔账很简单，却把做账号的顺序倒了过来。\n\n多数人做自媒体，先想的是怎么涨粉。",
+      "blocks": [
+        {
+          "type": "header-two",
+          "text": "从一百五十个人倒推一万五千个粉丝",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "想认识 150 个能深度合作的人，按 1% 的转化来算，大约需要 15000 个粉丝。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "这笔账很简单，却把做账号的顺序倒了过来。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "多数人做自媒体，先想的是怎么涨粉。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/yunbiyun/status/2112775917886202105",
+      "checkedAt": "2026-10-23",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "先画出希望一起做事的人",
+          "text": "写清目标合作者在做什么、有什么资源、缺少什么、在哪里看内容，再检查自己的项目进展和表达能否让这些人认出合作的关联。"
+        },
+        {
+          "title": "从持续内容接出一次小参与",
+          "text": "除发布观点外，也交代正在做的事、进度与卡点，通过征集、小活动或开放协作安排低门槛参与，再逐步形成更深入的合作。"
+        },
+        {
+          "title": "按实际关系和可投入时间调整目标",
+          "text": "区分偶然话题带来的关注与持续围绕主题交流的人，记录真正出现的合作关系；根据自己的承接能力做分层，再更新粉丝目标的估算。"
+        }
+      ],
+      "sourceUrl": "https://x.com/yunbiyun/status/2112775917886202105",
+      "checkedAt": "2026-10-23",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/yunbiyun-collaboration-oriented-audience-cover.jpg",
+      "avatar": "./assets/articles/yunbiyun-collaboration-oriented-audience-avatar.jpg",
+      "deck": "云比云把合作目标放在粉丝数量之前，讨论目标合作者画像、内容中的项目线索、低门槛参与机会和关系分层，再用实际反馈调整目标。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "自媒体的粉丝目标，可以从你想合作的人倒推出来 · 原文封面",
+      "mediaCredit": "云比云",
+      "mediaSource": "https://x.com/yunbiyun/status/2112775917886202105",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVE3OAHbcAAVo9k.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2062917297241767936/8OiIj1sc_200x200.jpg",
+      "mediaCheckedAt": "2026-10-23"
+    },
+    "socialSnapshot": {
+      "likes": 1,
+      "bookmarks": 1,
+      "replies": 0,
+      "capturedAt": "2026-10-23T11:39:37.997143+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/yunbiyun/status/2112775917886202105",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "yunbiyun-learning-through-explanation",
+    "title": "云比云：用陌生读者能否复述来检查讲解内容",
+    "originalTitle": "盯着流量容易越写越空，把一件事讲懂才会越写越厚",
+    "author": {
+      "name": "云比云",
+      "handle": "yunbiyun",
+      "url": "https://x.com/yunbiyun"
+    },
+    "sourceUrl": "https://x.com/yunbiyun/status/2112619740187467966",
+    "tweetUrl": "https://x.com/yunbiyun/status/2112619740187467966",
+    "readingUrl": "https://x.com/yunbiyun/article/2112619740187467966",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-20",
+    "checkedAt": "2026-10-23",
+    "topics": [
+      "content",
+      "analytics"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 148,
+    "summary": "云比云把讲解内容看作发现理解缺口的过程，再通过陌生读者复述、完成标准和发布反馈，将个人学习整理成别人看得懂的内容。",
+    "takeaways": [
+      "围绕一个概念试着用简单语言解释，遇到卡点就重新查资料；同时选择自己的学习兴趣与读者需求相交的题目。",
+      "请不了解话题的人读完后复述核心意思，补齐对方缺少的背景和步骤；已经讲清就发布，新牵出的其他问题留作后续选题。",
+      "分别记录自己学会了什么和读者获得了什么，再看重复提问或中途离开的地方，用这些线索查表达缺口，安排下一轮修改。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "云比云把讲解内容看作发现理解缺口的过程，再通过陌生读者复述、完成标准和发布反馈，将个人学习整理成别人看得懂的内容。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2112619740187467966",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "讲到卡壳的地方，就是还没懂的地方\n\n你刚看完一本讲经济学的书，觉得收获满满，打开手机准备录一条三分钟的分享视频。\n\n开头很顺，几个核心结论张口就来。\n\n讲到第二个例子时，你突然卡住了。\n\n你发现自己记得结论，却说不清它为什么成立。",
+      "blocks": [
+        {
+          "type": "header-two",
+          "text": "讲到卡壳的地方，就是还没懂的地方",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "你刚看完一本讲经济学的书，觉得收获满满，打开手机准备录一条三分钟的分享视频。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "开头很顺，几个核心结论张口就来。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "讲到第二个例子时，你突然卡住了。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "你发现自己记得结论，却说不清它为什么成立。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/yunbiyun/status/2112619740187467966",
+      "checkedAt": "2026-10-23",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "在讲不清的地方补资料和推理",
+          "text": "围绕一个概念试着用简单语言解释，遇到卡点就重新查资料；同时选择自己的学习兴趣与读者需求相交的题目。"
+        },
+        {
+          "title": "用复述结果确定这篇是否完成",
+          "text": "请不了解话题的人读完后复述核心意思，补齐对方缺少的背景和步骤；已经讲清就发布，新牵出的其他问题留作后续选题。"
+        },
+        {
+          "title": "把观众反馈接回内容修改",
+          "text": "分别记录自己学会了什么和读者获得了什么，再看重复提问或中途离开的地方，用这些线索查表达缺口，安排下一轮修改。"
+        }
+      ],
+      "sourceUrl": "https://x.com/yunbiyun/status/2112619740187467966",
+      "checkedAt": "2026-10-23",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/yunbiyun-learning-through-explanation-cover.jpg",
+      "avatar": "./assets/articles/yunbiyun-learning-through-explanation-avatar.jpg",
+      "deck": "云比云把讲解内容看作发现理解缺口的过程，再通过陌生读者复述、完成标准和发布反馈，将个人学习整理成别人看得懂的内容。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "盯着流量容易越写越空，把一件事讲懂才会越写越厚 · 原文封面",
+      "mediaCredit": "云比云",
+      "mediaSource": "https://x.com/yunbiyun/status/2112619740187467966",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVEzQvtaYAEXkdA.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2062917297241767936/8OiIj1sc_200x200.jpg",
+      "mediaCheckedAt": "2026-10-23"
+    },
+    "socialSnapshot": {
+      "likes": 5,
+      "bookmarks": 3,
+      "replies": 0,
+      "capturedAt": "2026-10-23T11:39:38.866651+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/yunbiyun/status/2112619740187467966",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "yunbiyun-content-demand-trust-income",
+    "title": "云比云：从读者任务检查内容、信任与收费方式",
+    "originalTitle": "认真做了很久自媒体，为什么还是没人看也没人买？",
+    "author": {
+      "name": "云比云",
+      "handle": "yunbiyun",
+      "url": "https://x.com/yunbiyun"
+    },
+    "sourceUrl": "https://x.com/yunbiyun/status/2112566394667852211",
+    "tweetUrl": "https://x.com/yunbiyun/status/2112566394667852211",
+    "readingUrl": "https://x.com/yunbiyun/article/2112566394667852211",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-20",
+    "checkedAt": "2026-10-23",
+    "topics": [
+      "content",
+      "monetization",
+      "analytics"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 149,
+    "summary": "云比云将内容、流量与变现拆成注意力、信任和付费之间的交换，讨论读者任务、外行反馈、账号识别与小范围商业尝试。",
+    "takeaways": [
+      "把内容与搜索、问同事或使用工具等替代办法比较，检查读完后是否能完成具体任务，再让不在行业里的人指出看不懂的地方。",
+      "除了选题和封面，也观察它如何解释问题、建立信任；结合自己的长期积累、读者需要和现有内容的空缺寻找切入点。",
+      "通过稳定的主题与可验证的免费内容形成识别，观察收藏、回访和具体追问，再小范围尝试与读者认可方向一致的产品或服务。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "云比云将内容、流量与变现拆成注意力、信任和付费之间的交换，讨论读者任务、外行反馈、账号识别与小范围商业尝试。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2112566394667852211",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "卡住的地方，通常在动手之前\n\n下班回家剪视频剪到半夜，三个月更新了几十条。\n\n播放量停在几百，评论区只有零星几句“加油”。\n\n至于接广告、卖东西，更是没影的事。\n\n这种处境，很多做自媒体的人都经历过。",
+      "blocks": [
+        {
+          "type": "header-two",
+          "text": "卡住的地方，通常在动手之前",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "下班回家剪视频剪到半夜，三个月更新了几十条。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "播放量停在几百，评论区只有零星几句“加油”。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "至于接广告、卖东西，更是没影的事。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "这种处境，很多做自媒体的人都经历过。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/yunbiyun/status/2112566394667852211",
+      "checkedAt": "2026-10-23",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "先确认读者要借内容完成什么",
+          "text": "把内容与搜索、问同事或使用工具等替代办法比较，检查读完后是否能完成具体任务，再让不在行业里的人指出看不懂的地方。"
+        },
+        {
+          "title": "学对标账号接住了什么需求",
+          "text": "除了选题和封面，也观察它如何解释问题、建立信任；结合自己的长期积累、读者需要和现有内容的空缺寻找切入点。"
+        },
+        {
+          "title": "让收费方式接续已有的信任",
+          "text": "通过稳定的主题与可验证的免费内容形成识别，观察收藏、回访和具体追问，再小范围尝试与读者认可方向一致的产品或服务。"
+        }
+      ],
+      "sourceUrl": "https://x.com/yunbiyun/status/2112566394667852211",
+      "checkedAt": "2026-10-23",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/yunbiyun-content-demand-trust-income-cover.jpg",
+      "avatar": "./assets/articles/yunbiyun-content-demand-trust-income-avatar.jpg",
+      "deck": "云比云将内容、流量与变现拆成注意力、信任和付费之间的交换，讨论读者任务、外行反馈、账号识别与小范围商业尝试。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "认真做了很久自媒体，为什么还是没人看也没人买？ · 原文封面",
+      "mediaCredit": "云比云",
+      "mediaSource": "https://x.com/yunbiyun/status/2112566394667852211",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVErsGVacAAMko9.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2062917297241767936/8OiIj1sc_200x200.jpg",
+      "mediaCheckedAt": "2026-10-23"
+    },
+    "socialSnapshot": {
+      "likes": 5,
+      "bookmarks": 5,
+      "replies": 1,
+      "capturedAt": "2026-10-23T11:39:39.869261+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/yunbiyun/status/2112566394667852211",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "jessi-topic-hook-content-review-models",
+    "title": "Jessi Cao：把选题、标题承诺与复盘做成内容卡",
+    "originalTitle": "如何提高内容的爆款率：从选题到复盘，直接照做的 7 个模型",
+    "author": {
+      "name": "Jessi Cao",
+      "handle": "JessiCao_JC",
+      "url": "https://x.com/JessiCao_JC"
+    },
+    "sourceUrl": "https://x.com/JessiCao_JC/status/2106941943553134889",
+    "tweetUrl": "https://x.com/JessiCao_JC/status/2106941943553134889",
+    "readingUrl": "https://x.com/JessiCao_JC/article/2106941943553134889",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-05",
+    "checkedAt": "2026-10-23",
+    "topics": [
+      "content",
+      "analytics",
+      "growth"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 150,
+    "summary": "Jessi Cao将内容创作拆成选题、读者需求、标题入口、正文证据和复盘，用具体示例说明如何填写内容卡并持续检验写作假设。",
+    "takeaways": [
+      "从咨询、评论、搜索和实操记录中收集问题，保留读者原来的说法，写清这篇能完成哪一步，以及自己有什么材料支持。",
+      "为同一选题准备不同入口，检查承诺能否由正文的步骤、示例和证据兑现，再安排读者能开始执行的下一步。",
+      "保存采用和未采用的标题、素材、内容形式与分发动作，按自己的目标和一致的观察时长比较表现；确定一个待检验假设再进入下一篇。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "Jessi Cao将内容创作拆成选题、读者需求、标题入口、正文证据和复盘，用具体示例说明如何填写内容卡并持续检验写作假设。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2106941943553134889",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "拿出一篇准备发布的内容，先回答三个问题：谁会因为标题点进来，看完能获得什么，为什么愿意把它发给别人。如果这三个问题还说不清楚，先别急着继续润色正文。\n\n这份手册把内容创作拆成七个可以反复使用的模型。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "拿出一篇准备发布的内容，先回答三个问题：谁会因为标题点进来，看完能获得什么，为什么愿意把它发给别人。如果这三个问题还说不清楚，先别急着继续润色正文。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "这份手册把内容创作拆成七个可以反复使用的模型。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/JessiCao_JC/status/2106941943553134889",
+      "checkedAt": "2026-10-23",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "用读者、场景和问题收窄选题",
+          "text": "从咨询、评论、搜索和实操记录中收集问题，保留读者原来的说法，写清这篇能完成哪一步，以及自己有什么材料支持。"
+        },
+        {
+          "title": "让标题、正文和下一步兑现同一任务",
+          "text": "为同一选题准备不同入口，检查承诺能否由正文的步骤、示例和证据兑现，再安排读者能开始执行的下一步。"
+        },
+        {
+          "title": "保留备选与测试记录再复用",
+          "text": "保存采用和未采用的标题、素材、内容形式与分发动作，按自己的目标和一致的观察时长比较表现；确定一个待检验假设再进入下一篇。"
+        }
+      ],
+      "sourceUrl": "https://x.com/JessiCao_JC/status/2106941943553134889",
+      "checkedAt": "2026-10-23",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/jessi-topic-hook-content-review-models-cover.jpg",
+      "avatar": "./assets/articles/jessi-topic-hook-content-review-models-avatar.jpg",
+      "deck": "Jessi Cao将内容创作拆成选题、读者需求、标题入口、正文证据和复盘，用具体示例说明如何填写内容卡并持续检验写作假设。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "如何提高内容的爆款率：从选题到复盘，直接照做的 7 个模型 · 原文封面",
+      "mediaCredit": "Jessi Cao",
+      "mediaSource": "https://x.com/JessiCao_JC/status/2106941943553134889",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HT1brqRbYAAG1Q1.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2011057346248867840/HgAgPOqb_200x200.jpg",
+      "mediaCheckedAt": "2026-10-23"
+    },
+    "socialSnapshot": {
+      "likes": 173,
+      "bookmarks": 333,
+      "replies": 13,
+      "capturedAt": "2026-10-23T11:39:40.939582+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/JessiCao_JC/status/2106941943553134889",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
   }
 ]

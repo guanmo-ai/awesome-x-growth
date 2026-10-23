@@ -38,6 +38,14 @@
           "zhongying-position-profile",
           "henry-x-platform-combination"
         ]
+      },
+      {
+        "title": "从希望建立的关系安排内容",
+        "body": "云比云从合作者画像倒推内容与小参与入口，并把公开过程拆成不同层次，按读者语境、账号阶段和可投入精力设计表达。",
+        "sourceIds": [
+          "yunbiyun-collaboration-oriented-audience",
+          "yunbiyun-build-in-public-boundaries"
+        ]
       }
     ],
     "limitation": "本站 AI 辅助归纳。案例成绩为作者自述；既有经验、资源和投入不同，不能把个人路径当作统一增长公式。具体练习需根据自己的反馈调整。"
@@ -134,6 +142,30 @@
           "lange-near-ten-thousand-review",
           "rwayne-article-cover-title"
         ]
+      },
+      {
+        "title": "把写作检查与系列选题连起来",
+        "body": "0x小师妹从帖子样本与旧稿整理结果、主线和配图检查表；Chris沿蓝哥的时间线，拆解小帖试题、完整教程与后续补充怎样接续。",
+        "sourceIds": [
+          "shimei-post-writing-sample-review",
+          "chris-lange-series-growth-analysis"
+        ]
+      },
+      {
+        "title": "把信息检索、长文与后续短帖接起来",
+        "body": "司徒K按场景整理搜索、列表与长文使用方式：固定来源按主题跟进，复杂内容用长文展开，再把能独立阅读的结论或小节接成短帖，并在发布前检查预览和受众。",
+        "sourceIds": [
+          "situking-x-daily-use-handbook"
+        ]
+      },
+      {
+        "title": "让读者看得懂并认得出内容价值",
+        "body": "云比云把名字、标题、开头与可信材料连起来检查，也用陌生读者能否复述来界定讲解是否完成；Jessi将读者、场景、素材和标题备选整理成内容卡。",
+        "sourceIds": [
+          "yunbiyun-recognizable-content-value",
+          "yunbiyun-learning-through-explanation",
+          "jessi-topic-hook-content-review-models"
+        ]
       }
     ],
     "limitation": "本站 AI 辅助归纳。案例成绩为作者自述；既有经验、资源和投入不同，不能把个人路径当作统一增长公式。具体练习需根据自己的反馈调整。"
@@ -183,6 +215,44 @@
         "sourceIds": [
           "aron-content-business-growth",
           "ale-x-product-launch-review"
+        ]
+      },
+      {
+        "title": "让收入路径与内容交付对应",
+        "body": "超级峰分别讨论原创奖励、独家订阅和活动；Ethan 恩宇沿邵艾伦的免费内容、课程与平台变化，分析内容怎样展示能力并承接不同产品。",
+        "sourceIds": [
+          "mileson-x-monetization-paths",
+          "ethan-alanshao-content-business"
+        ]
+      },
+      {
+        "title": "按有效咨询记录内容获客",
+        "body": "大熊Jason先明确要服务的人与可交付产品，再比较带来咨询的内容，保留有效素材并安排线索回应与后续交付。",
+        "sourceIds": [
+          "jason-content-client-acquisition"
+        ]
+      },
+      {
+        "title": "把有效咨询和实际成交分别记录",
+        "body": "Jessi Cao从自己的X推广合作出发，讨论怎样用内容展示解决过程，先确认需求与服务匹配，再说明交付和下一步，并逐条记录咨询来源与当前结果。",
+        "sourceIds": [
+          "jessi-content-to-qualified-inquiry"
+        ]
+      },
+      {
+        "title": "比较账号怎样连接内容、读者与产品",
+        "body": "Arthur对照海外账号的主题、表达和产品入口，另从LyuLogs案例拆受众与短帖互动；阅读时可分别看内容如何被看见，以及持续内容与产品如何面向具体读者。",
+        "sourceIds": [
+          "arthur-overseas-content-business-comparison",
+          "arthur-lyulogs-account-content-analysis"
+        ]
+      },
+      {
+        "title": "把生产投入与读者需求放进同一笔账",
+        "body": "云比云建议比较学习配置与持续节省的时间，再从读者任务、回访和追问检查内容价值，尝试与已有信任方向相符的产品或服务。",
+        "sourceIds": [
+          "yunbiyun-content-production-cost-decisions",
+          "yunbiyun-content-demand-trust-income"
         ]
       }
     ],
@@ -437,6 +507,72 @@
           "aron-content-business-growth",
           "ale-x-product-launch-review"
         ]
+      },
+      {
+        "title": "把复盘接到每天的写作与传播",
+        "body": "0x小师妹从自身数据和帖子样本安排选题、表达与评论；Chris从具体账号的时间线拆解主教程、系列补充和同领域交流。",
+        "sourceIds": [
+          "shimei-daily-x-operations",
+          "shimei-post-writing-sample-review",
+          "chris-lange-series-growth-analysis"
+        ]
+      },
+      {
+        "title": "让内容连接适合自己的收入和交付",
+        "body": "超级峰区分原创奖励、订阅和活动；Ethan 恩宇分析内容中的能力展示与产品变化；大熊Jason将定位、素材测试和咨询承接连成获客流程。",
+        "sourceIds": [
+          "mileson-x-monetization-paths",
+          "ethan-alanshao-content-business",
+          "jason-content-client-acquisition"
+        ]
+      },
+      {
+        "title": "让内容带来的沟通有明确去向",
+        "body": "Jessi Cao用自己的X推广合作解释内容与客户问题的衔接，再把需求确认、服务范围、交付和咨询记录拆开处理。",
+        "sourceIds": [
+          "jessi-content-to-qualified-inquiry"
+        ]
+      },
+      {
+        "title": "按使用场景安排信息与发布",
+        "body": "司徒K将信息筛选、内容形式、长文后续分发和发布核对分开整理，帮助读者从具体任务找到相应操作。",
+        "sourceIds": [
+          "situking-x-daily-use-handbook"
+        ]
+      },
+      {
+        "title": "从账号对照中拆开受众、内容与商业入口",
+        "body": "Arthur比较不同海外账号的内容与产品分工，并对照单个账号的定位、短帖结构和评论延展，分别观察传播与商业承接。",
+        "sourceIds": [
+          "arthur-overseas-content-business-comparison",
+          "arthur-lyulogs-account-content-analysis"
+        ]
+      },
+      {
+        "title": "先按目标读者与希望建立的关系检查定位",
+        "body": "云比云将可识别的关注价值、合作对象与读者任务放在前面，再从持续内容、参与邀请与实际反馈决定下一步。",
+        "sourceIds": [
+          "yunbiyun-recognizable-content-value",
+          "yunbiyun-collaboration-oriented-audience",
+          "yunbiyun-content-demand-trust-income"
+        ]
+      },
+      {
+        "title": "分别设计公开范围和生产投入",
+        "body": "云比云讨论不同读者语境下的公开范围，并比较内容流程中配置与重复劳动的时间成本，将投入放回具体内容任务。",
+        "sourceIds": [
+          "yunbiyun-build-in-public-boundaries",
+          "yunbiyun-content-production-cost-decisions"
+        ]
+      },
+      {
+        "title": "把内容检查与小步复盘接起来",
+        "body": "云比云用陌生读者复述检查讲解，用分环节测试处理增长放缓；Jessi保留选题、标题、素材和观察结果，让每篇内容都能接回下一轮改进。",
+        "sourceIds": [
+          "yunbiyun-growth-plateau-experiments",
+          "yunbiyun-learning-through-explanation",
+          "jessi-topic-hook-content-review-models"
+        ]
       }
     ],
     "limitation": "这是一组有限来源的跨文归纳，覆盖当前收录范围；并非全网穷尽研究、受控增长实验或收益预测。部分来源仅读取已注明的章节或线程片段，细节见各条目。"
@@ -492,6 +628,20 @@
         "sourceIds": [
           "ayi-posts-follow-conversion-analysis",
           "dahuang-junedangg-account-analysis"
+        ]
+      },
+      {
+        "title": "先用自己的数据安排每天的动作",
+        "body": "0x小师妹对照自己的高低表现帖子，再拆开新帖、旧帖和评论的浏览来源，把复盘接到选题、互动与发布；样本较少时先积累记录。",
+        "sourceIds": [
+          "shimei-daily-x-operations"
+        ]
+      },
+      {
+        "title": "增长放缓时按环节比较并保留测试记录",
+        "body": "云比云把总量之外的阅读、互动、关注和回访拆开观察，选一个薄弱环节连续测试，再用系列与主页接续新读者；相关方法须按自身内容反馈调整。",
+        "sourceIds": [
+          "yunbiyun-growth-plateau-experiments"
         ]
       }
     ],
