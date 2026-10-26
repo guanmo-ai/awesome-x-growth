@@ -1,6 +1,6 @@
 # 文章目录
 
-此文件由 `npm run build` 从 `data/articles.json` 生成。共 124 篇最近一年内的资料、75 位作者/机构。文章链接直接打开原始来源；当前网站展示范围以 showcase 为准。
+此文件由 `npm run build` 从 `data/articles.json` 生成。共 129 篇最近一年内的资料、77 位作者/机构。文章链接直接打开原始来源；当前网站展示范围以 showcase 为准。
 
 ## 涨粉策略
 
@@ -93,6 +93,7 @@
 | [云比云：增长放缓时按转化环节做小范围测试](https://x.com/yunbiyun/article/2112808275402264996) | [云比云](https://x.com/yunbiyun) | 作者文章 | [来源](https://x.com/yunbiyun/status/2112808275402264996) | 2026-10-23 |
 | [云比云：从希望合作的人倒推受众与内容](https://x.com/yunbiyun/article/2112775917886202105) | [云比云](https://x.com/yunbiyun) | 作者文章 | [来源](https://x.com/yunbiyun/status/2112775917886202105) | 2026-10-23 |
 | [Jessi Cao：把选题、标题承诺与复盘做成内容卡](https://x.com/JessiCao_JC/article/2106941943553134889) | [Jessi Cao](https://x.com/JessiCao_JC) | 作者文章 | [来源](https://x.com/JessiCao_JC/status/2106941943553134889) | 2026-10-23 |
+| [爆裂队长NEXT：从回复不可见复盘账号操作](https://x.com/thinkszyg/article/2057273598361076017) | [爆裂队长NEXT](https://x.com/thinkszyg) | 作者文章 | [来源](https://x.com/thinkszyg/status/2057273598361076017) | 2026-10-25 |
 
 ## 内容创作
 
@@ -210,6 +211,9 @@
 | [云比云：用陌生读者能否复述来检查讲解内容](https://x.com/yunbiyun/article/2112619740187467966) | [云比云](https://x.com/yunbiyun) | 作者文章 | [来源](https://x.com/yunbiyun/status/2112619740187467966) | 2026-10-23 |
 | [云比云：从读者任务检查内容、信任与收费方式](https://x.com/yunbiyun/article/2112566394667852211) | [云比云](https://x.com/yunbiyun) | 作者文章 | [来源](https://x.com/yunbiyun/status/2112566394667852211) | 2026-10-23 |
 | [Jessi Cao：把选题、标题承诺与复盘做成内容卡](https://x.com/JessiCao_JC/article/2106941943553134889) | [Jessi Cao](https://x.com/JessiCao_JC) | 作者文章 | [来源](https://x.com/JessiCao_JC/status/2106941943553134889) | 2026-10-23 |
+| [超级峰：把技能销售拆成产品、交付与持续服务](https://x.com/Mileson07/article/2113669246010229058) | [超级峰](https://x.com/Mileson07) | 作者文章 | [来源](https://x.com/Mileson07/status/2113669246010229058) | 2026-10-25 |
+| [Ryan：把X选题接到研究、实操与内容交付](https://x.com/7998l201/article/2113910591379124721) | [Ryan](https://x.com/7998l201) | 作者文章 | [来源](https://x.com/7998l201/status/2113910591379124721) | 2026-10-25 |
+| [Miles：把内容问题接成课程、工具与服务](https://x.com/miles_mazy/article/2104747960542343395) | [Miles Ma](https://x.com/miles_mazy) | 作者文章 | [来源](https://x.com/miles_mazy/status/2104747960542343395) | 2026-10-25 |
 
 ## 互动分发
 
@@ -273,6 +277,8 @@
 | [司徒K：把信息筛选、长文分发与发布检查连起来](https://x.com/situking/article/2113456354040197600) | [司徒K](https://x.com/situking) | 作者文章 | [来源](https://x.com/situking/status/2113456354040197600) | 2026-10-23 |
 | [Arthur：拆解 LyuLogs 的受众、短帖结构与评论延展](https://x.com/0xarthurzs/article/2108086369759424614) | [Arthur C](https://x.com/0xarthurzs) | 作者文章 | [来源](https://x.com/0xarthurzs/status/2108086369759424614) | 2026-10-23 |
 | [云比云：从希望合作的人倒推受众与内容](https://x.com/yunbiyun/article/2112775917886202105) | [云比云](https://x.com/yunbiyun) | 作者文章 | [来源](https://x.com/yunbiyun/status/2112775917886202105) | 2026-10-23 |
+| [Kin：把收益申请、原创发布与收入路径分开看](https://x.com/KinGao476942/article/2114289208793973231) | [Kin](https://x.com/KinGao476942) | 作者文章 | [来源](https://x.com/KinGao476942/status/2114289208793973231) | 2026-10-25 |
+| [爆裂队长NEXT：从回复不可见复盘账号操作](https://x.com/thinkszyg/article/2057273598361076017) | [爆裂队长NEXT](https://x.com/thinkszyg) | 作者文章 | [来源](https://x.com/thinkszyg/status/2057273598361076017) | 2026-10-25 |
 
 ## 商业变现
 
@@ -308,6 +314,9 @@
 | [Arthur：拆解 LyuLogs 的受众、短帖结构与评论延展](https://x.com/0xarthurzs/article/2108086369759424614) | [Arthur C](https://x.com/0xarthurzs) | 作者文章 | [来源](https://x.com/0xarthurzs/status/2108086369759424614) | 2026-10-23 |
 | [云比云：把内容流程改造放进时间与成本账](https://x.com/yunbiyun/article/2113104388806033627) | [云比云](https://x.com/yunbiyun) | 作者文章 | [来源](https://x.com/yunbiyun/status/2113104388806033627) | 2026-10-23 |
 | [云比云：从读者任务检查内容、信任与收费方式](https://x.com/yunbiyun/article/2112566394667852211) | [云比云](https://x.com/yunbiyun) | 作者文章 | [来源](https://x.com/yunbiyun/status/2112566394667852211) | 2026-10-23 |
+| [Kin：把收益申请、原创发布与收入路径分开看](https://x.com/KinGao476942/article/2114289208793973231) | [Kin](https://x.com/KinGao476942) | 作者文章 | [来源](https://x.com/KinGao476942/status/2114289208793973231) | 2026-10-25 |
+| [超级峰：把技能销售拆成产品、交付与持续服务](https://x.com/Mileson07/article/2113669246010229058) | [超级峰](https://x.com/Mileson07) | 作者文章 | [来源](https://x.com/Mileson07/status/2113669246010229058) | 2026-10-25 |
+| [Miles：把内容问题接成课程、工具与服务](https://x.com/miles_mazy/article/2104747960542343395) | [Miles Ma](https://x.com/miles_mazy) | 作者文章 | [来源](https://x.com/miles_mazy/status/2104747960542343395) | 2026-10-25 |
 
 ## 数据复盘
 
@@ -365,6 +374,8 @@
 | [云比云：用陌生读者能否复述来检查讲解内容](https://x.com/yunbiyun/article/2112619740187467966) | [云比云](https://x.com/yunbiyun) | 作者文章 | [来源](https://x.com/yunbiyun/status/2112619740187467966) | 2026-10-23 |
 | [云比云：从读者任务检查内容、信任与收费方式](https://x.com/yunbiyun/article/2112566394667852211) | [云比云](https://x.com/yunbiyun) | 作者文章 | [来源](https://x.com/yunbiyun/status/2112566394667852211) | 2026-10-23 |
 | [Jessi Cao：把选题、标题承诺与复盘做成内容卡](https://x.com/JessiCao_JC/article/2106941943553134889) | [Jessi Cao](https://x.com/JessiCao_JC) | 作者文章 | [来源](https://x.com/JessiCao_JC/status/2106941943553134889) | 2026-10-23 |
+| [Ryan：把X选题接到研究、实操与内容交付](https://x.com/7998l201/article/2113910591379124721) | [Ryan](https://x.com/7998l201) | 作者文章 | [来源](https://x.com/7998l201/status/2113910591379124721) | 2026-10-25 |
+| [Miles：把内容问题接成课程、工具与服务](https://x.com/miles_mazy/article/2104747960542343395) | [Miles Ma](https://x.com/miles_mazy) | 作者文章 | [来源](https://x.com/miles_mazy/status/2104747960542343395) | 2026-10-25 |
 
 ## 平台规则
 
@@ -374,3 +385,5 @@
 | [行之的算法解读：从候选召回到行为概率](https://x.com/lxz2677/status/2069963272590340590) | [李行之](https://x.com/lxz2677) | 作者文章 | [来源](https://x.com/lxz2677/status/2069963272590340590) | 2026-10-13 |
 | [玄远的账号受限经历：增长动作与申诉材料](https://x.com/xuanyuanfamai/status/2108928729292349509) | [我姓轩辕（回访是礼貌）](https://x.com/xuanyuanfamai) | 作者文章 | [来源](https://x.com/xuanyuanfamai/status/2108928729292349509) | 2026-10-13 |
 | [benlin 的审核复盘：拒信、作品整理与申诉说明](https://x.com/benlinbaofu/status/2095346153869234317) | [Getrichworkbook.eth](https://x.com/benlinbaofu) | 作者文章 | [来源](https://x.com/benlinbaofu/status/2095346153869234317) | 2026-10-13 |
+| [Kin：把收益申请、原创发布与收入路径分开看](https://x.com/KinGao476942/article/2114289208793973231) | [Kin](https://x.com/KinGao476942) | 作者文章 | [来源](https://x.com/KinGao476942/status/2114289208793973231) | 2026-10-25 |
+| [爆裂队长NEXT：从回复不可见复盘账号操作](https://x.com/thinkszyg/article/2057273598361076017) | [爆裂队长NEXT](https://x.com/thinkszyg) | 作者文章 | [来源](https://x.com/thinkszyg/status/2057273598361076017) | 2026-10-25 |

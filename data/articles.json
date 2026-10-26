@@ -16436,5 +16436,643 @@
       "sourceUrl": "https://x.com/JessiCao_JC/status/2106941943553134889",
       "evidence": "读取原帖公开元数据时的快照，不实时更新。"
     }
+  },
+  {
+    "id": "kin-original-content-rewards-qa",
+    "title": "Kin：把收益申请、原创发布与收入路径分开看",
+    "originalTitle": "如何申请推特创作者收益？保姆级新手教程 20 问：申请门槛、港卡、提现，一篇讲清楚",
+    "author": {
+      "name": "Kin",
+      "handle": "KinGao476942",
+      "url": "https://x.com/KinGao476942"
+    },
+    "sourceUrl": "https://x.com/KinGao476942/status/2114289208793973231",
+    "tweetUrl": "https://x.com/KinGao476942/status/2114289208793973231",
+    "readingUrl": "https://x.com/KinGao476942/article/2114289208793973231",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-25",
+    "checkedAt": "2026-10-25",
+    "topics": [
+      "monetization",
+      "platform",
+      "engagement"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 160,
+    "summary": "Kin把近期收到的问题整理成二十问，围绕X原创内容奖励的申请、曝光口径、原创内容、结算和其他收入路径展开，并分享自己的冷启动与发布节奏。",
+    "takeaways": [
+      "文章按申请、收益计算和提现分组回答问题，区分普通曝光、认证用户的首页曝光与回复带来的可见度，提醒读者对照官方页面理解各自用途。",
+      "作者把相关领域的认真回复作为被认识的入口，再持续发布自己的原创；发布数量来自个人节奏，内容安排以能够长期维持为前提。",
+      "除原创内容奖励外，文章还列出订阅、商单、企业客户和付费社群，说明账号经营可以连接不同产品或服务，而非只看单次派款。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "Kin把近期收到的问题整理成二十问，围绕X原创内容奖励的申请、曝光口径、原创内容、结算和其他收入路径展开，并分享自己的冷启动与发布节奏。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2114289208793973231",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "已对照X官方Original Content Rewards与Creator Monetization Standards；未展开作者全部回复、银行服务或其他外链。"
+    },
+    "excerpt": {
+      "text": "过去半个月，我的推特创作者收益破了 1000 美元。发完之后，好多新老朋友跑来问我：怎么申请创作者受益？申请门槛是啥？钱怎么提出来？\n\n一个一个回问题太慢，于是我想干脆写成一篇长文。建议先收藏点赞慢慢阅读，有新问题直接丢评论区。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "过去半个月，我的推特创作者收益破了 1000 美元。发完之后，好多新老朋友跑来问我：怎么申请创作者受益？申请门槛是啥？钱怎么提出来？",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "一个一个回问题太慢，于是我想干脆写成一篇长文。建议先收藏点赞慢慢阅读，有新问题直接丢评论区。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/KinGao476942/status/2114289208793973231",
+      "checkedAt": "2026-10-25",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "分开看申请条件、曝光与结算",
+          "text": "文章按申请、收益计算和提现分组回答问题，区分普通曝光、认证用户的首页曝光与回复带来的可见度，提醒读者对照官方页面理解各自用途。"
+        },
+        {
+          "title": "让评论互动与原创内容承担不同任务",
+          "text": "作者把相关领域的认真回复作为被认识的入口，再持续发布自己的原创；发布数量来自个人节奏，内容安排以能够长期维持为前提。"
+        },
+        {
+          "title": "把平台奖励放回完整收入结构",
+          "text": "除原创内容奖励外，文章还列出订阅、商单、企业客户和付费社群，说明账号经营可以连接不同产品或服务，而非只看单次派款。"
+        }
+      ],
+      "sourceUrl": "https://x.com/KinGao476942/status/2114289208793973231",
+      "checkedAt": "2026-10-25",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/kin-original-content-rewards-qa-cover.jpg",
+      "avatar": "./assets/articles/kin-original-content-rewards-qa-avatar.jpg",
+      "deck": "Kin把近期收到的问题整理成二十问，围绕X原创内容奖励的申请、曝光口径、原创内容、结算和其他收入路径展开，并分享自己的冷启动与发布节奏。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "如何申请推特创作者收益？保姆级新手教程 20 问：申请门槛、港卡、提现，一篇讲清楚 · 原文封面",
+      "mediaCredit": "Kin",
+      "mediaSource": "https://x.com/KinGao476942/status/2114289208793973231",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVd0cm0bYAAHkNr.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/1843083681210273792/_w6C8yFQ_200x200.jpg",
+      "mediaCheckedAt": "2026-10-25"
+    },
+    "socialSnapshot": {
+      "likes": 117,
+      "bookmarks": 165,
+      "replies": 34,
+      "capturedAt": "2026-10-26T06:44:42.159219+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/KinGao476942/status/2114289208793973231",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    },
+    "policyReview": {
+      "checkedAt": "2026-10-25",
+      "topics": [
+        "rewards",
+        "automation",
+        "authenticity"
+      ],
+      "sources": [
+        "https://help.x.com/en/using-x/original-content-rewards",
+        "https://help.x.com/en/rules-and-policies/content-monetization-standards"
+      ],
+      "note": "已当次读取X官方Original Content Rewards及Creator Monetization Standards，核对原创新计划、合格曝光、回复不计申请门槛、身份和地区条件。官方资格要求基于所处地区/居住地，拥有某地银行卡本身不能证明符合地区资格；作者香港银行卡及地址的个人路径未核验，摘要不转述其开户、填址、门槛数字、审核/到账天数或曝光收入换算。个人节奏与长文效果仍为作者经验，不代表平台承诺。"
+    }
+  },
+  {
+    "id": "mileson-workbuddy-skill-business",
+    "title": "超级峰：把技能销售拆成产品、交付与持续服务",
+    "originalTitle": "WorkBuddy Skill 变现终极教程",
+    "author": {
+      "name": "超级峰",
+      "handle": "Mileson07",
+      "url": "https://x.com/Mileson07"
+    },
+    "sourceUrl": "https://x.com/Mileson07/status/2113669246010229058",
+    "tweetUrl": "https://x.com/Mileson07/status/2113669246010229058",
+    "readingUrl": "https://x.com/Mileson07/article/2113669246010229058",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-23",
+    "checkedAt": "2026-10-25",
+    "topics": [
+      "monetization",
+      "content"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 161,
+    "summary": "超级峰围绕WorkBuddy付费技能，拆分技能商品、流程交付、企业适配和教学服务，具体讨论结果展示、验收、收费方式及上架后的试用反馈。",
+    "takeaways": [
+      "作者将技能使用、定制适配、组合交付与教学陪跑分开，分别写清所需材料、交付数量、修改范围和完成标准，帮助目标用户判断是否适合。",
+      "用完整材料、缺少信息和不合要求的输入检查技能，确认输出可读且会处理缺失项；商品介绍说明适合谁、输入、结果与限制，并展示一次完整使用过程。",
+      "比较一次性收费与持续维护的工作量，核算调用、人工检查和售后等成本；先请目标用户试用，记录不会用、结果需修改和愿意付费的条件，再扩展产品。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "超级峰围绕WorkBuddy付费技能，拆分技能商品、流程交付、企业适配和教学服务，具体讨论结果展示、验收、收费方式及上架后的试用反馈。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2113669246010229058",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "这两天，WorkBuddy 正式支持个人、企业都可以卖 技能Skill 了！腾讯终于舍得让大家去赚钱了，但是怎么赚钱？今天超级峰详细梳理了一整套帮助大家更快在 WorkBuddy 赚到钱的完整终极教程，帮助大家更快赚到钱。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "这两天，WorkBuddy 正式支持个人、企业都可以卖 技能Skill 了！腾讯终于舍得让大家去赚钱了，但是怎么赚钱？今天超级峰详细梳理了一整套帮助大家更快在 WorkBuddy 赚到钱的完整终极教程，帮助大家更快赚到钱。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/Mileson07/status/2113669246010229058",
+      "checkedAt": "2026-10-25",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "先说清卖的是商品还是一段服务",
+          "text": "作者将技能使用、定制适配、组合交付与教学陪跑分开，分别写清所需材料、交付数量、修改范围和完成标准，帮助目标用户判断是否适合。"
+        },
+        {
+          "title": "先做能验收的成果，再介绍商品",
+          "text": "用完整材料、缺少信息和不合要求的输入检查技能，确认输出可读且会处理缺失项；商品介绍说明适合谁、输入、结果与限制，并展示一次完整使用过程。"
+        },
+        {
+          "title": "把维护成本和试用反馈放进定价",
+          "text": "比较一次性收费与持续维护的工作量，核算调用、人工检查和售后等成本；先请目标用户试用，记录不会用、结果需修改和愿意付费的条件，再扩展产品。"
+        }
+      ],
+      "sourceUrl": "https://x.com/Mileson07/status/2113669246010229058",
+      "checkedAt": "2026-10-25",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/mileson-workbuddy-skill-business-cover.jpg",
+      "avatar": "./assets/articles/mileson-workbuddy-skill-business-avatar.jpg",
+      "deck": "超级峰围绕WorkBuddy付费技能，拆分技能商品、流程交付、企业适配和教学服务，具体讨论结果展示、验收、收费方式及上架后的试用反馈。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "WorkBuddy Skill 变现终极教程 · 原文封面",
+      "mediaCredit": "超级峰",
+      "mediaSource": "https://x.com/Mileson07/status/2113669246010229058",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVVCSHsbcAAh6Bh.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2092152764868816896/IcyU8-cQ_200x200.jpg",
+      "mediaCheckedAt": "2026-10-25"
+    },
+    "socialSnapshot": {
+      "likes": 763,
+      "bookmarks": 1228,
+      "replies": 25,
+      "capturedAt": "2026-10-26T06:46:17.727884+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/Mileson07/status/2113669246010229058",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "ryan-muse-x-topic-research-workflow",
+    "title": "Ryan：把X选题接到研究、实操与内容交付",
+    "originalTitle": "让 Muse 每天给 X 创作者选题：手把手教程",
+    "author": {
+      "name": "Ryan",
+      "handle": "7998l201",
+      "url": "https://x.com/7998l201"
+    },
+    "sourceUrl": "https://x.com/7998l201/status/2113910591379124721",
+    "tweetUrl": "https://x.com/7998l201/status/2113910591379124721",
+    "readingUrl": "https://x.com/7998l201/article/2113910591379124721",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-10-24",
+    "checkedAt": "2026-10-25",
+    "topics": [
+      "content",
+      "analytics"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 162,
+    "summary": "Ryan为X创作者设计选题流程，把固定来源的新案例、赛道讨论、账号反馈和当天能验证的条件接起来，再区分研究笔记、实际运行记录与不同内容成品。",
+    "takeaways": [
+      "汇总固定来源的新案例、赛道问题和自己近期被收藏、追问或带来咨询的内容，再对照当天能使用的账号、工具与材料，选出主选题和备选。",
+      "先找一手来源、关键断言和反方材料，再从小样本实际执行；记录结果、失败、成本和人工介入，区分跑通、部分跑通与尚待验证的方案。",
+      "想照做的读者看步骤与验收，想判断的看证据和适用范围，想看结果的看前后对比与成本；排期衔接这些材料，再用收藏效率和有效咨询回看选题。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "Ryan为X创作者设计选题流程，把固定来源的新案例、赛道讨论、账号反馈和当天能验证的条件接起来，再区分研究笔记、实际运行记录与不同内容成品。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2113910591379124721",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "这篇文章讲的不是灵感，而是一套每天能重复跑的流程：早上盯矿场和热帖，中午定选题，下午深度研究并在 Muse 上真跑一遍，晚上交出教程、投研报告或实际案例。它脱胎于一个已经落地的任务——usemuse 新案例哨兵——但哨兵只是第一环。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "这篇文章讲的不是灵感，而是一套每天能重复跑的流程：早上盯矿场和热帖，中午定选题，下午深度研究并在 Muse 上真跑一遍，晚上交出教程、投研报告或实际案例。它脱胎于一个已经落地的任务——usemuse 新案例哨兵——但哨兵只是第一环。",
+          "styles": [
+            {
+              "offset": 0,
+              "length": 116,
+              "style": "Italic"
+            }
+          ]
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/7998l201/status/2113910591379124721",
+      "checkedAt": "2026-10-25",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "把账号反馈与可验证条件放进选题",
+          "text": "汇总固定来源的新案例、赛道问题和自己近期被收藏、追问或带来咨询的内容，再对照当天能使用的账号、工具与材料，选出主选题和备选。"
+        },
+        {
+          "title": "研究与实操分别留下依据",
+          "text": "先找一手来源、关键断言和反方材料，再从小样本实际执行；记录结果、失败、成本和人工介入，区分跑通、部分跑通与尚待验证的方案。"
+        },
+        {
+          "title": "按读者任务组织成品与后续复盘",
+          "text": "想照做的读者看步骤与验收，想判断的看证据和适用范围，想看结果的看前后对比与成本；排期衔接这些材料，再用收藏效率和有效咨询回看选题。"
+        }
+      ],
+      "sourceUrl": "https://x.com/7998l201/status/2113910591379124721",
+      "checkedAt": "2026-10-25",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/ryan-muse-x-topic-research-workflow-cover.jpg",
+      "avatar": "./assets/articles/ryan-muse-x-topic-research-workflow-avatar.jpg",
+      "deck": "Ryan为X创作者设计选题流程，把固定来源的新案例、赛道讨论、账号反馈和当天能验证的条件接起来，再区分研究笔记、实际运行记录与不同内容成品。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "让 Muse 每天给 X 创作者选题：手把手教程 · 原文封面",
+      "mediaCredit": "Ryan",
+      "mediaSource": "https://x.com/7998l201/status/2113910591379124721",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HVYdmUgWUAA6gcv.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2047601535773765632/cr76kpOK_200x200.jpg",
+      "mediaCheckedAt": "2026-10-25"
+    },
+    "socialSnapshot": {
+      "likes": 33,
+      "bookmarks": 70,
+      "replies": 6,
+      "capturedAt": "2026-10-26T06:46:23.939261+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/7998l201/status/2113910591379124721",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "thinkszyg-x-account-restriction-review",
+    "title": "爆裂队长NEXT：从回复不可见复盘账号操作",
+    "originalTitle": "一个失败老新人的 X 账号避坑复盘：我差点把 16 年老号玩废了",
+    "author": {
+      "name": "爆裂队长NEXT",
+      "handle": "thinkszyg",
+      "url": "https://x.com/thinkszyg"
+    },
+    "sourceUrl": "https://x.com/thinkszyg/status/2057273598361076017",
+    "tweetUrl": "https://x.com/thinkszyg/status/2057273598361076017",
+    "readingUrl": "https://x.com/thinkszyg/article/2057273598361076017",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-05-21",
+    "checkedAt": "2026-10-25",
+    "topics": [
+      "growth",
+      "platform",
+      "engagement"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 163,
+    "summary": "作者记录沉睡账号重新经营后回复不可见、收到临时标签并请求审查的过程，复盘集中改资料、模板化互动和工具访问，也说明如何把症状与处理经过留成记录。",
+    "takeaways": [
+      "作者回顾资料调整、历史内容整理、密集互动和工具接入，另列出回复在自己主页可见、回到原帖却找不到等症状，将操作经过与实际看到的现象放在一起复盘。",
+      "文中记录了应用内请求审查、联系支持及把截图信息改写成文字的做法，分别说明账号能否登录、回复在哪里不可见，以及已经采取的处理步骤。",
+      "作者建议有具体内容再回复，将账号操作和自动化接入分步安排，并回顾暂停相关访问与降低集中动作的过程，保留处理前后的变化供后续复盘。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "作者记录沉睡账号重新经营后回复不可见、收到临时标签并请求审查的过程，复盘集中改资料、模板化互动和工具访问，也说明如何把症状与处理经过留成记录。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2057273598361076017",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "16年老号。\n\n认真发内容没几天。\n\n回复突然只剩自己能看见。\n\n然后啥流量都没有，很离谱，但我遇到了。\n\n我这个 X 号，2010 年 8 月注册。\n\n今年 5 月 9 日，才正式决定好好发内容。\n\n这说明什么？\n\n一个号注册得早，和一个号真的健康，不是一回事。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "16年老号。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "认真发内容没几天。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "回复突然只剩自己能看见。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "然后啥流量都没有，很离谱，但我遇到了。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "我这个 X 号，2010 年 8 月注册。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "今年 5 月 9 日，才正式决定好好发内容。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "这说明什么？",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "一个号注册得早，和一个号真的健康，不是一回事。",
+          "styles": [
+            {
+              "offset": 0,
+              "length": 23,
+              "style": "Bold"
+            }
+          ]
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/thinkszyg/status/2057273598361076017",
+      "checkedAt": "2026-10-25",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "把操作经过与可见症状分别记录",
+          "text": "作者回顾资料调整、历史内容整理、密集互动和工具接入，另列出回复在自己主页可见、回到原帖却找不到等症状，将操作经过与实际看到的现象放在一起复盘。"
+        },
+        {
+          "title": "请求复核时说清账号状态与异常",
+          "text": "文中记录了应用内请求审查、联系支持及把截图信息改写成文字的做法，分别说明账号能否登录、回复在哪里不可见，以及已经采取的处理步骤。"
+        },
+        {
+          "title": "减少模板互动，逐步接入工具",
+          "text": "作者建议有具体内容再回复，将账号操作和自动化接入分步安排，并回顾暂停相关访问与降低集中动作的过程，保留处理前后的变化供后续复盘。"
+        }
+      ],
+      "sourceUrl": "https://x.com/thinkszyg/status/2057273598361076017",
+      "checkedAt": "2026-10-25",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/thinkszyg-x-account-restriction-review-cover.jpg",
+      "avatar": "./assets/articles/thinkszyg-x-account-restriction-review-avatar.jpg",
+      "deck": "作者记录沉睡账号重新经营后回复不可见、收到临时标签并请求审查的过程，复盘集中改资料、模板化互动和工具访问，也说明如何把症状与处理经过留成记录。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "一个失败老新人的 X 账号避坑复盘：我差点把 16 年老号玩废了 · 原文封面",
+      "mediaCredit": "爆裂队长NEXT",
+      "mediaSource": "https://x.com/thinkszyg/status/2057273598361076017",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HIzcshuaYAEvgg3.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2053019593355268096/2YBd03nj_200x200.jpg",
+      "mediaCheckedAt": "2026-10-25"
+    },
+    "socialSnapshot": {
+      "likes": 2,
+      "bookmarks": 1,
+      "replies": 3,
+      "capturedAt": "2026-10-26T06:47:06.705318+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/thinkszyg/status/2057273598361076017",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
+  },
+  {
+    "id": "miles-ai-content-training-service-business",
+    "title": "Miles：把内容问题接成课程、工具与服务",
+    "originalTitle": "AI变现的三个方式",
+    "author": {
+      "name": "Miles Ma",
+      "handle": "miles_mazy",
+      "url": "https://x.com/miles_mazy"
+    },
+    "sourceUrl": "https://x.com/miles_mazy/status/2104747960542343395",
+    "tweetUrl": "https://x.com/miles_mazy/status/2104747960542343395",
+    "readingUrl": "https://x.com/miles_mazy/article/2104747960542343395",
+    "sourceType": "article",
+    "language": "zh",
+    "publishedAt": "2026-09-29",
+    "checkedAt": "2026-10-25",
+    "topics": [
+      "monetization",
+      "content",
+      "analytics"
+    ],
+    "level": "beginner",
+    "featured": false,
+    "showcase": true,
+    "shelfOrder": 164,
+    "summary": "Miles把AI内容经营拆成内容、教学和工具服务三条路径，结合X选题、主页、评论私信与课程场景，具体说明怎样识别不同需求并安排后续交付。",
+    "takeaways": [
+      "对照曝光、主页访问、关注和评论，分别检查内容入口与主页承接；把反复出现的操作、资料和业务问题分类，决定继续写哪一步、是否提供相应产品。",
+      "公开内容解决一个问题，入门产品提供步骤或演示，实操服务围绕真实材料完成可检查的成果；课前收集行业、现有做法和卡点，再据此组织内容。",
+      "先解决一个明确的重复任务，再把反复使用的步骤、模板和检查要求打包；按一次教学、持续维护或定制项目分别说明范围，避免只有价格变化而交付含糊。"
+    ],
+    "caveat": "来源为作者文章；账号成绩、案例数据、效果和平台判断按作者陈述记录，本站未独立审计；外链和回复线程未完整阅读。",
+    "sections": [
+      {
+        "heading": "作者写了什么",
+        "body": "Miles把AI内容经营拆成内容、教学和工具服务三条路径，结合X选题、主页、评论私信与课程场景，具体说明怎样识别不同需求并安排后续交付。"
+      }
+    ],
+    "evidence": {
+      "status": "source-read",
+      "access": "FxTwitter API 返回的作者 Article 正文及元数据",
+      "url": "https://api.fxtwitter.com/status/2104747960542343395",
+      "note": "已核对原帖 ID、当前作者、标题、日期和总结涉及的原文段落；原始材料保存在本地研究目录。"
+    },
+    "rights": {
+      "mode": "summary-link",
+      "note": "仅提供有限原文开头、独立中文导读与原文入口；未获全文转载许可，第三方原作及配图权利归作者。"
+    },
+    "dateEvidence": "原帖 created_at，按 UTC 日期记录。",
+    "readingRange": {
+      "text": "已读返回的 Article 文字正文；不包含完整回复线程。",
+      "images": "已查看代表封面和作者头像的合览，正文内图和截图未逐张审看或审计。",
+      "linkedMaterials": "未逐一展开外部链接、工具、商业服务和全部回复。"
+    },
+    "excerpt": {
+      "text": "现在聊 AI 赚钱，通常就三件事：做内容卖出去，把自己会的东西教给别人，把大家天天要用的工具和服务卖出去。\n\n如果三点都能做到，月入六位数，轻轻松松。\n\n内容让人认识你，培训让人带着问题来找你，工具和服务让合作继续发生。",
+      "blocks": [
+        {
+          "type": "unstyled",
+          "text": "现在聊 AI 赚钱，通常就三件事：做内容卖出去，把自己会的东西教给别人，把大家天天要用的工具和服务卖出去。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "如果三点都能做到，月入六位数，轻轻松松。",
+          "styles": []
+        },
+        {
+          "type": "unstyled",
+          "text": "内容让人认识你，培训让人带着问题来找你，工具和服务让合作继续发生。",
+          "styles": []
+        }
+      ],
+      "truncated": true,
+      "kind": "opening",
+      "sourceUrl": "https://x.com/miles_mazy/status/2104747960542343395",
+      "checkedAt": "2026-10-25",
+      "note": "按原文顺序截取正文开头，保留段落与完整句子；省略后续内容。"
+    },
+    "aiSummary": {
+      "points": [
+        {
+          "title": "沿着帖子、主页与提问找需求",
+          "text": "对照曝光、主页访问、关注和评论，分别检查内容入口与主页承接；把反复出现的操作、资料和业务问题分类，决定继续写哪一步、是否提供相应产品。"
+        },
+        {
+          "title": "让课程层次对应不同成果",
+          "text": "公开内容解决一个问题，入门产品提供步骤或演示，实操服务围绕真实材料完成可检查的成果；课前收集行业、现有做法和卡点，再据此组织内容。"
+        },
+        {
+          "title": "从做过的服务中提炼可复用产品",
+          "text": "先解决一个明确的重复任务，再把反复使用的步骤、模板和检查要求打包；按一次教学、持续维护或定制项目分别说明范围，避免只有价格变化而交付含糊。"
+        }
+      ],
+      "sourceUrl": "https://x.com/miles_mazy/status/2104747960542343395",
+      "checkedAt": "2026-10-25",
+      "note": "AI 辅助独立提炼作者的方法与论述，并逐项对照已读正文。"
+    },
+    "presentation": {
+      "cover": "./assets/articles/miles-ai-content-training-service-business-cover.jpg",
+      "avatar": "./assets/articles/miles-ai-content-training-service-business-avatar.jpg",
+      "deck": "Miles把AI内容经营拆成内容、教学和工具服务三条路径，结合X选题、主页、评论私信与课程场景，具体说明怎样识别不同需求并安排后续交付。",
+      "coverWidth": 1200,
+      "coverHeight": 480,
+      "coverKind": "article-cover",
+      "coverAlt": "AI变现的三个方式 · 原文封面",
+      "mediaCredit": "Miles Ma",
+      "mediaSource": "https://x.com/miles_mazy/status/2104747960542343395",
+      "provenance": "由已核对原帖和作者的 Article 元数据取得原文封面及作者头像，保留来源文件。",
+      "coverOriginalUrl": "https://pbs.twimg.com/media/HTUcsnlbMAE4QDH.jpg",
+      "avatarOriginalUrl": "https://pbs.twimg.com/profile_images/2087768614258798592/qUW6d1cZ_200x200.jpg",
+      "mediaCheckedAt": "2026-10-25"
+    },
+    "socialSnapshot": {
+      "likes": 394,
+      "bookmarks": 597,
+      "replies": 87,
+      "capturedAt": "2026-10-26T06:47:09.222682+00:00",
+      "provider": "FxTwitter",
+      "sourceUrl": "https://x.com/miles_mazy/status/2104747960542343395",
+      "evidence": "读取原帖公开元数据时的快照，不实时更新。"
+    }
   }
 ]

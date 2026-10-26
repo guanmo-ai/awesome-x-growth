@@ -166,6 +166,13 @@
           "yunbiyun-learning-through-explanation",
           "jessi-topic-hook-content-review-models"
         ]
+      },
+      {
+        "title": "从固定来源、反复提问和可验证条件安排选题",
+        "body": "Ryan将新案例、赛道讨论与账号反馈接成选题卡，先研究和实际执行，再按读者需要整理步骤、证据或案例记录；主选题还要符合当天能验证的条件。",
+        "sourceIds": [
+          "ryan-muse-x-topic-research-workflow"
+        ]
       }
     ],
     "limitation": "本站 AI 辅助归纳。案例成绩为作者自述；既有经验、资源和投入不同，不能把个人路径当作统一增长公式。具体练习需根据自己的反馈调整。"
@@ -253,6 +260,22 @@
         "sourceIds": [
           "yunbiyun-content-production-cost-decisions",
           "yunbiyun-content-demand-trust-income"
+        ]
+      },
+      {
+        "title": "分别看平台奖励与产品服务收入",
+        "body": "Kin按问题拆开奖励申请、原创内容与其他收入路径；Miles则从评论和课堂里的具体需求，讨论怎样接到课程、工具及服务。两篇分别从平台收入与自有交付观察账号经营。",
+        "sourceIds": [
+          "kin-original-content-rewards-qa",
+          "miles-ai-content-training-service-business"
+        ]
+      },
+      {
+        "title": "把数字产品与后续服务写成可检查的交付",
+        "body": "超级峰区分技能商品、适配、组合交付与教学服务，要求说明输入、结果、限制和维护成本；Miles把不同需求接到不同层次的教学和业务成果，交付范围随服务内容说明。",
+        "sourceIds": [
+          "mileson-workbuddy-skill-business",
+          "miles-ai-content-training-service-business"
         ]
       }
     ],
@@ -573,6 +596,23 @@
           "yunbiyun-learning-through-explanation",
           "jessi-topic-hook-content-review-models"
         ]
+      },
+      {
+        "title": "把选题研究与可交付的产品接起来",
+        "body": "Ryan先用近期反馈与可验证条件选题并留下实操记录；超级峰和Miles分别讨论数字技能与教学服务的输入、成果、试用反馈和维护成本，让内容与产品各有明确任务。",
+        "sourceIds": [
+          "ryan-muse-x-topic-research-workflow",
+          "mileson-workbuddy-skill-business",
+          "miles-ai-content-training-service-business"
+        ]
+      },
+      {
+        "title": "将规则问题与个人事件放回各自的记录",
+        "body": "Kin用问答区分奖励申请、原创发布和收入路径；爆裂队长NEXT则记录回复异常与请求复核的个人过程。两篇分别帮助读者辨认自己面对的是规则查询、日常内容安排还是一次具体异常。",
+        "sourceIds": [
+          "kin-original-content-rewards-qa",
+          "thinkszyg-x-account-restriction-review"
+        ]
       }
     ],
     "limitation": "这是一组有限来源的跨文归纳，覆盖当前收录范围；并非全网穷尽研究、受控增长实验或收益预测。部分来源仅读取已注明的章节或线程片段，细节见各条目。"
@@ -642,6 +682,13 @@
         "body": "云比云把总量之外的阅读、互动、关注和回访拆开观察，选一个薄弱环节连续测试，再用系列与主页接续新读者；相关方法须按自身内容反馈调整。",
         "sourceIds": [
           "yunbiyun-growth-plateau-experiments"
+        ]
+      },
+      {
+        "title": "把异常经过留成记录，再回看处理步骤",
+        "body": "爆裂队长NEXT记录重新经营账号后的回复可见性异常、临时标签和复核沟通，分开说明操作经过、可见症状与处理结果；一次个人经历不能直接推出固定的触发或恢复规律。",
+        "sourceIds": [
+          "thinkszyg-x-account-restriction-review"
         ]
       }
     ],
